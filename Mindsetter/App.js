@@ -1,7 +1,8 @@
 import React, { Component } from 'react';
 import { Platform, StyleSheet, Text, View, StatusBar } from 'react-native';
 
-import Login from './Screens/Login'
+import Login from './Screens/Login';
+import LetterOfCommitment from './Screens/LetterOfCommitment';
 
 //import Home from './Screens/HomeScreen'
 /*
@@ -12,7 +13,7 @@ export default function() {
   );
 }
 */
-export default class App extends Component<{}> {
+export default class App extends React.Component<{}> {
   render() {
     return (
       <View style={styles.container}>
@@ -20,7 +21,7 @@ export default class App extends Component<{}> {
           backgroundColor="#1c313a"
           barStyle="light-content"
         />
-        <Login/>
+        <LetterOfCommitment/>
       </View>
     );
   }
