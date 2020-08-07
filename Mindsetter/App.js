@@ -1,12 +1,37 @@
 import React from 'react';
 import { SafeAreaView, StyleSheet, Text, View, StatusBar, Dimensions } from 'react-native';
 
-<<<<<<< HEAD
-<<<<<<< HEAD
-import BackgroundHeader from './components/BackgroundHeader';
-import BottomTab from './components/BottomTab';
-import { ScrollView } from 'react-native-gesture-handler';
-import ProfileScreen from './Screens/ProfileScreen';
+//import BackgroundHeader from './components/BackgroundHeader';
+//import BottomTab from './components/BottomTab';
+//import { ScrollView } from 'react-native-gesture-handler';
+//import ProfileScreen from './Screens/ProfileScreen';
+//import Register from './Screens/Register';
+import Goal from './Screens/Goal';
+
+/*
+export default function() {
+  return(
+    <Register />    
+  )
+}
+*/
+export default function() {
+  return(
+    <Goal />    
+  )
+}
+
+
+const styles = StyleSheet.create({
+  container: {
+    flex: 1,
+    backgroundColor: '#fff',
+    alignItems: 'center',
+    justifyContent: 'center'
+  },
+ }
+);
+
 /*
 import Login from './Screens/Login'
 import LetterOfCommitment from './Screens/LetterOfCommitment'
@@ -22,18 +47,16 @@ import HomeArticle from './Screens/HomeScreenArticle'
 import Login from './Screens/Login'
 >>>>>>> bfe0f95a5bf13dae6b6a60b3dd5b65045e861666
 >>>>>>> 6cae52c4c887b9ac2ac98ece0272fa33a776f499
-
-
 export default function() {
   return (
     <HomeArticle />
   );
 }
 <<<<<<< HEAD
-
 export default class App extends Component<{}> {
 =======
 */
+/*
 export default class App extends React.Component<{}> {
 >>>>>>> nadira
   render() {
@@ -49,6 +72,8 @@ export default class App extends React.Component<{}> {
   }
 }
 */
+
+/*
 const App = () => {
   return(
     <>
@@ -82,3 +107,4 @@ const styles = StyleSheet.create({
 });
   
 export default App;
+*/
