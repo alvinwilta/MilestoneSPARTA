@@ -1,11 +1,12 @@
 import React from 'react';
 import { StyleSheet, Text, View } from 'react-native';
 
-import Home from './Screens/HomeScreen'
+import HomeVideo from './Screens/HomeScreenVideo'
+import HomeArticle from './Screens/HomeScreenArticle'
 
 export default function App() {
   return (
-    <Home />
+    <HomeArticle />
   );
 }
 
