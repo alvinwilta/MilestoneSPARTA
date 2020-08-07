@@ -1,0 +1,28 @@
+{
+    "items":[
+      {
+        "id": 0,
+        "title" : "Learn React Navigation",
+        "shortDesc" : "Install react native and dependencies",
+        "tagTitle" : "Education",
+        "tagColor" : "#CF4343",
+        "time" : "8.00 AM"
+      },
+      {
+        "id": 1,
+        "title" : "Jogging for 30 Minutes",
+        "shortDesc" : "Things to prepare: 1L of drinking water",
+        "tagTitle" : "Sport",
+        "tagColor" : "#43CF5A",
+        "time" : "4.00 PM"
+      },
+      {
+        "id": 2,
+        "title" : "Practice New Song",
+        "shortDesc" : "Before You Go by Lewis Capaldi",
+        "tagTitle" : "Hobby",
+        "tagColor" : "#7043CF",
+        "time" : "7.00 PM"
+      }
+    ]
+  }

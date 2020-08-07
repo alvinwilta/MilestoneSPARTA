@@ -1,0 +1,25 @@
+{
+    "items":[
+      {
+        "id": 0,
+        "title" : "Developing a Growth Mindset with Carol Dweck",
+        "time" : "9:38",
+        "url" : "https://youtu.be/hiiEeMN7vbQ",
+        "thumbnail" : "https://i.ytimg.com/vi/hiiEeMN7vbQ/maxresdefault.jpg"
+      },
+      {
+        "id": 1,
+        "title" : "Growth Mindset vs. Fixed Mindset",
+        "time" : "5:04",
+        "url" : "https://youtu.be/KUWn_TJTrnU",
+        "thumbnail" : "https://i.ytimg.com/vi/KUWn_TJTrnU/maxresdefault.jpg"
+      },
+      {
+        "id": 2,
+        "title" : "The Perfectionist Trap",
+        "time" : "3:48",
+        "url" : "https://youtu.be/BY6bGhcnDDs",
+        "thumbnail" : "https://i.ytimg.com/vi/BY6bGhcnDDs/maxresdefault.jpg"
+      }
+    ]
+}
