@@ -1,6 +1,7 @@
 import React from 'react';
 import { SafeAreaView, StyleSheet, Text, View, StatusBar, Dimensions } from 'react-native';
 
+<<<<<<< HEAD
 import BackgroundHeader from './components/BackgroundHeader';
 import BottomTab from './components/BottomTab';
 import { ScrollView } from 'react-native-gesture-handler';
@@ -9,6 +10,10 @@ import ProfileScreen from './Screens/ProfileScreen';
 import Login from './Screens/Login'
 import LetterOfCommitment from './Screens/LetterOfCommitment'
 import Home from './Screens/HomeScreen'
+=======
+import Login from './Screens/Login';
+import LetterOfCommitment from './Screens/LetterOfCommitment';
+>>>>>>> nadira
 
 
 export default function() {
@@ -16,8 +21,13 @@ export default function() {
     <Home />
   );
 }
+<<<<<<< HEAD
 
 export default class App extends Component<{}> {
+=======
+*/
+export default class App extends React.Component<{}> {
+>>>>>>> nadira
   render() {
     return (
       <View style={styles.container}>

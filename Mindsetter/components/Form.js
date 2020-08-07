@@ -3,7 +3,7 @@ import { StyleSheet, Text, View, TextInput, TouchableOpacity } from 'react-nativ
 //import { RevealFromBottomAndroid } from 'react-navigation-stack/lib/typescript/src/vendor/TransitionConfigs/TransitionPresets';
 //import { TextInput } from 'react-native-gesture-handler';
 
-export default class Logo extends Component<{}> {
+export default class Logo extends React.Component<{}> {
     render(){
         return(
             <View style={styles.container}> 
