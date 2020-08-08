@@ -49,13 +49,13 @@ export default class App extends Component {
                         </TouchableOpacity>
                     </View>
                     <View style={styles.taskBox}>
-                        <TouchableOpacity style={{marginBottom:45}}>
+                        <TouchableOpacity style={{marginBottom:45, marginLeft:20, marginRight:20}}>
                             <Icon2 name="checkbox-blank-circle-outline" size={24} color="#2C94A6" />
                         </TouchableOpacity>
-                        <View style={styles.taskBoxTitle}> 
+                        <View style={{width:215}}> 
                             <Text style={{fontFamily:'Roboto', fontSize:16, fontWeight:"bold",color:"black" }}>{taskData[0].title}</Text>
                             <Text style={{fontFamily:'Roboto', fontSize:12, fontWeight:"300",color:"black", marginTop:5 }}>{taskData[0].shortDesc}</Text>
-                            <Text style={{fontFamily:'Roboto', fontSize:11, fontWeight:"bold",color:"white", backgroundColor:"#CF4343", borderRadius:10,height:20, width:90, textAlign:'center', marginTop:10 }}>{taskData[0].tagTitle}</Text>
+                            <Text style={{fontFamily:'Roboto', fontSize:11, fontWeight:"bold",color:"white", backgroundColor:"#2C94A6", borderRadius:10,height:20, width:90, textAlign:'center', marginTop:10 }}>{taskData[0].tagTitle}</Text>
                         </View>
                         <View style={styles.time}>
                             <Text style={{fontFamily:'Roboto', fontSize:11, fontWeight:"bold",color:"black", color:"#2C94A6" }}>{taskData[0].time}</Text>
@@ -63,13 +63,13 @@ export default class App extends Component {
                         </View>                    
                     </View>
                     <View style={styles.taskBox}>
-                        <TouchableOpacity style={{marginBottom:45}}>
+                        <TouchableOpacity style={{marginBottom:45, marginLeft:20, marginRight:20}}>
                             <Icon2 name="checkbox-blank-circle-outline" size={24} color="#2C94A6" />
                         </TouchableOpacity>
-                        <View style={styles.taskBoxTitle}> 
+                        <View style={{width:215}}> 
                             <Text style={{fontFamily:'Roboto', fontSize:16, fontWeight:"bold",color:"black" }}>{taskData[1].title}</Text>
                             <Text style={{fontFamily:'Roboto', fontSize:12, fontWeight:"300",color:"black", marginTop:5 }}>{taskData[1].shortDesc}</Text>
-                            <Text style={{fontFamily:'Roboto', fontSize:11, fontWeight:"bold",color:"white", backgroundColor:"#43CF5A", borderRadius:10,height:20, width:90, textAlign:'center', marginTop:10 }}>{taskData[1].tagTitle}</Text>
+                            <Text style={{fontFamily:'Roboto', fontSize:11, fontWeight:"bold",color:"white", backgroundColor:"#2C94A6", borderRadius:10,height:20, width:90, textAlign:'center', marginTop:10 }}>{taskData[1].tagTitle}</Text>
                         </View>
                         <View style={styles.time}>
                             <Text style={{fontFamily:'Roboto', fontSize:11, fontWeight:"bold",color:"black", color:"#2C94A6" }}>{taskData[1].time}</Text>
@@ -173,7 +173,7 @@ const styles = StyleSheet.create({
         backgroundColor:"#FFFFFF",
         flexDirection:"row",
         alignItems:'center',
-        justifyContent:'space-around',
+        justifyContent:'flex-start',
         elevation:6,
         borderRadius:15,
         marginBottom:20
