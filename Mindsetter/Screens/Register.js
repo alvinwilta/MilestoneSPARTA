@@ -15,16 +15,16 @@ export default class App extends Component {
 
                 <TextInput style={styles.textinput} placeholder="Name"/>
                 <TextInput style={styles.textinput} placeholder="Email"/>
-                <TextInput style={styles.textinput} placeholder="Password"/>
-                <TextInput style={styles.textinput} placeholder="Confirm Password"/>
+                <TextInput style={styles.textinput} placeholder="Password" secureTextEntry={true}/> 
+                <TextInput style={styles.textinput} placeholder="Confirm Password" secureTextEntry={true}/> 
 
-                <TouchableOpacity style={styles.button}>
+                <TouchableOpacity style={styles.button} onPress={() => this.props.navigation.navigate('Commitment')}> 
                     <Text style={styles.btntext}>Sign up</Text>
                 </TouchableOpacity>
 
                 <View style={styles.add}>
-                    <Text>Already have an account?</Text>
-                    <TouchableOpacity>
+                    <Text style={{textAlign:'center'}}>Already have an account?</Text>
+                    <TouchableOpacity onPress={() => this.props.navigation.navigate('Login')}>
                         <Text style={styles.login}>Log in</Text>
                     </TouchableOpacity>
                 </View>
@@ -42,13 +42,13 @@ const styles = StyleSheet.create({
         backgroundColor:"#2C94A6",
         paddingLeft: 20,
         paddingRight: 20,
-        paddingBottom:100
+        paddingBottom:150
     },
     header: {
         fontSize: 40,
         paddingLeft:10,
         paddingBottom: 40,
-        paddingTop: 120,
+        paddingTop: 150,
         color: "white",
         fontWeight: "bold"
     },

@@ -1,9 +1,8 @@
-import React from 'react';
-import {StyleSheet, Text, View, Image, TouchableOpacity} from 'react-native';
+import React, {Component} from 'react';
+import {StyleSheet, Text, View, Image, TouchableOpacity, ScrollView} from 'react-native';
 import Icon from 'react-native-vector-icons/Fontisto';
-import AntDesign from 'react-native-vector-icons/AntDesign';
-import MaterialIcons from 'react-native-vector-icons/MaterialIcons';
-import LinearGradient from 'react-native-linear-gradient';
+import Icons from 'react-native-vector-icons/MaterialIcons';
+import Ionicon from 'react-native-vector-icons/Ionicons';
 
 const Face = ({icon, title, color, full}) => {
   return (
@@ -28,7 +27,7 @@ export const CardHome = ({title, info, noHeader}) => {
       {!noHeader && (
         <View style={styles.cardHeaderContaner}>
           <Text style={styles.cardHeading}>{title}</Text>
-          <Text style={styles.cardMore}>See All</Text>
+          <Text style={styles.cardMore} >See All</Text>
         </View>
       )}
       
@@ -50,72 +49,90 @@ export const CardHome = ({title, info, noHeader}) => {
   );
 };
 
-const ProfileScreen = () => {
-  return (
-    <View style={styles.container}>
-      <View style={styles.headerContainer}>
-        <Text style={styles.heading}>Hi John Doe</Text>
-        <Text style={styles.desc}>My Account</Text>
+export default class Login extends Component  {
+  render(){
+    return (
+      <View style={styles.container}>
+        <View style={styles.headerContainer}>
+          <Text style={styles.heading}>Hi Natasha</Text>
+          <Text style={styles.desc}>My Account</Text>
+        </View>
+        <ScrollView>
+          <View style={ styles.cardWhite}>
+              <CardHome
+              title="Bio"
+              info={{
+                  name: 'An unknown person with an anknown name. It`s like lorem ipsum for user. ',
+              }}
+              /> 
+          </View>
+          <View style={ styles.cardBody}> 
+              <CardHome
+              title="Letter Of Commitment"
+              info={{
+                  name: 'You haven`t write your letter of Commitment',
+                  
+                  tag: 'It`s a great way to keep you in track',
+              }}
+              /> 
+          </View>
+          <View style={ styles.cardPurple}>
+              <CardHome
+              title="Weekly Progress"
+              info={{
+                  name: '1 of 2 ',
+                  time: ' You have read ',
+                  address: 'articles'
+                  
+              }}
+              />
+          </View>
+          <View style={ styles.cardTosca}>
+              <CardHome
+              title="Articles Read"
+              info={{
+                  name: ' 20 ',
+                  time: 'You Have read ',
+                  address: 'Articles so far',
+                  tag: 'Keep up the good work',
+              }}
+              />
+          </View>
+          <View style={ styles.cardGreen}> 
+              <CardHome
+              title="Goals Completed"
+              info={{
+                  name: '80 ',
+                  time: 'You have completed ',
+                  address: 'percent of your goals',
+                  tag: 'Keep up the good work',
+              }}
+              />
+          </View>
+        </ScrollView >
+        <View style={styles.navBar}>
+                      <TouchableOpacity style={styles.navItem} onPress={() => this.props.navigation.navigate('HomeArticle')}>
+                          <Icons name="home" size={25} color="#7E8485"/>
+                          <Text style={{color:"#7E8485"}}>Home</Text>
+                      </TouchableOpacity>
+                      <TouchableOpacity style={styles.navItem} onPress={() => this.props.navigation.navigate('Task')}>
+                          <Ionicon name="ios-create" size={25} color="#7E8485"/>
+                          <Text style={{color:"#7E8485"}}>Task</Text>
+                      </TouchableOpacity>
+                      <TouchableOpacity style={styles.navItem} onPress={() => this.props.navigation.navigate('Goal')}>
+                          <Ionicon name="ios-navigate" size={25} color="#7E8485"/>
+                          <Text style={{color:"#7E8485"}}>Goals</Text>
+                      </TouchableOpacity>
+                      <TouchableOpacity style={styles.navItem} onPress={() => this.props.navigation.navigate('ProfileScreen')}>
+                          <Ionicon name="md-person" size={25} color="#2C94A6"/>
+                          <Text style={{color:"#2C94A6"}}>Profile</Text>
+                      </TouchableOpacity>
+          </View>
       </View>
-      <View>
-        <View style={ styles.cardWhite}>
-            <CardHome
-            title="Bio"
-            info={{
-                name: 'An unknown person with an anknown name. It`s like lorem ipsum for user. ',
-            }}
-            /> 
-        </View>
-        <View style={ styles.cardBody}> 
-            <CardHome
-            title="Letter Of Commitment"
-            info={{
-                name: 'You haven`t write your letter of Commitment',
-                
-                tag: 'It`s a great way to keep you in track',
-            }}
-            /> 
-        </View>
-        <View style={ styles.cardPurple}>
-            <CardHome
-            title="Weekly Progress"
-            info={{
-                name: '1 of 2 ',
-                time: ' You have read ',
-                address: 'articles'
-                
-            }}
-            />
-        </View>
-        <View style={ styles.cardTosca}>
-            <CardHome
-            title="Articles Read"
-            info={{
-                name: ' 20 ',
-                time: 'You Have read ',
-                address: 'Articles so far',
-                tag: 'Keep up the good work',
-            }}
-            />
-        </View>
-        <View style={ styles.cardGreen}> 
-            <CardHome
-            title="Goals Completed"
-            info={{
-                name: '80 ',
-                time: 'You have completed ',
-                address: 'percent of your goals',
-                tag: 'Keep up the good work',
-            }}
-            />
-        </View>
-       
-      </View>
-    </View>
-  );
-};
+    );
+  };
+  }
 
-export default ProfileScreen;
 
 const styles = StyleSheet.create({
   rating: {
@@ -310,5 +327,24 @@ const styles = StyleSheet.create({
     fontSize: 14,
     fontWeight: 'bold',
     color: '#fff',
+  },
+  navBar : {
+    backgroundColor: 'white',
+    height: 60,
+    width:365,
+    borderTopWidth: 0.5,
+    borderColor: '#E5E5E5',
+    flexDirection: 'row',
+    justifyContent: 'space-around',
+    elevation:10,
+    borderRadius:15,
+    position: 'absolute',
+    bottom:0,
+    marginLeft:20
+  },
+  navItem : {
+      flexDirection:"column",
+      justifyContent:"center",
+      alignItems:'center'
   },
 });

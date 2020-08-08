@@ -1,53 +1,16 @@
 import React, { Component } from 'react';
-import {StyleSheet, Text, View, TouchableOpacity, FlatList} from 'react-native';
+import { useState } from 'react';
+import {StyleSheet, Text, View, Image, TouchableOpacity, FlatList} from 'react-native';
 import Icon from 'react-native-vector-icons/MaterialIcons';
 import Ionicon from 'react-native-vector-icons/Ionicons';
 import Icon2 from 'react-native-vector-icons/MaterialCommunityIcons'
-import task from '../assets/task.json'
 import diary from '../assets/diary.json'
 
-class TaskItem extends Component {
-    render(){
-        let task = this.props.task;
-        return(
-                <View style={styles.taskBox}>
-                    <TouchableOpacity style={{marginBottom:45, marginLeft:20, marginRight:20}}>
-                        <Icon2 name="checkbox-blank-circle-outline" size={24} color="#2C94A6" />
-                    </TouchableOpacity>
-                    <View style={{width:215}}> 
-                        <Text style={{fontFamily:'Roboto', fontSize:16, fontWeight:"bold",color:"black" }}>{task.title}</Text>
-                        <Text style={{fontFamily:'Roboto', fontSize:12, fontWeight:"300",color:"black", marginTop:5 }}>{task.shortDesc}</Text>
-                        <Text style={{fontFamily:'Roboto', fontSize:11, fontWeight:"bold",color:"white", backgroundColor:"#2C94A6", borderRadius:10,height:20, width:90, textAlign:'center', marginTop:10 }}>{task.tagTitle}</Text>
-                    </View>
-                    <View>
-                        <View style={styles.time}>
-                            <Text style={{fontFamily:'Roboto', fontSize:11, fontWeight:"bold",color:"black", color:"#2C94A6" }}>{task.time}</Text>
-                            <Icon name="date-range" size={18} color="#2C94A6" />
-                        </View>
-                        <TouchableOpacity onPress={()=>this.props.navigation.navigate("TaskDetail", {id: task.id})}>
-                            <Text style={{fontFamily:'Roboto', fontSize:12, fontWeight:"bold",color:"#2C94A6" }}>View Details</Text>
-                        </TouchableOpacity>
-                    </View>                    
-                </View>
-        )
-    }
-};
 
-class DiaryItem extends Component {
+export default class Detail extends Component  {
     render(){
-        let diary = this.props.diary;
-        return(
-            <TouchableOpacity style={styles.diaryBox} onPress={()=>this.props.navigation.navigate("DiaryDetail", {id: diary.id})}>
-                <Text style={{fontFamily:'Roboto', fontSize:14, fontWeight:"bold",color:"#000000", marginRight:30, marginLeft:20, width:200}}>{diary.title}</Text>
-                <Text style={{fontFamily:'Roboto', fontSize:11, fontWeight:"bold",color:"white", backgroundColor:"#2C94A6", borderRadius:10,height:20, width:90, textAlign:'center'}}>{diary.tagTitle}</Text>
-            </TouchableOpacity>  
-        )
-    }
-}
-
-export default class App extends Component {
-    render() {
-        return (
+        let id = parseInt(this.props.route.params.id);
+    return (
             <View style={styles.container}>
                 <View style={styles.topBar}>
                     <View style={styles.monthBar}>
@@ -92,31 +55,23 @@ export default class App extends Component {
                         </TouchableOpacity>
                     </View>
                 </View>
-                <View style={styles.taskList}>
-                    <View style={styles.taskTitle}>
-                        <Text style={{fontFamily:'Roboto', fontSize:18, fontWeight:"bold",color:"#2C94A6", marginRight:250, marginLeft:10}}>Tasks</Text>
-                        <TouchableOpacity  onPress={() => this.props.navigation.navigate('AddTask')}>
-                            <Ionicon name="md-add-circle" size={32} color="#F9AC40"/>
+                <View style={styles.taskBox}>
+                    <View style={styles.taskBoxTopBar}>
+                        <TouchableOpacity style={{marginLeft:20}} onPress={() => this.props.navigation.goBack()}>
+                            <Icon2 name="arrow-left" size={25} color="#2C94A6" />
                         </TouchableOpacity>
+                        <Text style={{fontFamily:'Roboto', fontSize:20, fontWeight:"bold",color:"#2C94A6", marginLeft:70 }}>Diary Details</Text>
+                        <TouchableOpacity style={{marginLeft:70}}>
+                            <Icon name="create" size={25} color="#2C94A6" />
+                        </TouchableOpacity>                    
                     </View>
-                    <FlatList
-                        data={task.items}
-                        renderItem={(task) => <TaskItem task={task.item}  navigation={this.props.navigation}/>}
-                        keyExtractor={(item) =>item.id}
-                        />
-                </View>
-                <View style={styles.diaryList}>
-                    <View style={styles.diaryTitle}>
-                        <Text style={{fontFamily:'Roboto', fontSize:18, fontWeight:"bold",color:"#2C94A6", marginRight:250, marginLeft:10}}>Diary</Text>
-                        <TouchableOpacity onPress={() => this.props.navigation.navigate('AddDiary')}>
-                            <Ionicon name="md-add-circle" size={32} color="#F9AC40"/>
-                        </TouchableOpacity>
+                    <View style={styles.taskBoxBody}>
+                        <View style={{width:330}}> 
+                            <Text style={{fontFamily:'Roboto', fontSize:18, fontWeight:"bold",color:"black", textAlign:'center' }}>{diary.items[id].title}</Text>
+                            <Text style={{fontFamily:'Roboto', fontSize:12, fontWeight:"300",color:"black", marginTop:10, marginLeft:20 }}>{diary.items[id].desc}</Text>
+                            <Text style={{fontFamily:'Roboto', fontSize:11, fontWeight:"bold",color:"white", backgroundColor:"#2C94A6", borderRadius:10,height:20, width:90, textAlign:'center', marginTop:20, marginLeft:15}}>{diary.items[id].tagTitle}</Text>
+                        </View>                      
                     </View>
-                    <FlatList
-                        data={diary.items}
-                        renderItem={(diary) => <DiaryItem diary={diary.item} navigation={this.props.navigation}/>}
-                        keyExtractor={(item) =>item.id}
-                    />                 
                 </View>
                 <View style={styles.navBar}>
                     <TouchableOpacity style={styles.navItem} onPress={() => this.props.navigation.navigate('HomeArticle')}>
@@ -185,49 +140,30 @@ const styles = StyleSheet.create({
         alignItems:'center',
         marginTop:24
     },
-    taskList: {
-        height:400
-    },
-    taskBox:{
+    taskBox : {
+        flexDirection:'column',
         width:356,
-        height:96,
-        backgroundColor:"#FFFFFF",
-        flexDirection:"row",
-        alignItems:'center',
+        height:500,
+        elevation:2,
+        marginTop:50,
         justifyContent:'flex-start',
-        elevation:6,
-        borderRadius:15,
-        marginBottom:20
+        alignItems:'flex-start',
+        backgroundColor:'#FFFFFF',
+        borderRadius:15
+    },
+    taskBoxTopBar:{
+        flexDirection:'row',
+        justifyContent:'flex-start',
+        alignItems:'center',
+        marginTop:20
+    } ,
+    taskBoxBody: {
+        flexDirection:'row',
+        marginTop:30
     },
     time : {
         flexDirection: "row",
         marginBottom:30,
-    },
-    taskTitle: {
-        flexDirection:'row',
-        justifyContent: 'flex-start',
-        alignItems:'center',
-        marginTop:20,
-        marginBottom:10
-    },
-    diaryTitle : {
-        flexDirection:'row',
-        justifyContent: 'flex-start',
-        alignItems:'center',
-        marginTop:20,
-        marginBottom:10
-    },
-    diaryBox:{
-        width:356,
-        height:56,
-        backgroundColor:"#FFFFFF",
-        flexDirection:"row",
-        alignItems:'center',
-        justifyContent:'flex-start',
-        elevation:6,
-        borderRadius:15,
-        marginBottom:20
     }
 
- }
-)
+})

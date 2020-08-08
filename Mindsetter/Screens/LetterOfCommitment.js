@@ -5,7 +5,7 @@ export default class Logo extends React.Component<{}> {
     render(){
         return(
             <View style={styles.container}> 
-                <Text style={styles.add}>Letter Of Commitment</Text>
+                <Text style={styles.dear}>Letter Of Commitment</Text>
                 <Text style={styles.dear}>Dear My Future Self,</Text>
                 <TextInput style={styles.inputBox}
                     placeholder="Write your Commitment Here.."
@@ -13,7 +13,7 @@ export default class Logo extends React.Component<{}> {
                     underlineColorAndroid={'transparent'} 
                     placeholderTextColor = '#000000'   
                 />
-                <TouchableOpacity style={styles.button}>
+                <TouchableOpacity style={styles.button} onPress={() => this.props.navigation.navigate('HomeArticle')}>
                     <Text style={styles.buttonText}>Submit</Text>
                 </TouchableOpacity>
             </View>
@@ -57,12 +57,9 @@ const styles = StyleSheet.create({
     dear: {
         color: 'rgba(0,0,0,0.6)',
         fontWeight: 'bold',
-        fontSize: 30
-    },
-    add: {
-       color: '#ffffff',
-       fontWeight: 'normal',
-       fontSize: 40 
+        fontSize: 30,
+        marginTop:20
+    
     }
     
   });

@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import { Platform, StyleSheet, Text, View, Image } from 'react-native';
 
-export default class Logo extends React.Component<{}> {
+export default class Logo extends Component {
     render(){
         return(
             <View style={styles.container}> 
@@ -20,12 +20,11 @@ const styles = StyleSheet.create({
     },
     logoText : {
         marginVertical: 10,
-        fontSize:40,
+        fontSize:30,
         color:'rgba(255, 255, 255, 1)',
-        paddingLeft: 20,
-        paddingBottom: 0,
         paddingTop: 10,
-        fontWeight: 'bold'
+        fontWeight: 'bold',
+        textAlign:'center'
 
     }
   });

@@ -44,7 +44,7 @@ export default class App extends Component {
                 <View style={styles.taskBar}>
                     <View style={styles.taskTitle}>
                         <Text style={{fontFamily:'Roboto', fontSize:22, fontWeight:"bold",color:"#2C94A6", marginRight:150 }}>Current Tasks</Text>
-                        <TouchableOpacity>
+                        <TouchableOpacity  onPress={() => this.props.navigation.navigate('Task')} >
                             <Text style={{fontFamily:'Roboto', fontSize:16, fontWeight:"bold",color:"#7E8485" }}>View all</Text>
                         </TouchableOpacity>
                     </View>
@@ -79,7 +79,7 @@ export default class App extends Component {
                 </View>
                 <View style={styles.articleVideoBar}>
                     <View style={styles.articleVideoTitle}>
-                        <TouchableOpacity style={{alignItems:'center', marginRight:125}}>
+                        <TouchableOpacity style={{alignItems:'center', marginRight:125}}  onPress={() => this.props.navigation.navigate('HomeArticle')}>
                             <Text style={{fontFamily:'Roboto', fontSize:18, fontWeight:"bold",color:"#2C94A6" }}>Articles</Text>
                         </TouchableOpacity>
                         <TouchableOpacity style={{alignItems:'center'}}>
@@ -94,19 +94,19 @@ export default class App extends Component {
                         />
                 </View>    
                 <View style={styles.navBar}>
-                    <TouchableOpacity style={styles.navItem}>
+                    <TouchableOpacity style={styles.navItem} onPress={() => this.props.navigation.navigate('HomeArticle')}>
                         <Icon name="home" size={25} color="#2C94A6"/>
                         <Text style={{color:"#2C94A6"}}>Home</Text>
                     </TouchableOpacity>
-                    <TouchableOpacity style={styles.navItem}>
+                    <TouchableOpacity style={styles.navItem} onPress={() => this.props.navigation.navigate('Task')}>
                         <Ionicon name="ios-create" size={25} color="#7E8485"/>
                         <Text style={{color:"#7E8485"}}>Task</Text>
                     </TouchableOpacity>
-                    <TouchableOpacity style={styles.navItem}>
+                    <TouchableOpacity style={styles.navItem} onPress={() => this.props.navigation.navigate('Goal')}>
                         <Ionicon name="ios-navigate" size={25} color="#7E8485"/>
                         <Text style={{color:"#7E8485"}}>Goals</Text>
                     </TouchableOpacity>
-                    <TouchableOpacity style={styles.navItem} >
+                    <TouchableOpacity style={styles.navItem} onPress={() => this.props.navigation.navigate('ProfileScreen')}>
                         <Ionicon name="md-person" size={25} color="#7E8485"/>
                         <Text style={{color:"#7E8485"}}>Profile</Text>
                     </TouchableOpacity>

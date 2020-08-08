@@ -4,6 +4,7 @@
         "id": "0",
         "title" : "Learn React Navigation",
         "shortDesc" : "Install react native and dependencies",
+        "desc" : "Install react native and dependencies,Install react navigation stack screen, bottom-tab, drawer,Learn authentication flows, make a signup navigation with authenthication flows, watch videos about react navigation at youtube",
         "tagTitle" : "Education",
         "tagColor" : "#CF4343",
         "time" : "8.00 AM"
@@ -12,6 +13,7 @@
         "id": "1",
         "title" : "Jogging for 30 Minutes",
         "shortDesc" : "Things to prepare: 1L of drinking water",
+        "desc" : "Things to prepare: 1L of drinking water, towel. Stretching, jumping and other mild exercises should be performed 5 to 10 minutes prior to a jog ",
         "tagTitle" : "Sport",
         "tagColor" : "#43CF5A",
         "time" : "4.00 PM"
@@ -20,6 +22,7 @@
         "id": "2",
         "title" : "Practice New Song",
         "shortDesc" : "Before You Go by Lewis Capaldi",
+        "desc":"Before You Go by Lewis Capaldi. Search the chords, pratices daily",
         "tagTitle" : "Hobby",
         "tagColor" : "#7043CF",
         "time" : "7.00 PM"
