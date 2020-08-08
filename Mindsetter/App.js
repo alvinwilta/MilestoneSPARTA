@@ -1,22 +1,26 @@
-import React, { Component } from 'react';
-import { Platform, StyleSheet, Text, View, StatusBar } from 'react-native';
+import React from 'react';
+import { SafeAreaView, StyleSheet, Text, View, StatusBar, Dimensions } from 'react-native';
 
-import HomeVideo from './Screens/HomeScreenVideo'
-import HomeArticle from './Screens/HomeScreenArticle'
-import Login from './Screens/Login'
-import Task from './Screens/TasksScreen'
+import { ScrollView } from 'react-native-gesture-handler';
+import ProfileScreen from './Screens/ProfileScreen';
+import Register from './Screens/Register';
+import Goal from './Screens/Goal';
 
-export default function App() {
-  return (
-    <Task />
-  );
+
+export default function() {
+  return(
+    <Goal />    
+  )
 }
+
+
 const styles = StyleSheet.create({
   container: {
     flex: 1,
-    backgroundColor: '#E2EAEC',
+    backgroundColor: '#fff',
     alignItems: 'center',
-    justifyContent: 'center',
+    justifyContent: 'center'
   },
-});
-  
+ }
+);
+
