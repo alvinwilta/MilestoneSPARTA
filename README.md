@@ -1,11 +1,16 @@
 # MilestoneSPARTA
 Tugas Milestone Mindsetter SPARTA 2019
+
 ini detil app yang akan kami buat:
+
 PEMAPARAN SOLUSI - Minat Belajar
+
 Problem - TL;DR – Minat belajar kurang karena gaada growth mindset.
+
 Minat belajar dari pelajar dan mahasiswa di indonesia masih tergolong kurang sehingga prestasi akademik maupun secara sosial akan berdampak. Akar permasalahannya dari sikap pelajar tersebut yang percaya bahwa kepintaran gabisa dikembangin (padahal bisa). Dan karena inilah dibutuhkan sikap/ pola berpikir untuk berkembang.
 
 Solusi – TL;DR – Membuat aplikasi self improvement dengan fitur seputar mengembangkan growth mindset.
+
 Kaitan: Mengembangkan growth mindset agar meningkatkan karakter belajar dari mahasiswa/pelajar sehingga minat belajar meningkat, mutu belajar naik.
 Target Pengguna : Mahasiswa dan Pelajar (Tidak dibatasi usia)
 Media : Mobile app (app self improvement + planner)
