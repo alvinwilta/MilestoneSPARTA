@@ -22,6 +22,7 @@ Pertimbangan fitur:
 - Accessibility (dark mode, font size, text-to-speech, dll)
 
 Contributor:
+
 K10_B3
 1. Alvin Wilta                 (Project Manager)
 2. Gde Anantha Priharsena      (Frontend)
