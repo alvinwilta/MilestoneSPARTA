@@ -1,8 +1,31 @@
 import React, { Component } from 'react';
 import { Platform, StyleSheet, Text, View, Image, TextInput, TouchableOpacity} from 'react-native';
 
+import * as firebase from 'firebase';
 
 export default class Login extends Component {
+
+    constructor(props){
+        super(props)
+
+        this.state = ({
+            email : '',
+            password : ''
+        })
+    }
+
+    LoginUser = (email, password) =>{
+        try {
+            firebase.auth().signInWithEmailAndPassword(email, password).then(function(user)
+            {console.log(user)
+            })
+        }
+
+        catch(error){
+            console.log(error.toString())
+        }
+    }
+
     render() {
         return(
             <View style={styles.container}> 
@@ -12,15 +35,20 @@ export default class Login extends Component {
                 <TextInput style={styles.inputBox} 
                     underlineColorAndroid={'transparent'} 
                     placeholder="Email"
-                    placeholderTextColor = '#155F69'   
-                    /> 
+                    placeholderTextColor = '#155F69'
+                           onChangeText = {(email) => this.setState({email})}
+                />
                 <TextInput style={styles.inputBox} 
                     underlineColorAndroid='rgba(0,0,0,0)' 
                     placeholder="Password"
                     placeholderTextColor = '#155F69'
-                    secureTextEntry={true} 
+                    secureTextEntry={true}
+                           onChangeText = {(password) => this.setState({password})}
                     /> 
-                <TouchableOpacity style={styles.button} onPress={() => this.props.navigation.navigate('HomeArticle')}>
+                <TouchableOpacity style={styles.button}
+
+                                  onPress={() => {this.LoginUser(this.state.email, this.state.password);
+                                  this.props.navigation.navigate('HomeArticle')}}>
                     <Text style={styles.buttonText}>Log in</Text>
                 </TouchableOpacity>
                 <Text style={styles.add}>Don`t have an account?</Text>

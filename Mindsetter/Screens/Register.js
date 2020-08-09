@@ -1,7 +1,31 @@
 import React, { Component } from 'react';
 import {StyleSheet, Text, View, Image, TouchableOpacity, TextInput } from 'react-native';
-
+import * as firebase from 'firebase';
 export default class App extends Component {
+
+    constructor(props){
+        super(props)
+
+        this.state = ({
+            email : '',
+            password : ''
+        })
+    }
+
+    SignUpUser = (email, password) =>{
+
+        try{
+            if(this.state.password.length < 6){
+                alert("Please enter at least 8 characters")
+                return;
+            }
+            firebase.auth().createUserWithEmailAndPassword(email, password)
+        }
+        catch(error){
+            console.log(error.toString())
+        }
+    }
+
     render() {
         return (
             <View style={styles.container}>
@@ -14,11 +38,17 @@ export default class App extends Component {
                 <Text style={styles.or}>or</Text>
 
                 <TextInput style={styles.textinput} placeholder="Name"/>
-                <TextInput style={styles.textinput} placeholder="Email"/>
-                <TextInput style={styles.textinput} placeholder="Password" secureTextEntry={true}/> 
+                <TextInput style={styles.textinput} placeholder="Email"
+                           onChangeText = {(email) => this.setState({email})}
+                />
+                <TextInput style={styles.textinput} placeholder="Password" secureTextEntry={true}
+                           onChangeText = {(password) => this.setState({password})}
+                />
                 <TextInput style={styles.textinput} placeholder="Confirm Password" secureTextEntry={true}/> 
 
-                <TouchableOpacity style={styles.button} onPress={() => this.props.navigation.navigate('Commitment')}> 
+                <TouchableOpacity style={styles.button}
+                                  onPress={() => {this.SignUpUser(this.state.email, this.state.password);
+                                  this.props.navigation.navigate('Commitment')}}>
                     <Text style={styles.btntext}>Sign up</Text>
                 </TouchableOpacity>
 

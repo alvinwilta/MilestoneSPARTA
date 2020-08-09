@@ -17,6 +17,21 @@ import AddDiary from './Screens/AddDiary'
 import Goal from './Screens/Goal';
 import ProfileScreen from './Screens/ProfileScreen';
 
+import * as firebase from 'firebase';
+
+var firebaseConfig = {
+  apiKey: "AIzaSyDpYh1agaeZqo67G5QjVOJ24-fuFQXf1v4",
+  authDomain: "mindsetter-c893c.firebaseapp.com",
+  databaseURL: "https://mindsetter-c893c.firebaseio.com",
+  projectId: "mindsetter-c893c",
+  storageBucket: "mindsetter-c893c.appspot.com",
+  messagingSenderId: "906384562227",
+  appId: "1:906384562227:web:51da91f908cf11dd356b46",
+  measurementId: "G-ZQ1YHGCQYN"
+};
+// Initialize Firebase
+firebase.initializeApp(firebaseConfig);
+
 const Stack = createStackNavigator();
 
 export default function App() {

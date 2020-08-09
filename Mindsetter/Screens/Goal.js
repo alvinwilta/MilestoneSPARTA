@@ -5,6 +5,7 @@ import Ionicon from 'react-native-vector-icons/Ionicons';
 import Icon2 from 'react-native-vector-icons/MaterialCommunityIcons'
 
 export default class Goal extends Component {
+
     constructor() {
         super();
     this.state={
