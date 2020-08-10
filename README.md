@@ -1,9 +1,11 @@
 # MilestoneSPARTA
-Tugas Milestone Mindsetter SPARTA 2019
+Tugas Milestone SPARTA 2019
+
+Kelompok 28 (10_3 dan 11_1) - Mindsetter
 
 ini detil app yang akan kami buat:
 
-PEMAPARAN SOLUSI - Minat Belajar
+PEMAPARAN SOLUSI - Memperbaiki Minat Belajar
 
 Problem - TL;DR – Minat belajar kurang karena gaada growth mindset.
 
@@ -41,3 +43,13 @@ K12_B1
 3. Muhammad Naufal Izza Fikry  (Designer)
 4. Jose Galbraith Hasintongan  (Designer)
 5. Christopher Davin Leoputra  (Designer)
+
+
+Cara Menggunakan App:
+1. Melakukan sign-up atau login (jika sudah pernah sign up)
+2. Mengisi Letter of Commitment (Tidak diwajibkan, tetapi disarankan)
+3. Anda akan dibawa pada menu home, di menu home terdapat Current Task dan Articles/Videos, pada menu ini anda bisa melihat dan menyelesaikan task-task yang sudah dibuat sebelumnya, dan Anda juga bisa melihat menu articles/videos untuk melihat materi-materi mengenai growth mindset.
+4. Pada menu selanjutnya yaitu menu Task, Anda dapat menambahkan task baru atau diary baru sesuai dengan tanggal dan waktunya. (Task bersifat long-term dan progresif)
+5. Pada menu selanjutnya yaitu menu Goals, Anda dapat menambahkan goals Anda, yaitu proyek short term atau sejenis to-do-list.
+6. Pada menu selanjutnya yaitu menu Profile, Anda dapat mengedit bio, menuliskan atau melihat kembali letter of commitment, dan melihat statistik penggunaan aplikasi.
+Penggunaan aplikasi ini difokuskan pada fitur melihat materi growth mindset dan fitur login.
