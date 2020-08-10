@@ -20,9 +20,17 @@ export default class Login extends Component {
             {console.log(user)
             })
         }
-
         catch(error){
-            console.log(error.toString())
+            alert(error.code)
+        }
+    }
+
+    valid = (email, password) =>{
+        if( email === "" || email === null || password.length < 8){
+            return false;
+        }
+        else{
+            return true;
         }
     }
 
@@ -48,7 +56,14 @@ export default class Login extends Component {
                 <TouchableOpacity style={styles.button}
 
                                   onPress={() => {this.LoginUser(this.state.email, this.state.password);
-                                  this.props.navigation.navigate('HomeArticle')}}>
+                                      if(this.valid(this.state.email, this.state.password)){
+                                          this.props.navigation.navigate('HomeArticle');
+                                      }
+                                      else{
+                                          alert("Please recheck your inputs");
+                                      }
+                                  }}
+                >
                     <Text style={styles.buttonText}>Log in</Text>
                 </TouchableOpacity>
                 <Text style={styles.add}>Don`t have an account?</Text>
