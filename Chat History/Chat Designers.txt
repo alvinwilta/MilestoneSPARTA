@@ -1,0 +1,204 @@
+﻿Chat history with STI493 - Davin, IF508 - Jose, IF516 - Naufal Izza
+Saved on: 8/10/2020, 11:57 PM
+
+Fri, 7/31/2020
+13:56	IF534 - Alvin Wilta invited STI493 - Davin, IF508 - Jose, IF516 - Naufal Izza.
+13:56	IF534 - Alvin Wilta	ini buat yang bagian designers yak
+13:56	IF516 - Naufal Izza	sipsip
+13:56	IF534 - Alvin Wilta	udah ada gambaran belom mau ngapain aja?
+13:57	IF508 - Jose	Belum 
+13:57	IF516 - Naufal Izza	belum jelas, hehe
+13:58	IF516 - Naufal Izza	jelasin lagi sabi vin
+13:58	IF534 - Alvin Wilta	oalah oke2
+13:58	IF534 - Alvin Wilta	bentar
+13:58	IF534 - Alvin Wilta	gw lg wawan
+13:59	IF516 - Naufal Izza	santai2
+
+Sat, 8/1/2020
+12:08	IF534 - Alvin Wilta	gais
+12:09	IF534 - Alvin Wilta	untuk sekarang kan belum ada kebutuhan spesifik/belum gitu jelas
+12:09	IF534 - Alvin Wilta	gimana kalau kalian mulai dari logo dulu?
+12:09	IF534 - Alvin Wilta	logo Mindsetter
+12:09	IF534 - Alvin Wilta	coba dibuat kurleb 3 desain yang beda2 (per desain kalo bisa ada alternatif warnanya juga)
+12:09	IF534 - Alvin Wilta	nanti bisa dibuat poll di grup
+12:09	IF534 - Alvin Wilta	@STI493 - Davin @IF508 - Jose @IF516 - Naufal Izza 
+12:10	IF534 - Alvin Wilta	terserah kalian bagi tugasnya gimana, mungkin bisa edit dulu pake canva trus taro di miro buat dibanding2in gitu
+12:11	IF534 - Alvin Wilta	sama boleh mulai desain sesuai mockup (elemen2nya) misalnya tombol "add goal" atau logo "home"
+12:12	IF534 - Alvin Wilta	kira2in elemen "terpisah" sama background dari appnya
+12:12	IF508 - Jose	siap alvin
+12:14	IF534 - Alvin Wilta	inget ya kualitas aplikasi tergantung banyak sama kalian, meskipun backend belom jadi, setidaknya desainnya udah ada dan sudah bagus gituu
+12:14	IF534 - Alvin Wilta	[Sticker]
+12:21	STI493 - Davin	okok
+12:22	STI493 - Davin	ada rekomendasi bikinnya pake app apa ga
+12:26	IF534 - Alvin Wilta	kalo bisa sih pake adobe illustrator, biar hasilnya vector (untok icon)
+12:27	IF534 - Alvin Wilta	kalau logo bisa pake canva
+12:27	IF534 - Alvin Wilta	tapi jangan terlalu kecil resolusinya
+12:27	IF534 - Alvin Wilta	kalo bisa dan jago pake photoshop, sok pake photoshop buat logonya
+12:34	STI493 - Davin	okok
+17:57	IF516 - Naufal Izza	yang gratis, bisa pakai gravit designer vin.
+bisa langsung dari web.
+17:57	IF516 - Naufal Izza	inkscape juga bisa
+17:58	IF516 - Naufal Izza	btw vin, bisa jelasin lagi gk jobdesc kita ngapain aja? @IF534 - Alvin Wilta 
+17:58	IF516 - Naufal Izza	bikin semua tampilan page2nya  gitu?
+17:58	IF516 - Naufal Izza	terus dari desain mockup awal, kira2 ada yang perlu diubah gk? atau terserah kita?
+18:10	IF534 - Alvin Wilta	iya
+18:10	IF534 - Alvin Wilta	perlu didiskusiin dulu
+18:10	IF534 - Alvin Wilta	sbb
+18:10	IF534 - Alvin Wilta	makanya malem ini perlu bagi jobdesk secara keseluruhan
+18:11	IF516 - Naufal Izza	Ohh, oke2
+18:12	IF534 - Alvin Wilta	yooo wkwkwkwk
+22:02	IF534 - Alvin Wilta	okee dah bisa mulai fokus ke design yakk
+22:02	IF534 - Alvin Wilta	dibuat logo2nya, warnanya dibeda2in gitu juga sabi
+22:08	IF516 - Naufal Izza	oke
+22:11	IF516 - Naufal Izza	oh iya, untuk softwarenya:
+Kalau mau inkscape bisa download di inkscape.org
+Kalau gravit designer bisa langsung ke designer.gravit.io
+@STI493 - Davin @IF508 - Jose 
+22:13	IF516 - Naufal Izza	kalau aku bilang, inkscape itu mirip corel.
+gravit designer mirip adobe illustrator.
+
+output filenya bisa SVG aja ya, biar lebih universal juga
+22:17	STI493 - Davin	Okok besok lah ya gw mulainya
+22:18	IF516 - Naufal Izza	Buat referensi videonya, mungkin bisa lihat ini:
+Inkscape: https://www.youtube.com/watch?v=pa6a7oz7vEE - (4:44)
+Gravit Designer: https://www.youtube.com/c/GravitDesigner/videos - (channel youtubenya gravit designer, ada video2 singkatnya)
+22:18	IF516 - Naufal Izza	okok
+22:39	IF534 - Alvin Wilta	btw
+22:39	IF534 - Alvin Wilta	kalian gimana?
+22:40	IF534 - Alvin Wilta	gw takutnya nilai kalian kecil karena disangka "cuma ngedesain" gitu
+22:40	IF516 - Naufal Izza	aku join backend
+22:40	IF534 - Alvin Wilta	oke nice
+22:40	IF534 - Alvin Wilta	mau join backend secara sepenuhnya atau gimana?
+22:41	IF534 - Alvin Wilta	kalau mau, masih belum terlambat
+22:41	IF516 - Naufal Izza	ini juga sih, kayak gabut banget gitu jobdesc tim designnya.
+kayak, dikerjain 1 orang aja bisa beres gitu..
+22:41	IF534 - Alvin Wilta	biar tugas dari designer lebih berbobot
+22:41	IF534 - Alvin Wilta	iyaaa
+22:41	IF534 - Alvin Wilta	wkwkwk
+22:41	IF534 - Alvin Wilta	kalo gitu pindah secara full ke backend ga masalah kah?
+22:41	IF516 - Naufal Izza	bentar, ada yang mau jadi frontend gk?
+22:41	IF516 - Naufal Izza	kayanya frontend lebih berat
+22:42	IF534 - Alvin Wilta	front end sebenernya udah cukup ada progress sih, takutnya kalau ada yang pindah jadi ketinggalan
+22:42	IF534 - Alvin Wilta	tapi boleh aja kalau tim frontend butuh bantuan lebih, lagi gw tanyain
+22:42	IF534 - Alvin Wilta	naufal pindah ke backend yaa
+22:42	IF516 - Naufal Izza	oke, terserah kalian aja ya gais @STI493 - Davin @IF508 - Jose 
+22:42	IF516 - Naufal Izza	iya, aku backend
+22:43	IF534 - Alvin Wilta	lu tetep di multichat ini aja, mungkin buat diskusi hasil design juga
+22:43	IF516 - Naufal Izza	oke
+22:43	IF534 - Alvin Wilta	@STI493 - Davin @IF508 - Jose tugas kalian udah cukup berbobot sih, kalau cuma berdua
+22:43	IF534 - Alvin Wilta	jadi harusnya udah aman
+22:43	STI493 - Davin	gapapa sih kalo misalnya mau pindah 
+22:44	IF516 - Naufal Izza	eh, ralat. aku bukan pindah
+cuman habis ngerjain design, ikut bantuin backend
+22:44	IF516 - Naufal Izza	soalnya design dikit banget kerjaanya
+22:45	STI493 - Davin	ya kalo gitu mending pindah aja ga sih skalian 
+22:45	IF516 - Naufal Izza	(i guess?)
+22:45	STI493 - Davin	biar yg desainnya juga ga makin dikit (?)
+22:45	IF534 - Alvin Wilta	pindah aja kalo gitu
+22:45	IF516 - Naufal Izza	pindahnya habis kita beresin design aja vin
+22:45	IF534 - Alvin Wilta	sampe logo aja kalo gt
+22:45	IF534 - Alvin Wilta	abis itu pindah jadi full backend
+22:45	IF516 - Naufal Izza	sama ekspor2 bg
+22:45	IF516 - Naufal Izza	sip
+22:46	IF534 - Alvin Wilta	sampe logo aja @IF516 - Naufal Izza 
+22:46	IF534 - Alvin Wilta	sipp
+
+Sun, 8/2/2020
+05:38	IF508 - Jose	Belum kuliah udh hectic ya
+09:59	IF534 - Alvin Wilta	begitulah wkwkwkwk
+09:59	IF534 - Alvin Wilta	tugas osjurnya agak ga ngotak sih
+09:59	IF534 - Alvin Wilta	aga cape juga
+11:51	IF508 - Jose	https://drive.google.com/drive/folders/1xGOjVjKhI2lOzmZt94l_SKBJ10PkUYCL?usp=sharing
+
+Ya namanya juga masih pemula dan coba2
+11:52	IF534 - Alvin Wilta	okee
+11:52	IF534 - Alvin Wilta	lu juga boleh kasi alternatif warna lain
+11:52	IF508 - Jose	Btw itu aslinya biru dah, ga ngerti deh knp jd agak ungu2 gt
+11:56	IF534 - Alvin Wilta	coba ditweak lagi aja
+11:56	IF534 - Alvin Wilta	biar sesuai sama yang lu mau juga
+14:51	STI493 - Davin	gw gabisa save svg napa ya
+14:52	IF534 - Alvin Wilta	lu pake apa vin
+14:52	STI493 - Davin	corel
+14:52	IF534 - Alvin Wilta	gabisanya kek gmn emg?
+14:53	IF534 - Alvin Wilta	corel kan bukannya vector
+14:53	STI493 - Davin	save as svg bisa
+14:53	STI493 - Davin	tpi gada filenya
+14:54	IF534 - Alvin Wilta	coba cek lg savefile lu bener ga lokasinya
+14:56	STI493 - Davin	bener
+14:56	STI493 - Davin	kalo save yg laen kluar filenya
+15:24	STI493 - Davin	https://drive.google.com/file/d/1NylNrnBPqUAeiSo8ccdLSSwNbdcAYR9I/view?usp=sharing
+15:36	IF508 - Jose	Wah gila keren sih davin...
+15:36	IF534 - Alvin Wilta	sbbbb abis wawan
+15:37	IF534 - Alvin Wilta	mantap dah bisa yak
+15:39	STI493 - Davin	Pake converter online bisa
+
+Tue, 8/4/2020
+16:06	IF534 - Alvin Wilta	jadi 2 logo aja ya?
+16:06	IF516 - Naufal Izza	Tunggu malem ini ya vin
+16:19	IF534 - Alvin Wilta	nanti dikabarin yah kalian udah dapet apa aja
+19:14	STI493 - Davin	knapa ya kalo convert cdr ke svg fontnya brubah 
+19:15	STI493 - Davin	ato ada yang bisa tolong convert in ke svg? kayanya corel gw yg masalah
+19:18	IF508 - Jose	Gua sih biasanya convertnya dr website sih
+19:18	STI493 - Davin	iya dari online converter gitu kan
+19:18	STI493 - Davin	gw juga gitu trus fontnya jadi brubah 
+19:20	IF508 - Jose	Coba kirim ke sini aja dulu yg cdrnya siapa tau gua dpt converter yg cocok
+19:20	STI493 - Davin	[File]
+19:39	IF534 - Alvin Wilta	pake png aja vin kalo ga bisa svg
+19:55	IF516 - Naufal Izza	[Photo]
+19:56	IF516 - Naufal Izza	itu punyaku @IF534 - Alvin Wilta 
+20:18	IF534 - Alvin Wilta	okee makasih naufal
+20:28	STI493 - Davin	[Photo]
+
+Thu, 8/6/2020
+17:57	IF534 - Alvin Wilta	jadi apa ada logo baru lagi?
+17:57	IF508 - Jose	Belum ada perubahan dr gua... Btw di awwapp udh gua masukin ya desain2nya
+17:58	IF534 - Alvin Wilta	okee makasih jose
+17:59	IF534 - Alvin Wilta	kalo gitu jam 9 malem ini kita bener2 fix logo ya
+17:59	IF534 - Alvin Wilta	kalau misalnya ada buat logo baru, boleh lsg ditambah
+17:59	IF534 - Alvin Wilta	kalo gamau juga gapapa
+18:44	IF516 - Naufal Izza	Oke vin
+21:07	IF534 - Alvin Wilta	jadi gimana?
+21:07	IF534 - Alvin Wilta	ada update ga
+21:08	IF516 - Naufal Izza	Aky gaada vin
+21:08	IF516 - Naufal Izza	*aku
+21:29	IF534 - Alvin Wilta	Oke2
+
+Fri, 8/7/2020
+10:49	STI493 - Davin	masih kaya kmaren sih wkwkwk
+10:49	STI493 - Davin	hari ini mulai backgroundnya paling
+22:13	IF534 - Alvin Wilta	oke
+22:13	IF534 - Alvin Wilta	naufal @IF516 - Naufal Izza tolong push logomu ya
+22:13	IF534 - Alvin Wilta	yang kemarin votingnya terbanyak
+
+Sun, 8/9/2020
+02:42	STI493 - Davin	https://www.figma.com/file/lY6PjK4ZOjqoV1Zm65yHwr/tes?node-id=0%3A1
+18:04	IF508 - Jose	Mau pakai desainnya siapa nih ?
+18:10	STI493 - Davin	mending voting lagi ga sih? biar ga sepihak
+18:10	STI493 - Davin	pake line aja gausah gmeet lagi
+18:11	IF508 - Jose	Ya dr kita2 aja yg desain
+18:11	IF508 - Jose	Gua sih tertarik sm punya lu yg ada bulat2annya
+18:11	IF508 - Jose	Kyknya gua pilih yg itu
+18:11	IF508 - Jose	yg lain gmn?
+18:34	IF508 - Jose	gini deh, gua serahin ke pjnya aja deh ya
+18:36	IF534 - Alvin Wilta	oke bolehh
+19:11	IF516 - Naufal Izza	maaf temen2, habis ngilang
+ini masih kurang apa?
+20:54	IF534 - Alvin Wilta	desain2 kalian tolong dipush yaaa
+20:54	IF534 - Alvin Wilta	biar ada keliatan contributionnya
+20:54	IF534 - Alvin Wilta	buat folder baru namanya "Logo"
+20:54	IF534 - Alvin Wilta	di branch master
+20:55	IF516 - Naufal Izza	oke vin, ntar ya. masih wawan kating
+20:58	IF534 - Alvin Wilta	sipp
+20:58	IF534 - Alvin Wilta	@STI493 - Davin @IF508 - Jose 
+20:59	IF508 - Jose	Wait lg wawan
+21:54	IF534 - Alvin Wilta	udah belomm
+21:54	IF516 - Naufal Izza	belom vin
+21:54	IF534 - Alvin Wilta	secepet mungkin yaaa
+22:04	IF508 - Jose	Tp btw kan gua udh masukin folder vin di asset.. Ini buat lg?
+22:23	IF534 - Alvin Wilta	iya buat lagi aja, khusus logo doang
+22:23	IF534 - Alvin Wilta	diluar folder milestonenya ya
+22:23	IF534 - Alvin Wilta	biar keliatan
+23:33	STI493 - Davin	kalo bentukannya figma push dalam bentuk apa
+23:34	STI493 - Davin	gajadi
+23:34	STI493 - Davin	bisa di png in
+23:34	IF534 - Alvin Wilta	sipp

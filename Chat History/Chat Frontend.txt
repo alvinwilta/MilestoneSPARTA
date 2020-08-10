@@ -1,0 +1,604 @@
+﻿Chat history with IF431 - Awwala NK, STI458 - Nadira F, IF373 - Anantha
+Saved on: 8/10/2020, 11:57 PM
+
+Thu, 7/23/2020
+16:56	IF431 - Awwala NK invited STI458 - Nadira F, IF534 - Alvin Wilta.
+16:56	IF431 - Awwala NK	Test
+16:57	IF534 - Alvin Wilta	mantap
+16:57	IF534 - Alvin Wilta	ini workflow solusi yak
+16:57	IF431 - Awwala NK	Iyaa
+16:57	IF534 - Alvin Wilta	wokee
+16:58	STI458 - Nadira F	siappp
+17:51	IF534 - Alvin Wilta	Jose : Overheating Komputer - menambahkan fan agar suhu terjaga
+Kahfi : Parkir Liar - Pemasangan CCTV dengan vehicle recognition
+Anantha : Kesehatan Mental kurang - Buat aplikasi dengan isi2nya fitur kesehatan mental
+Naufal : Malas membaca - ringkas bacaan, buat audio, share ke user
+Awwala : Malas bergerak - olahraga ringan, buat time planner, buat alarm/aplikasi buat ingetin
+Nadira : Kurangnya penerapan teknologi dan masalah kemiskinan di pertanian - buat startup tanihub
+Akeyla : Salah jurusan - Aplikasi mengenai video/jurusan, database kelebihan/kekurangan siswa
+Ardhana : UMKM yang kurang - Membuat aplikasi crowdfunding (investor)
+Davin : Pengangguran - Membuat membuat platform untuk lowongan kerjaan
+Alvin : Minat belajar kurang - Buat aplikasi untuk materi self improvement, progres tracking
+
+Buat BAB II - Alur berpikir mendapatkan solusi 
+22:09	STI458 - Nadira F	alvinn
+22:09	STI458 - Nadira F	alur berpikir itu contohnya gimana y
+22:09	STI458 - Nadira F	[Photo]
+22:09	STI458 - Nadira F	kalo paragrafnya gitu ga?
+22:10	STI458 - Nadira F	tp kan dimintanya yg d spek kan alur berpikir mendapatkan solusi, kalo yg d itu (contoh referensi lah ya) kan kayak lebih alur pengerjaan hingga memperoleh hasil akhir ya?
+22:11	IF534 - Alvin Wilta	iyaaa berdasarkan kemaren kita diskusi aja nad
+22:11	IF534 - Alvin Wilta	gimana2 nya
+22:11	IF534 - Alvin Wilta	pertimbangannya apa aja
+22:11	STI458 - Nadira F	contohnya gimana vin
+22:11	IF534 - Alvin Wilta	feasibility kan jadi pertimbangan
+22:11	STI458 - Nadira F	ooh terus?
+22:11	STI458 - Nadira F	iyaa
+22:12	STI458 - Nadira F	alur pikir ama kerangka berpikir sama g?
+22:18	STI458 - Nadira F	kalo pertimbangan2 gitu brarti kita lihat2 dari latar belakang juga kan ya
+22:22	IF534 - Alvin Wilta	sbb
+22:23	IF534 - Alvin Wilta	alur pikir sama kerangka pikir sih kayanya beda ya? kalau alur pikir lebih ke urutan berpikir, kalau kerangka berpikir lebih ke "pandangan" cara berpikir
+22:24	STI458 - Nadira F	iya bedaa, tp gw msh ga ada gambaran abisnya TTKI kan adanya kerangka berpikir :v
+22:24	STI458 - Nadira F	trus d google kebanyakan lebih ke alur pengerjaan yg gw liat
+22:24	STI458 - Nadira F	alur berpikir perlu data ga?
+23:04	IF534 - Alvin Wilta	WKWKWK
+23:04	IF534 - Alvin Wilta	boleh tambahin data
+23:04	IF534 - Alvin Wilta	jadi kaya "pertimbangan"
+23:05	IF534 - Alvin Wilta	coba dicek deh yg di instagram gw itu
+23:05	STI458 - Nadira F	iyaa buat mendukungny y
+23:05	IF534 - Alvin Wilta	ada referensi dari PISA
+23:05	STI458 - Nadira F	siapp
+23:05	IF534 - Alvin Wilta	ato boleh juga lu ambil "latar belakang" masalah?
+23:05	STI458 - Nadira F	td udh coba di share awa, si, ntar gw liat lg deh
+23:05	IF534 - Alvin Wilta	okee
+23:05	STI458 - Nadira F	nah ituuuuuuuu
+23:05	IF534 - Alvin Wilta	gw sih lbi kepikir kaya kita awal2nya tuh brainstorming berdasarkan ide2 10 itu dulu
+23:06	STI458 - Nadira F	mungkin paragrafnya lebih dipadetin sama poin2nya di kerucutin (?)
+23:06	IF534 - Alvin Wilta	abis diseleksi satu2 baru bisa bahas kenapa 
+23:06	STI458 - Nadira F	iyaa
+23:06	STI458 - Nadira F	dicontoh2 sih rada pendek si, tp sabeb lah ya ga ada batas halaman jg
+23:07	IF534 - Alvin Wilta	yoi dong
+23:07	IF431 - Awwala NK	okss2
+23:07	IF534 - Alvin Wilta	tp klo bisa juga jgn panjang2 WKKWKW susah sendiri tar
+23:08	IF431 - Awwala NK	wkwkwkwk betull2
+23:08	STI458 - Nadira F	iyaa sebisanya aja ye :V
+23:08	IF534 - Alvin Wilta	siapp
+23:08	IF534 - Alvin Wilta	kalian buat dimana?
+23:08	STI458 - Nadira F	hmm
+23:08	STI458 - Nadira F	nanti lanjut besok pagi si vin rencananya
+23:08	STI458 - Nadira F	mungkin langsung d itu lu aja
+23:10	IF534 - Alvin Wilta	sipp
+
+Fri, 7/24/2020
+12:30	IF534 - Alvin Wilta	gimana klean
+12:46	STI458 - Nadira F	ada d google docsny vin
+12:46	STI458 - Nadira F	kurang data si, nantian hehe
+12:47	STI458 - Nadira F	sama mungkin revisi beberapa dr yg lain
+12:47	IF534 - Alvin Wilta	okeee nanti jam 2 tulis aja di grup yakk
+12:47	STI458 - Nadira F	okeei
+
+Sat, 7/25/2020
+01:36	IF534 - Alvin Wilta	okeee gw udah liat punya kaliann
+01:36	IF534 - Alvin Wilta	buat yang workflownya sebenernya udah cukup kok
+01:36	IF534 - Alvin Wilta	cuma perlu diperbagus aja strukturnya gituu
+01:37	IF534 - Alvin Wilta	kalau bisa coba paragrafnya pake format PREP (point result example point)
+01:37	IF534 - Alvin Wilta	biar jelas gitu bawaan masalahnya mau kemana dan gimanaa
+01:37	IF534 - Alvin Wilta	semangatt
+01:37	IF534 - Alvin Wilta	[Sticker]
+06:10	IF431 - Awwala NK	Wokew viin, nanti kucoba discuss lagii sm nadiiir🤗
+07:39	STI458 - Nadira F	Eh deadlineny jam 8 atau 9 ya?
+08:34	STI458 - Nadira F	eh contohnya gimana ya? aku nyari d google ga nemu contohnya . . .
+08:54	IF534 - Alvin Wilta	Wkwkwk diusahain aja hari ini kelar sihh
+08:55	IF534 - Alvin Wilta	Sebenernya ga masalah mau pake PREP apa engga, cuma rasanya agak berantakan aja struktur paragrafnya, PREP tuh salah satu aja
+09:02	STI458 - Nadira F	contohnya gimana vin prep ny?
+09:15	IF534 - Alvin Wilta	Point: State your case. Start by stating your main point or claim. In a short speech, it’s best to focus on just one point so that you don’t lose your audience. In a longer speech, use a series of PREPs to make different points and support them.
+Reasons: Give reasons to explain why your point is true. Support or back up your case with evidence from research, facts, data, statistics, or the scriptures (if you are giving a religious speech). This adds credibility to your case.
+Example(s): Give one or more examples/illustrations to support your main point (case) and the reasons given above. This is a good place to tell a powerful pertinent story. Testimonies may also be used here. Also, engage the testimony of scholars/experts to 1) Show how a lot of scholars support your views, and 2) Show how others have a different argument.
+Point: Conclude by showing how your position is right (both scientifically, biblically, practically, etc) in spite of the arguments against it and restating your argument. This helps your audience to remember it.
+09:15	IF534 - Alvin Wilta	itu dari short speech sih
+09:15	STI458 - Nadira F	okeii
+09:16	IF534 - Alvin Wilta	cuma bisa dipake buat argumentasi dari problemnya gitu
+09:16	STI458 - Nadira F	hmmmm okeoke
+
+Sun, 7/26/2020
+21:34	IF534 - Alvin Wilta	kabarin yah kalo udah diubah flowchartnyaa
+21:34	IF534 - Alvin Wilta	maaf mepet2 gini juga wkwkwk baru ngeh pas bahas bareng soalnya
+21:35	STI458 - Nadira F	okeiii
+21:41	STI458 - Nadira F	[Photo]
+21:41	STI458 - Nadira F	vinn
+21:41	IF534 - Alvin Wilta	ya
+21:41	STI458 - Nadira F	menurut lu kotak2 semua itu bener ga?
+21:41	IF534 - Alvin Wilta	itu jurnal/diary aja
+21:41	STI458 - Nadira F	yg bulet atau shape lainny itu ditarony dimana y
+21:41	STI458 - Nadira F	okee
+21:43	IF534 - Alvin Wilta	gw masih agak bingung sama yang "butuh pemicu" sih
+21:43	STI458 - Nadira F	mending gimana ya?
+21:44	IF534 - Alvin Wilta	trus yang paling kiri mungkin bisa diganti jadi "Kondisi saat ini prestasi pelajar masih cukup rendah"
+21:44	IF534 - Alvin Wilta	nah problemnya karena ga termotivasi dan ga mau berkembang (fixed mindset)
+21:44	STI458 - Nadira F	okee trus bagian nanti fitur2 harusnya ga terlalu jelasin ga si karna nanti di bab 3 dijelasin lebih detil 
+21:45	IF534 - Alvin Wilta	yupp itu dibiarin aja yang fitur
+21:45	STI458 - Nadira F	eh trus tingginya [enggunaan gadget perlu di taro di problem jg g
+21:45	IF534 - Alvin Wilta	sama gw kepikiran sih hasil akhir diganti jadi "prestasi pelajar meningkat"
+21:45	STI458 - Nadira F	oh ya vin, jadinya awwala bab 1 aku bab 2
+21:45	IF534 - Alvin Wilta	sipp
+21:45	STI458 - Nadira F	tp vin, yang lain ga mau diajak lagi presentasi?
+21:45	STI458 - Nadira F	takutnya nilainy jadi ga kesebar
+21:45	IF534 - Alvin Wilta	oh boleh taro di bagian "butuh pemicu aja"
+21:46	IF534 - Alvin Wilta	devin sih gw bingung sih mau gimana wkkwwk soalnya dia ga ngurusin apa2
+21:46	IF534 - Alvin Wilta	maksudnya
+21:46	IF534 - Alvin Wilta	ga ngurusiun materi apapun jadi ga ngejelasin apa2 gt
+21:46	STI458 - Nadira F	iyaaa
+21:47	IF534 - Alvin Wilta	pembagian tugas perlu dipresentasiin juga ga si?
+21:47	STI458 - Nadira F	ooh, d proposal kan ada ya
+21:47	IF534 - Alvin Wilta	iya ada wkwkwk
+21:47	IF431 - Awwala NK	gapapa sii presentasiin, kalo sempet hehe
+21:47	STI458 - Nadira F	menurut lu enakny gmn? menurut gw presentasiin aja si
+21:47	STI458 - Nadira F	walau mungkin g perlu dibaca (?)
+21:47	IF534 - Alvin Wilta	nah iya kalo sempet wkwkwk
+21:48	IF534 - Alvin Wilta	kl mnurut gw si ga perlu, cuma taro di ppt aja in case ditanya
+21:48	STI458 - Nadira F	okee
+21:48	IF534 - Alvin Wilta	gw sbnrnya bingung si sama flowchart wkwkwk
+21:49	STI458 - Nadira F	nahh
+21:49	IF534 - Alvin Wilta	takutnya dia minta flowchart yang ada if then if then
+21:49	STI458 - Nadira F	gimana vin biar lebih mudah dibaca
+21:49	STI458 - Nadira F	ah iya jg si
+21:49	STI458 - Nadira F	tp gw konsul kakanya gitu gpp
+21:49	IF534 - Alvin Wilta	oh gpp?
+21:49	STI458 - Nadira F	iyaa
+21:49	IF534 - Alvin Wilta	oke yg penting dah konsul wkjwkwk
+21:49	STI458 - Nadira F	tp kayak gw takut kayak ga ada start end atau kenapa kotak semua
+21:49	STI458 - Nadira F	wkwk
+21:49	IF534 - Alvin Wilta	gapapa si selama ada arrow key
+21:50	STI458 - Nadira F	oh ya udh 
+21:50	STI458 - Nadira F	bentar
+21:51	STI458 - Nadira F	[Photo]
+21:51	IF534 - Alvin Wilta	ohhhh
+21:51	IF534 - Alvin Wilta	gw kepikiran sih
+21:51	STI458 - Nadira F	apa?
+
+21:51	IF534 - Alvin Wilta	butuh pemicu diganti jadi "butuh growth mindset" aja
+21:51	STI458 - Nadira F	ooh
+21:51	STI458 - Nadira F	tingginya penggunaan gadget kpn y
+21:51	IF534 - Alvin Wilta	sama tidak berkembang diganti jadi "tidak mau berkembang"
+21:51	STI458 - Nadira F	pas ngomong aja ? argumen gtu
+21:51	STI458 - Nadira F	okee
+21:51	IF534 - Alvin Wilta	[Photo]
+21:51	IF534 - Alvin Wilta	di bawah itu aja
+21:52	IF534 - Alvin Wilta	dibuat kaya yang "butuh pemicu" tadi
+21:52	STI458 - Nadira F	ooh
+21:52	STI458 - Nadira F	okee
+21:52	IF534 - Alvin Wilta	 gw kepikiran sih hasil akhir diganti jadi "prestasi pelajar meningkat" biar jelas hasilnya gitu
+21:52	IF534 - Alvin Wilta	eh maaf kalo banyak ngatur2 wkwkwk
+21:53	STI458 - Nadira F	ngga kok sanss
+21:53	STI458 - Nadira F	iya dr kemarin kayak hasil akhir aneh gitu
+21:53	STI458 - Nadira F	pengenny kn kayak impact ke masyarakat, oke oke
+21:53	IF534 - Alvin Wilta	yoii
+21:53	STI458 - Nadira F	ehh
+21:54	IF534 - Alvin Wilta	kenapa?
+21:54	STI458 - Nadira F	prestasi belajar meningkat karna growth mindset ngomongnya perlu argumen data g?
+21:54	IF534 - Alvin Wilta	harusnya perlu dijelasin sih sbnrnya
+22:07	STI458 - Nadira F	[Photo]
+22:10	IF534 - Alvin Wilta	oke cakep
+22:10	IF534 - Alvin Wilta	taro di docs ya
+22:10	STI458 - Nadira F	oke aku yg taro y
+22:10	IF534 - Alvin Wilta	di line ga jadi PNG soalnya
+22:10	IF534 - Alvin Wilta	sipp
+22:20	STI458 - Nadira F	okeii
+22:30	IF534 - Alvin Wilta	[Photo]
+22:30	IF534 - Alvin Wilta	ini gimana?
+
+Mon, 7/27/2020
+09:45	STI458 - Nadira F	sabiiii
+
+09:45	STI458 - Nadira F	okeii
+
+Fri, 7/31/2020
+13:54	IF534 - Alvin Wilta invited IF373 - Anantha.
+13:54	IF534 - Alvin Wilta	@STI458 - Nadira F @IF431 - Awwala NK @IF373 - Anantha ini buat developer frontend ya
+13:54	IF431 - Awwala NK	Okee viin
+13:54	IF373 - Anantha	sip2
+13:56	IF373 - Anantha	halo2
+13:56	IF373 - Anantha	ini gw ada dpt materii gituu
+13:56	IF373 - Anantha	#Pengumuman
+Bagi peserta kelas React Native dasar - batch Juni 2020, yang ingin mengakses materi dan tugas di blog.sanbercode.com bisa menggunakan password:
+
+datarn20sbcode
+
+Terima Kasih
+13:56	IF373 - Anantha	kalian bisa buka ga ya
+13:57	IF431 - Awwala NK	Ntar yaa nann, gua lagi diliar gaada paket internet hehe, jadi gabisa buka
+13:58	IF373 - Anantha	 blog.sanbercode.com -> Bootcamp Kelas Dasar -> React Native Mobile Apps Development
+13:59	IF373 - Anantha	buat materi yg plg berakitan itu ada di hari ke 5 pekan 2 sampe hari ke 5 pekan 3
+13:59	IF373 - Anantha	tp kalo emg kaliann mau coba dari pekan 1 buat javascriptnya juga gpp
+13:59	IF373 - Anantha	kalo pekan 4 itu udh mulai ke backend gtt sih menurut gw
+14:00	IF534 - Alvin Wilta	cakep nann
+14:01	STI458 - Nadira F	Oke siappppp
+14:02	IF373 - Anantha	kalemm, gw jg ngejar gemastik dlu WKWKW
+14:02	STI458 - Nadira F	Samaa, wkwkwkkw
+14:04	IF431 - Awwala NK	Wkwkkw sipp2
+
+Sat, 8/1/2020
+12:08	IF534 - Alvin Wilta	btw
+12:08	IF534 - Alvin Wilta	kalian dari frontend gimana?
+12:08	IF534 - Alvin Wilta	ada butuh apa ga dari tim desain
+12:08	IF534 - Alvin Wilta	aset/logo mungkin?
+12:10	IF373 - Anantha	kalo emg mau sesuai mockup plg background2nya sih
+12:10	IF373 - Anantha	sama yg letter of commitment
+12:10	IF373 - Anantha	kalo logo2 gt ada dr icon
+12:10	IF534 - Alvin Wilta	gw lagi minta mereka buat logo Mindsetter dulu
+12:11	IF373 - Anantha	kalo mau coba design logo mindsetternya juga
+12:11	IF373 - Anantha	nahh sip2
+12:11	IF534 - Alvin Wilta	iya letter of commitment nih perlu gw buat wkwkwk
+12:11	IF534 - Alvin Wilta	sama logo2 ya
+21:40	IF373 - Anantha	#Pengumuman
+Bagi peserta kelas React Native dasar - batch Juni 2020, yang ingin mengakses materi dan tugas di blog.sanbercode.com bisa menggunakan password:
+
+datarn20sbcode
+
+Terima Kasih
+21:57	IF373 - Anantha	buat besok mungkin kalian biasain dlu aja sama javascriptnya itu sendiri
+21:57	IF373 - Anantha	fokusin aja di bagian object gt2, krn itu plg penting buat properties tiap tombol atau fitur2 di screennya
+21:57	IF373 - Anantha	selebihnya menurut gw gabeda jauh sama python
+21:57	IF373 - Anantha	cuma beda sintaksnya aja
+21:58	IF431 - Awwala NK	Okeee, kucoba pelajarii
+21:58	IF373 - Anantha	sama coba install node.js, react sama expo
+21:58	IF373 - Anantha	trus buat akunnya expo
+21:58	IF373 - Anantha	*akun exponyaa
+21:58	IF373 - Anantha	senin siang baru kita hands on yakk
+21:59	IF431 - Awwala NK	Sipp2 nann
+21:59	IF373 - Anantha	jadi tgl 4 harapannya dah mulai bisa bagi screen
+21:59	IF373 - Anantha	okii
+21:59	STI458 - Nadira F	okeiii
+22:01	IF534 - Alvin Wilta	cakepppp
+22:01	IF534 - Alvin Wilta	udah ada progress
+22:02	IF534 - Alvin Wilta	keren emang
+22:38	IF534 - Alvin Wilta	btw
+22:38	IF534 - Alvin Wilta	dari kalian butuh bantuan ga
+22:38	IF534 - Alvin Wilta	tim designer kayanya butuh kerjaan wkwkwk
+22:38	IF534 - Alvin Wilta	@STI458 - Nadira F @IF373 - Anantha @IF431 - Awwala NK 
+22:48	IF373 - Anantha	itu aja sih keknya sementara
+22:49	IF373 - Anantha	gw blm bisa mulai buat soalnya, blm kekejar ni gemastik. pd pulkam kmrn wkwkw. sorry ye kesannya rada egois
+22:49	IF534 - Alvin Wilta	sansss
+
+Tue, 8/4/2020
+16:06	IF534 - Alvin Wilta	jadi gimana gais
+16:06	IF534 - Alvin Wilta	udah sampe mana
+16:07	STI458 - Nadira F	masih explore kan?
+16:07	STI458 - Nadira F	hari ini ada progress report ga?
+16:07	STI458 - Nadira F	pembagian tugasnya gmn?
+16:18	IF534 - Alvin Wilta	iya kasiTau aja hasil explore kalian
+16:18	IF534 - Alvin Wilta	kasitau*
+16:19	STI458 - Nadira F	kayak udh belajar apa aja vin?
+16:19	IF373 - Anantha	kalian udh sampe.manaa
+16:19	IF373 - Anantha	btw vin udh buat repo di git blm?
+16:19	IF534 - Alvin Wilta	inii
+16:19	IF534 - Alvin Wilta	udah nan
+16:19	IF373 - Anantha	nanti malem coba gw buat file apknya dulu plg
+16:19	IF534 - Alvin Wilta	gw udah invite masing2 kalian juga
+16:19	IF373 - Anantha	eh
+16:19	IF373 - Anantha	lupa malem rapat wkwk
+16:20	IF373 - Anantha	yauda skrg gw buat
+16:20	STI458 - Nadira F	yg dikasih nantha ama liat2 yutub si
+16:20	IF373 - Anantha	udh install2?
+16:20	IF534 - Alvin Wilta	iya gapapa dibuat aja di whiteboardnya, biar bisa jadi pertimbangan penilaian jugaa
+16:20	STI458 - Nadira F	install apa aja deh coba sebutin, takut ada yg kurang
+16:21	IF534 - Alvin Wilta	takutnya kalau kita ga beres, seengganya ada hasil gitu
+16:21	STI458 - Nadira F	android studio, vs code, node js, akun expo jg udh buatt
+16:22	IF373 - Anantha	android studionya gaperlu
+16:22	IF373 - Anantha	install expo udh blm
+16:22	IF431 - Awwala NK	Udaah
+16:22	STI458 - Nadira F	install d cmdnya?
+16:22	IF373 - Anantha	heeh
+16:22	STI458 - Nadira F	udhh
+16:22	STI458 - Nadira F	eh tp kayak emulatorny pake apa?
+16:23	IF373 - Anantha	kalian pada punya hp android ga?
+16:23	IF431 - Awwala NK	Adaa
+16:23	STI458 - Nadira F	punyaa, tp selalu dipake ade :vvv
+16:23	IF373 - Anantha	hm gw gapernah pake emulator sih
+16:23	STI458 - Nadira F	*sama lemot hpny, jd makeny dilaptop
+16:23	IF373 - Anantha	mostly pake android
+16:23	STI458 - Nadira F	tp sabi si kayakny pas dicoba2
+16:24	STI458 - Nadira F	kan kayak virtual phone gtu nan (?)
+16:24	IF373 - Anantha	coba enable developer mode dlu di hp
+16:24	IF431 - Awwala NK	Udaah
+16:24	IF373 - Anantha	iyaa bisa juga pake emu
+16:24	IF373 - Anantha	okok
+16:24	STI458 - Nadira F	hp gw lemot parahh abisnya nan
+16:25	IF373 - Anantha	logo udh ada blm
+16:28	STI458 - Nadira F	ga tauu. @IF534 - Alvin Wilta 
+16:35	IF373 - Anantha	di vs codenya install bbrp extension yak
+16:35	IF373 - Anantha	[Photo]
+16:35	IF373 - Anantha	[Photo]
+16:35	STI458 - Nadira F	apa aja nan?
+16:35	STI458 - Nadira F	ooh okk
+16:35	IF373 - Anantha	[Photo]
+16:36	IF373 - Anantha	[Photo]
+16:36	IF373 - Anantha	yg ini bebass
+16:36	IF373 - Anantha	boleh pake bole ngga
+16:36	STI458 - Nadira F	sip sipp
+16:39	IF373 - Anantha	http://www.reactnativeexpress.com/flexbox
+
+ini buat flexboxnya, biar ga susah bayanginnya
+16:46	IF373 - Anantha	@STI458 - Nadira F @IF431 - Awwala NK blank app nya udh gw push ke repo
+16:46	IF373 - Anantha	coba kalian clone dulu, trus coba start app nya
+16:46	IF373 - Anantha	[Photo]
+16:46	IF373 - Anantha	kalo berhasil nanti di hp kalian kayak ginii
+16:46	STI458 - Nadira F	iyaa
+16:46	STI458 - Nadira F	udhh
+16:46	IF534 - Alvin Wilta	logonya udah ada 2 tipe
+16:46	IF534 - Alvin Wilta	tapi...yah gitu deh
+16:46	IF373 - Anantha	kenapa vin wkwk
+16:46	IF431 - Awwala NK	Iyaa udah gituu
+16:46	IF534 - Alvin Wilta	seadanya aja wkwkkw
+16:47	IF534 - Alvin Wilta	biasa nan 
+16:47	IF373 - Anantha	kecewa ya pak bos?
+16:47	STI458 - Nadira F	gapapa kirim sini vin
+16:47	STI458 - Nadira F	png kan?
+16:47	IF534 - Alvin Wilta	itu di grup
+16:47	IF534 - Alvin Wilta	pilih aja
+16:47	STI458 - Nadira F	ooh okk
+16:48	IF534 - Alvin Wilta	kurang cocok sama bagian dalem appnya gitu loh
+16:48	IF534 - Alvin Wilta	tapi yaudah 
+16:48	IF373 - Anantha	kenapa kecil semua pixelnya
+16:48	IF373 - Anantha	:(
+16:51	IF373 - Anantha	mungkin buat awal2 kalian coba buat login atau register screennya ajaa
+16:51	IF373 - Anantha	@IF431 - Awwala NK @STI458 - Nadira F 
+16:51	IF373 - Anantha	dibagi ajaa siapa mau login siapa mau register
+16:51	STI458 - Nadira F	okee
+16:51	IF431 - Awwala NK	Okee
+16:51	STI458 - Nadira F	eh tp sekalian dibagi2 aja kali bagian2 pagenya (?)
+16:51	IF373 - Anantha	btw, pake fontnya roboto aja
+16:51	IF534 - Alvin Wilta	pada make svg nan itu kayanya kalo di drive jadi raster
+16:52	IF534 - Alvin Wilta	mantap nan
+16:52	IF534 - Alvin Wilta	wkkwkwkw
+16:52	IF373 - Anantha	sans brok
+16:57	IF373 - Anantha	btw gw udh push folder screens, kalian buat file js untuk tiap page nya didalem folder ajaa
+16:57	IF373 - Anantha	nanti kalo mau jalanin appnyaa diimport ke file app.js nya 
+16:58	STI458 - Nadira F	okeee
+16:58	IF431 - Awwala NK	Okee
+17:23	IF373 - Anantha	[Photo]
+17:23	IF373 - Anantha	kurang lebih gini cara importnyaa
+19:11	IF431 - Awwala NK	nann, yg ini folder screens nyaa dimanaa? aku belom nge pull
+19:54	STI458 - Nadira F	iya di aku jg ga ada, tp commitnya bilang adding screens folder
+19:57	IF373 - Anantha	lah iya wkwk
+19:57	IF373 - Anantha	udh ada ni skrg
+20:00	STI458 - Nadira F	okk
+21:33	IF373 - Anantha	udh gw push ya node modules sama exponya
+21:33	IF373 - Anantha	ternyata dia ke ignored waktu gw push
+21:33	IF373 - Anantha	my bad
+21:33	IF373 - Anantha	hehee
+21:33	IF431 - Awwala NK	Wkwkwk okee nann
+21:33	STI458 - Nadira F	okeeeei
+
+Wed, 8/5/2020
+19:56	IF373 - Anantha	@STI458 - Nadira F @IF431 - Awwala NK gimana geng
+19:56	IF373 - Anantha	ada masalah lg gaa
+19:56	STI458 - Nadira F	msh ngerjainn
+19:56	STI458 - Nadira F	ngga sii
+19:57	STI458 - Nadira F	paling bingung lingkaran2 gtu
+19:57	IF431 - Awwala NK	Nah iya sm
+19:57	STI458 - Nadira F	kalo ga sesuai banget ama mock up gapapa kn..
+19:57	IF373 - Anantha	nah iye kmrn gw niatnya backgroundnya dr design
+19:57	IF373 - Anantha	gw bilang kan waktu meet kmrn
+19:57	STI458 - Nadira F	iya sii
+19:57	IF373 - Anantha	gatau dibuat apa engga
+19:57	STI458 - Nadira F	ga make gapapa kali ya
+19:58	IF373 - Anantha	yauda sementara gpp
+19:58	STI458 - Nadira F	eh page2nya dibagi2 lagi kapan, tinggal 4/5 hari lg abisny
+19:58	STI458 - Nadira F	walau ini msh blom kelar si hehe
+20:02	IF373 - Anantha	Home Screen, Task Screen : Nantha
+Goal Tracker , Add Goal : 
+Account, letter of commitment: 
+20:03	IF373 - Anantha	sementara itu dulu dehh
+20:03	STI458 - Nadira F	Home Screen, Task Screen : Nantha
+Goal Tracker , Add Goal : 
+Account, letter of commitment: nadira
+20:03	IF431 - Awwala NK	Home Screen, Task Screen : Nantha
+Goal Tracker , Add Goal : Awwala
+Account, letter of commitment: nadira
+20:06	IF373 - Anantha	nanti gw sekalian navigationnya deh
+20:07	STI458 - Nadira F	okee
+
+Thu, 8/6/2020
+18:00	IF534 - Alvin Wilta	gimana frontendd
+18:00	IF534 - Alvin Wilta	sudah sampe mana
+18:06	IF373 - Anantha	masi build screennya
+19:19	IF534 - Alvin Wilta	okee
+19:23	STI458 - Nadira F	udh bikin branch, masi ngerjain yg ini
+20:10	IF431 - Awwala NK	Aku juga masi ngerjain yg inii, yg kemaren belom ku upload
+22:46	IF373 - Anantha	gaes
+22:46	IF373 - Anantha	kalo deadline bsk gimana
+22:46	IF373 - Anantha	biar sabi di navigation
+22:49	STI458 - Nadira F	gapapa si, kita usahakan selesai :'D
+22:51	IF431 - Awwala NK	Diusahaainn nann
+22:52	STI458 - Nadira F	eh nego dong, lusa jam 6 pagi atau sebelum SPARTA gtu
+
+Fri, 8/7/2020
+19:30	IF373 - Anantha	nad
+19:30	IF373 - Anantha	ini lu udh install navigationnya ya?
+19:46	IF373 - Anantha	abis gw pull malah gabisa run project skrg WKWK
+20:29	IF534 - Alvin Wilta	Eh
+20:29	IF534 - Alvin Wilta	Lah wkwkwk
+20:30	IF373 - Anantha	oh udh2
+20:30	IF534 - Alvin Wilta	@STI458 - Nadira F 
+20:30	IF373 - Anantha	wkwkw
+20:30	IF373 - Anantha	ma bad
+20:30	IF534 - Alvin Wilta	Udah solved nan?
+20:30	IF373 - Anantha	dah
+20:30	IF534 - Alvin Wilta	Sipp
+20:31	STI458 - Nadira F	Gw ga bisa install yg navigate gtu, tp gamake si
+20:31	STI458 - Nadira F	Okk
+20:31	IF373 - Anantha	iyaa gausa kalian fokus di screen aja
+20:31	IF373 - Anantha	makanya gw bingung knp td tiba2 ada navigate didalem filenya
+20:31	STI458 - Nadira F	Oooh wkwkwk
+20:32	IF373 - Anantha	vin
+20:32	IF373 - Anantha	[Photo]
+20:32	IF373 - Anantha	warna2 tag ini gw bikin satu warna semua gt gpp kan
+20:32	IF373 - Anantha	agak bingung kalo dari json gt jadi style
+20:32	IF373 - Anantha	ganemu2 dr kmrn
+21:59	IF534 - Alvin Wilta	sbbbb
+21:59	IF534 - Alvin Wilta	gapapa la
+21:59	IF534 - Alvin Wilta	disesuain aja nan
+21:59	IF373 - Anantha	ok
+21:59	IF373 - Anantha	ntar gw lanjut deh
+21:59	IF373 - Anantha	wawan bntr
+21:59	IF534 - Alvin Wilta	wokee
+22:00	IF373 - Anantha	deadline screen sebelum sparta yak jadinyaa
+22:00	IF373 - Anantha	sesuai request
+22:00	STI458 - Nadira F	Okee
+22:12	IF534 - Alvin Wilta	nanya dong
+22:12	IF534 - Alvin Wilta	kalian udah minta background ke tim desainer?
+22:12	IF373 - Anantha	blm
+22:12	IF534 - Alvin Wilta	oh oke2
+22:12	IF373 - Anantha	suruh push ke git aja
+22:12	IF373 - Anantha	sama logonya
+22:20	STI458 - Nadira F	Logonya udh ada ko (yg kotak ijo tengah putih tp) di assets/Logo.png
+22:21	STI458 - Nadira F	*yg ga ada tulisan mindsetterny tp
+
+Sat, 8/8/2020
+11:59	IF373 - Anantha	udh pd push?
+12:00	IF431 - Awwala NK	Udaah
+12:42	STI458 - Nadira F	udhh
+
+Sun, 8/9/2020
+09:04	IF373 - Anantha	ehh btw
+09:04	IF373 - Anantha	itu di grup hasilnya
+09:04	IF373 - Anantha	ada saran ga
+09:04	IF373 - Anantha	atau apa gt
+09:04	IF373 - Anantha	dari alvin gmn de
+09:50	IF534 - Alvin Wilta	Sbbb
+09:50	IF534 - Alvin Wilta	Bntr gw cek
+09:54	IF534 - Alvin Wilta	Okeee udah mulus yak
+09:54	IF373 - Anantha	btw navbar kalian gw ganti semua ya kmrn @IF431 - Awwala NK @STI458 - Nadira F 
+09:55	IF373 - Anantha	sama yg login gw gabung di satu js
+09:55	IF373 - Anantha	karena kalo kepisah navigationnya gabisa wkwk
+09:55	IF373 - Anantha	btw itu statis datanya vin yg task sm goal
+09:55	IF373 - Anantha	semuanya statis sih sbnrnya WKWK
+09:56	IF373 - Anantha	articlenya juga
+09:57	STI458 - Nadira F	Gapapaa, navbar akhirnya bagus bat nan wkwk
+09:58	IF373 - Anantha	hihi oki
+10:00	IF534 - Alvin Wilta	Btw reponya ilang ato cmn gw aja?
+10:00	IF373 - Anantha	hah ilang knp hir
+10:00	IF373 - Anantha	jir
+10:00	IF534 - Alvin Wilta	[Photo]
+10:00	IF534 - Alvin Wilta	Kayanya gr2 dr hp
+10:01	STI458 - Nadira F	Ko horor ya wkwkkwk
+10:02	IF534 - Alvin Wilta	Gw ibadah dl ya
+10:02	IF534 - Alvin Wilta	Klo bs cek dong
+10:02	IF534 - Alvin Wilta	Masi ada ga
+10:02	IF373 - Anantha	ok w8
+10:02	IF534 - Alvin Wilta	Gw panik ini wkwkwk
+10:05	IF534 - Alvin Wilta	Oalah
+10:05	IF534 - Alvin Wilta	Reponya private maap2 
+10:05	IF534 - Alvin Wilta	Gw blon sign in itu
+10:05	IF534 - Alvin Wilta	Jd g kliatan
+10:05	IF373 - Anantha	HAHAHAHA
+10:05	IF373 - Anantha	btw
+10:05	IF373 - Anantha	akeyla dan buddies lawan blm jd contributor?
+10:06	IF534 - Alvin Wilta	Belom weh
+10:06	IF431 - Awwala NK	Kayaknyaa belom 
+10:06	IF373 - Anantha	tf
+10:06	IF534 - Alvin Wilta	Akey ga respon di mpc
+10:06	IF534 - Alvin Wilta	Jose yg contribute
+10:06	IF373 - Anantha	aku tu dikacangin di grup gabungan:(
+10:06	IF373 - Anantha	berharap dpt respon dr anak backend
+10:07	IF534 - Alvin Wilta	Anak backendnya aja blom gerak weh
+10:08	IF373 - Anantha	minimal pd commit lah
+10:08	IF373 - Anantha	itu mau ada yg diubah2 lg ga vin menurut lu
+10:08	IF534 - Alvin Wilta	Cukup lah nan
+10:08	IF373 - Anantha	atau dr awwala sama nadira
+10:08	IF373 - Anantha	harusnya boleh kan kyk gt?
+10:08	IF534 - Alvin Wilta	Kalo perubahan si kayanya plg liat dr backend klo ad masalah si
+10:08	IF534 - Alvin Wilta	Bole la
+10:09	IF373 - Anantha	kalo emg gaada perubahan sampe malem ini
+10:09	IF373 - Anantha	atau dr anak backend gaada ngomong apa2 lg
+10:09	IF373 - Anantha	gw mau build app nya gt
+10:09	IF373 - Anantha	keburu2 ga
+10:09	IF534 - Alvin Wilta	Build app brarti jadiin apk gt?
+10:09	IF373 - Anantha	apa kita mau konsul dlu ke mentor?
+10:09	IF373 - Anantha	iyaa
+10:10	IF373 - Anantha	demonya harus jd apk sih keknya
+10:10	IF534 - Alvin Wilta	Fitur utama kita yg materi sih udah ada
+10:10	IF373 - Anantha	atau ga lu kirim deh vin nanti ke ka zunan abis ibadah
+10:10	IF534 - Alvin Wilta	Jadi fitur lainnya opsional
+10:10	IF534 - Alvin Wilta	Oke2
+10:10	IF373 - Anantha	menurut dia udh cukup blm segituu
+10:10	IF534 - Alvin Wilta	Brb lagi ya
+10:10	IF373 - Anantha	kirim aja recording gw yg digrup
+10:10	IF373 - Anantha	okee vin
+10:10	IF373 - Anantha	sans ae
+17:32	IF373 - Anantha	vin
+17:32	IF373 - Anantha	jd ada yg harus diganti ga tu
+17:32	IF534 - Alvin Wilta	Lu pada mau ganti ga backgroundnya
+17:33	IF534 - Alvin Wilta	Ato udeh itu aja
+17:33	IF373 - Anantha	kira2 backgroundnya buat yg mana
+17:36	IF534 - Alvin Wilta	sabebb
+17:36	IF534 - Alvin Wilta	maksudnya itu mereka sediain gitu
+17:36	IF534 - Alvin Wilta	kalo mnrt kalian backgroundnya masih terlalu polos dipake aja yg pny mrk
+17:36	IF534 - Alvin Wilta	kalo ga ya gapapa
+17:51	IF373 - Anantha	mereka nhyuruh nyoba semua
+18:08	IF534 - Alvin Wilta	lu yang milih aja nan
+18:09	IF534 - Alvin Wilta	kalo mager ya lsg make punya jose aja sekalian wkwkwk
+18:12	IF373 - Anantha	itu cocok ga yg gw kirim
+18:16	IF534 - Alvin Wilta	agak nabrak si tengah2nya?
+18:28	STI458 - Nadira F	iyaaa
+18:29	STI458 - Nadira F	sama mungkin kalo mau ada ornamen atas bawahnya harusnya si dicocokin ama box2 tengahnya 
+18:29	STI458 - Nadira F	*menurut gw si 
+18:45	IF373 - Anantha	jd gimans
+18:48	STI458 - Nadira F	menurut gw udh bagus si sebelumnya, jd no comment gw
+18:49	IF431 - Awwala NK	Yg baru bagus siih, cuma agak gimana gituu, warna background sm kotaknyaa agak ga cocok gituu
+20:15	IF373 - Anantha	vinnn
+20:15	IF373 - Anantha	udh nanya ka zunan blm
+20:15	IF373 - Anantha	pendapat atau apa dr app yg udh dibuat
+20:15	IF373 - Anantha	dr video yg gw kasih
+20:17	IF534 - Alvin Wilta	udahhh
+20:17	IF534 - Alvin Wilta	orgnya slowres
+20:22	IF373 - Anantha	emg iye zunan begitu wkwk
+20:23	IF534 - Alvin Wilta	paling besok baru direspon
+20:23	IF534 - Alvin Wilta	kalo diliat sih cukup segini aja udah paling minimalnya
+20:23	IF534 - Alvin Wilta	fitur utama kita dah jadi soalnya
+20:26	STI458 - Nadira F	Iyaa, dari back end udh gmn Vin?
+20:28	IF534 - Alvin Wilta	udah ada framework gradle sih
+20:28	IF534 - Alvin Wilta	tapi belom ada yang commit
+20:28	IF373 - Anantha	kek mana tu
+20:29	IF534 - Alvin Wilta	lagi dimintain commit
+20:29	IF534 - Alvin Wilta	kelupaan kayanya
+20:29	IF373 - Anantha	implementasinya apa
+20:29	IF373 - Anantha	udh dimasukin ke reactnya apa gmn
+20:29	IF534 - Alvin Wilta	[File]
+20:29	IF534 - Alvin Wilta	login+signup+autentifikasi email
+20:30	IF373 - Anantha	udh digabung sama punya gw?
+20:30	IF534 - Alvin Wilta	digabung di local repo mereka sih keliatannya
+20:30	IF534 - Alvin Wilta	kalo di git belom
+20:31	IF373 - Anantha	bukan, mksdnya mereka udh cobain ke appnya lgsg apa gmn
+20:31	IF534 - Alvin Wilta	kurang tau si
+20:31	IF534 - Alvin Wilta	btw
+20:31	IF534 - Alvin Wilta	udah baguss si aku liat liatt - respon kakaknya
+20:31	IF373 - Anantha	..
+20:31	IF373 - Anantha	aku kira ada yg lebih panjang dr itu
+20:31	IF534 - Alvin Wilta	sabar ya nan
+20:31	IF373 - Anantha	HAHAHA
+20:32	IF534 - Alvin Wilta	trus dia nanyain repo kita
+20:32	IF373 - Anantha	kasih aja(?)
+20:32	IF534 - Alvin Wilta	disuruh jadiin public nih
+20:32	IF534 - Alvin Wilta	HAHAHA
+20:32	IF534 - Alvin Wilta	oke2
+20:32	IF373 - Anantha	di spek ktnya sblm ngumpulin jgn jd public
+20:32	IF373 - Anantha	gimane
+20:33	IF373 - Anantha	ehh jgn lupa buat readme
+20:34	IF534 - Alvin Wilta	diedit ajaa
+20:34	IF534 - Alvin Wilta	isinya emg apa?
+20:34	IF534 - Alvin Wilta	makanya bingung juga tp disuru kakaknya?
+20:34	IF373 - Anantha	ya coba aja blg gt
+20:34	IF373 - Anantha	kak di spek ktnya disuruh private 
+20:34	IF373 - Anantha	tp kalo dr mentornya minta gapapa ga si harusnya
+20:34	IF373 - Anantha	wkwkw
+20:34	IF373 - Anantha	gamungkin dia mencelakakan kita kan WOKAWOKW
+20:34	IF534 - Alvin Wilta	BETOL
+20:35	IF534 - Alvin Wilta	kita percaya aja sama mentor
+20:35	IF534 - Alvin Wilta	[Photo]
+20:35	IF534 - Alvin Wilta	itu ya buktinya
+20:35	IF534 - Alvin Wilta	disimpen dl
+20:35	IF373 - Anantha	JAHAHAH
+20:35	IF373 - Anantha	disimpen ga tu
+20:37	IF534 - Alvin Wilta	yoi
+20:43	IF431 - Awwala NK	Wkwkwk

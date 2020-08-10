@@ -1,0 +1,604 @@
+﻿Chat history with IF530 - Kahfi S Z, STI526 - Ardhan, IF459 - Akeyla, IF516 - Naufal Izza
+Saved on: 8/10/2020, 11:56 PM
+
+Fri, 7/24/2020
+12:27	IF534 - Alvin Wilta invited IF530 - Kahfi S Z, STI526 - Ardhan.
+12:27	IF534 - Alvin Wilta	tes
+12:27	IF534 - Alvin Wilta	bab 4 gimana?
+12:29	IF534 - Alvin Wilta	kayanya kemarin kahfi udah lumayan bisa analisis SWOT ya
+12:29	IF534 - Alvin Wilta	coba dibuat dong gimana kira2
+12:29	IF534 - Alvin Wilta	https://www.mindtools.com/pages/article/newTMC_05.htm
+12:29	IF534 - Alvin Wilta	Strengths Weaknesses Opportunities Threats
+12:44	STI526 - Ardhan	wait jumatan
+13:30	IF530 - Kahfi S Z	Ardhan, lu mau dibaginya 2 komponen per orang nggak? Misalnya gua SW, lu OT.
+13:30	IF530 - Kahfi S Z	Kalau lu mau, lu mau komponen2 yang mana?
+13:30	IF534 - Alvin Wilta	kalo bagi SWOT bagusnya sih SO WT
+13:30	STI526 - Ardhan	Bukannya SW OT ya
+13:31	STI526 - Ardhan	SW cenderung internal
+13:31	STI526 - Ardhan	OT cenderung eksternal
+13:31	IF530 - Kahfi S Z	Kalau gua bebas, bisa menyesuaikan
+13:31	STI526 - Ardhan	Ini SWOTnya buat ide dari solusi atau appnya?
+13:31	IF530 - Kahfi S Z	Lu yang pilih ardhan
+13:31	IF534 - Alvin Wilta	bebas kokk
+13:31	STI526 - Ardhan	oke2
+13:31	IF530 - Kahfi S Z	Swkt terhadap solusi 
+13:31	STI526 - Ardhan	App?
+13:31	IF530 - Kahfi S Z	Eh, salah reply. Maaf2
+13:31	IF534 - Alvin Wilta	dari solusi sekaligus appnya
+13:31	STI526 - Ardhan	Oke2
+13:32	IF530 - Kahfi S Z	Jadi pilih yang mana Ardhan?
+13:32	STI526 - Ardhan	Gw yang eksternal
+13:32	STI526 - Ardhan	OT
+13:33	IF530 - Kahfi S Z	Oke
+13:52	IF530 - Kahfi S Z	STRENGTH:
+- Mudah didapat karena tinggal diunduh di internet
+- UI dan UX menyesuaikan dengan target pelajar serta mahasiswa, mudah dimengerti
+- Selalu memberikan feedback kepada user, sehingga user dapat meningkatkan kemampuan diri.
+- Paperless sehingga mengurangi penggunaan sumber daya kertas yang terbatas
+13:52	IF530 - Kahfi S Z	WEAKNESS:
+- User harus memiliki device sehingga tidak dapat diakses oleh user yang tidak memiliki akses ke teknologi
+- Tidak ada konsekuensi tegas apabila letter of commitment tidak diikuti sehingga user akan berkurang semangatnya dalam mencapai IDP.
+- App tidak terintegrasi dengan konsultan youth development sehingga milestone yang dibuat bisa tidak valid dan dapat memanipulasi user bahwa mereka telah berprogres padahal milestone/targetnya tidak bagus
+13:53	IF530 - Kahfi S Z	Minta saran @534 - Alvin Wilta 
+13:53	STI526 - Ardhan	yang pertama masuk threat
+13:53	STI526 - Ardhan	sisanya oke
+13:57	IF534 - Alvin Wilta	report dulu ajaa
+14:04	IF530 - Kahfi S Z	Oke
+
+Sat, 7/25/2020
+01:39	IF534 - Alvin Wilta	halo gaiss maaf karena baru follow up jam segini wkwkwk
+01:40	IF534 - Alvin Wilta	SWOT sebenernya cukup cepet, tapi kalau bisa coba deh per poin2 nya dibahas gitu
+01:40	IF534 - Alvin Wilta	sama O dan T kan faktor eksternal ya, kalau bisa ditambah referensi juga
+01:40	IF534 - Alvin Wilta	boleh bagi2 juga referensinya siapa yang nyari apa
+01:40	IF534 - Alvin Wilta	semangatt
+01:41	IF534 - Alvin Wilta	[Sticker]
+06:57	STI526 - Ardhan	Okee
+
+Sun, 7/26/2020
+00:16	IF534 - Alvin Wilta	haloo
+00:16	IF534 - Alvin Wilta	punya kalian dah kerenn
+00:17	IF534 - Alvin Wilta	tinggal tambahin aja "keyword"nya gitu misalnya:
+1. Meningkatnya jumlah target pengguna
+(penjelasan)
+2. dst
+00:26	STI526 - Ardhan	[Sticker]
+20:58	IF530 - Kahfi S Z	@STI526 - Ardhan minta tolong bikin keyword buat tiap poin pada OT, biar bisa ditaro pada ppt
+20:58	IF530 - Kahfi S Z	STRENGTH
+1. Progres
+2. Tampilan
+3. Feedback
+
+WEAKNESS
+1. Konsekuensi
+2. Integrasi
+21:08	STI526 - Ardhan	Sorry2 baru baca
+21:53	IF534 - Alvin Wilta	gimana SWOT?
+21:53	IF534 - Alvin Wilta	kata kuncinya dong 
+21:53	IF534 - Alvin Wilta	yang O sama T ya dhan
+21:53	IF530 - Kahfi S Z	Yang SW udah. Yang OT belum 
+21:53	IF534 - Alvin Wilta	@STI526 - Ardhan 
+21:56	STI526 - Ardhan	Perasaan udah deh
+21:57	STI526 - Ardhan	Apa salah ya
+21:57	STI526 - Ardhan	Yang strength ada 4
+21:58	STI526 - Ardhan	Yang no 2 sama 3 harusnya 3 sama 4
+21:58	IF534 - Alvin Wilta	dibuat kata kunci per poin dari OT nya dhan
+21:58	IF534 - Alvin Wilta	biar bisa dimasukin PPT
+21:59	IF534 - Alvin Wilta	jadi di PPT cuma ada kata kuncinya doang, kalian tinggal jelasin
+21:59	STI526 - Ardhan	Oke2
+22:06	STI526 - Ardhan	Mudah didapat karena tinggal diunduh di internet dibandingkan dengan menuliskan progres pengembangan diri yang dapat memakan waktu dan menggunakan media kertas sehingga tidak ramah secara lingkungan.
+22:06	STI526 - Ardhan	Yang ini apa keywordnya @IF530 - Kahfi S Z 
+22:06	IF530 - Kahfi S Z	Kemudahan 
+22:11	IF534 - Alvin Wilta	2 kata gpp kokk
+22:11	IF534 - Alvin Wilta	^kasitau aja
+22:13	IF530 - Kahfi S Z	Ramah lingkungan aja deh
+22:13	STI526 - Ardhan	Oke
+22:13	IF534 - Alvin Wilta	nanti tolong lsg dilist ya SWOT di 1 chat biar ga bingung fixnya
+22:16	STI526 - Ardhan	STRENGTH
+1. Progres
+2. Ramah lingkungan 
+3. Tampilan
+4. Feedback
+
+WEAKNESS
+1. Konsekuensi
+2. Integrasi
+
+OPPORTUNITY 
+1. Target pasar
+2. Topik
+3. Biaya
+4. Teknologi
+
+THREAT
+1. Efektivitas
+2. Jasa yang mapan
+3. Jangkauan
+4. Spesifikasi Teknologi
+5. Ulasan
+22:16	IF534 - Alvin Wilta	ini udah fix ya?
+22:16	STI526 - Ardhan	Fix vin
+22:16	IF534 - Alvin Wilta	sipp
+
+Fri, 7/31/2020
+13:53	IF534 - Alvin Wilta invited IF459 - Akeyla.
+13:53	IF534 - Alvin Wilta	@IF530 - Kahfi S Z @STI526 - Ardhan @IF459 - Akeyla ini buat yang developer backend ya
+13:54	IF459 - Akeyla	oke
+13:54	STI526 - Ardhan	Oke vin
+13:59	IF534 - Alvin Wilta	udah ada gambaran blom key mesti ngapain aja?
+14:09	IF459 - Akeyla	Belum vin
+14:09	IF459 - Akeyla	Ini aku masih belum ngerti sama sekali tentang backend
+14:10	IF534 - Alvin Wilta	ohh oke2 mungkin nanti kahfi bisa bantu si, sama gw kasi arahan(?) bentar wkwkwk 
+14:10	IF534 - Alvin Wilta	gw juga gangerti samsek sih
+
+Sat, 8/1/2020
+12:08	IF534 - Alvin Wilta	kahfi gimana?
+12:08	IF534 - Alvin Wilta	ada arahan ga
+12:12	IF534 - Alvin Wilta	untuk backend, kalian sebenernya terserah mau pake apa, ada banyak pilihan buat native app
+12:13	IF534 - Alvin Wilta	tapi kalau mau pake react langsung gas aja
+12:34	IF530 - Kahfi S Z	Arahan gua, explore2 aja dulu backend react native 
+12:36	IF534 - Alvin Wilta	https://reactnative.dev/docs/getting-started
+17:34	IF534 - Alvin Wilta	sbnrnya
+17:34	IF534 - Alvin Wilta	kalo react native 
+17:35	IF534 - Alvin Wilta	setauku itu buat framework UI dll, jadi lebih ke front end sih
+17:35	IF534 - Alvin Wilta	kalo backend lebih ke database sm query macem SQL gt2
+17:35	IF534 - Alvin Wilta	cmiiw
+17:38	IF534 - Alvin Wilta	ato mungkin bisa cek Google Firebase
+17:41	IF530 - Kahfi S Z	Hmm... aku cek lagi deh
+22:04	IF534 - Alvin Wilta	okee buat yang backend boleh bgt eksplor
+22:06	IF534 - Alvin Wilta	1. caritau backend kerjanya gimana (gunain template 5W1H biar kalian makin ngerti tapi jgn terlalu terpaku)
+2. tentuin software apa aja yang bakal kalian pake, tentuin bahasa pemrogramannya juga
+3. cari pros and cons dari masing2 software dan bahasa pemrograman. Inget kalau front end pakenya javascript, mungkin bisa kalian cari2 apa ada conflict dll
+4. tentuin juga sekalian kalian mau pakenya web-based ato local gitu
+22:06	STI526 - Ardhan	Saran sih
+22:06	IF534 - Alvin Wilta	yaa?
+22:06	STI526 - Ardhan	Andro studio kan kotlin
+22:06	STI526 - Ardhan	Firebase ga support kotlin setauku
+22:06	STI526 - Ardhan	nanti bisa kita cari sih alternatifnya
+22:07	IF534 - Alvin Wilta	mereka tadi katanya make expo sih, gw gatau itu bakal dimasukin ke android studio apa gmn(?) yang pasti mereka makenya javascript kok
+22:07	STI526 - Ardhan	oke
+22:08	IF534 - Alvin Wilta	cmiiw sihhh nanti coba cari2 lagi aja dhann
+22:08	IF534 - Alvin Wilta	makasi masukannya
+22:08	STI526 - Ardhan	oke thanks juga vin
+22:08	IF534 - Alvin Wilta	sipp selamat bekerja gais
+22:08	IF534 - Alvin Wilta invited IF516 - Naufal Izza.
+22:09	IF534 - Alvin Wilta	ini ya naufal
+22:09	IF516 - Naufal Izza	sip, makasih
+22:09	IF516 - Naufal Izza	numpang join teman2 @IF530 - Kahfi S Z @STI526 - Ardhan @IF459 - Akeyla 
+22:09	STI526 - Ardhan	[Sticker]
+
+Mon, 8/3/2020
+13:31	IF530 - Kahfi S Z	Mau nanya Akeyla, menurutmu kita back end pake apa ya?
+14:02	IF459 - Akeyla	Aku rasa firebase
+14:09	IF459 - Akeyla	Cuma perlu diperhatikan aja batas storage, download dll nya
+
+Tue, 8/4/2020
+16:06	IF534 - Alvin Wilta	gimana progressnya?
+16:08	IF530 - Kahfi S Z	Masih ngeinstall alat2 buat firebase
+16:11	IF459 - Akeyla	iya sama
+
+Thu, 8/6/2020
+16:54	IF516 - Naufal Izza	Temen2, ada saran referensi belajar?
+16:57	STI526 - Ardhan	Youtube channel educatree
+16:58	IF516 - Naufal Izza	Oke dhan, tengkyu
+17:56	IF534 - Alvin Wilta	gimana backend
+17:56	IF534 - Alvin Wilta	progressnya sampe mana
+18:04	IF530 - Kahfi S Z	Kalau aku, aku udah ngehubungkan firebase dengan android studio.
+19:06	STI526 - Ardhan	Punten vin, appnya udah ada user flow atau kita bikin sendiri?
+19:19	IF534 - Alvin Wilta	buat sendiri ajaa dikira2in pake mockup ya
+19:19	IF534 - Alvin Wilta	disesuain sama mockup maksudnya
+19:19	STI526 - Ardhan	ohh bebas ya
+19:19	STI526 - Ardhan	oke2
+19:20	IF534 - Alvin Wilta	yepp
+20:47	IF534 - Alvin Wilta	udah ada yang upload sesuatu blom ke github/sejenisnya
+20:56	STI526 - Ardhan	blomm vin
+21:07	IF534 - Alvin Wilta	okeew
+22:21	STI526 - Ardhan	[Photo]
+22:25	IF534 - Alvin Wilta	Cakepp
+
+Fri, 8/7/2020
+22:00	IF534 - Alvin Wilta	jadi gimana gaissss
+
+Sat, 8/8/2020
+15:33	STI526 - Ardhan	maaf nih, kalian bagusnya ganti expo aja
+15:33	STI526 - Ardhan	https://www.smashingmagazine.com/2020/05/mobile-app-expo-react-native-firebase-ios-android/
+15:33	STI526 - Ardhan	Aku abis nyari2
+15:34	STI526 - Ardhan	backendnya bisa firebase juga
+15:34	STI526 - Ardhan	soalnya aku lihat di github milestonenya, direktorinya tuh dari expo
+15:34	STI526 - Ardhan	kalo dari android studio takutnya ga sesuai
+15:37	IF534 - Alvin Wilta	mereka make android studio sih tapi
+15:37	STI526 - Ardhan	frontend?
+15:37	STI526 - Ardhan	aku liat direktorinya expo
+15:37	IF534 - Alvin Wilta	iyaa tp sbnrnya ga terbatas ke android studio kok
+15:38	STI526 - Ardhan	iya biar enak gitu
+15:38	IF534 - Alvin Wilta	yoii
+15:38	IF534 - Alvin Wilta	biar disamain juga sih gapapa
+15:38	STI526 - Ardhan	perlu koordinasi sama frontend juga
+15:39	IF534 - Alvin Wilta	kalo android studio itu cuma code editornya gitu, kalo expo itu frameworknya
+15:39	STI526 - Ardhan	ohh oke2
+15:39	IF534 - Alvin Wilta	makasih udah ingetin lagi wkwkkw gw juga lupa
+15:47	STI526 - Ardhan	https://www.youtube.com/watch?v=P6cq5bziHGg
+16:58	IF530 - Kahfi S Z	Ohiya teman2, mau bilang nih. Jadi aku progressnya tiap hari lumayan dikit, kayak belum coba2 login lewat firebase, soalnya ada prioritas lain. Ardhan, boleh ss codingannya nggak, soalnya masih belum banyak mengeksplore
+17:47	IF459 - Akeyla	aku laporan juga. Progressku itu baru nyambungin firebase ke android studio. Dan itupun aku masih belum terlalu yakin udah bener atau belum
+20:43	STI526 - Ardhan	[File]
+20:44	STI526 - Ardhan	ini ya guys
+20:44	STI526 - Ardhan	login+signup+autentikasi email
+20:54	IF534 - Alvin Wilta	Okee
+
+Sun, 8/9/2020
+12:04	IF534 - Alvin Wilta	dhan
+12:04	IF534 - Alvin Wilta	push aja ke repo
+12:05	IF534 - Alvin Wilta	@STI526 - Ardhan 
+13:33	IF530 - Kahfi S Z	Ardhan, yang belum dikerjain database bagian apa ya?
+13:33	STI526 - Ardhan	oke vin
+13:34	STI526 - Ardhan	aku juga bingung
+13:35	STI526 - Ardhan	soalnya pas aku tes fitur dari frontend, banyak yang dummy
+13:35	STI526 - Ardhan	mungkin sign out?
+13:36	STI526 - Ardhan	dari frontendnya juga belom ada, mungkin bisa dikomunikasiin
+13:36	STI526 - Ardhan	ini yang sign out
+13:37	STI526 - Ardhan	atau kalo kalian mau nambah metode autentikasi lain, sabi
+13:38	STI526 - Ardhan	aku baru autentikasi via email
+13:38	STI526 - Ardhan	via google acc blm
+13:38	STI526 - Ardhan	^
+13:38	STI526 - Ardhan	^
+13:38	STI526 - Ardhan	dua itu sabi kali
+13:43	IF530 - Kahfi S Z	berarti sign out sama authenticate dengan google acc?
+13:43	STI526 - Ardhan	yoi
+17:01	STI526 - Ardhan	yang sign out ga usah wkwkw
+20:28	IF534 - Alvin Wilta	commit dong gais
+20:29	IF534 - Alvin Wilta	kalo udah jadi dicommit aja lsgg
+20:29	IF534 - Alvin Wilta	@STI526 - Ardhan 
+20:35	STI526 - Ardhan	udah vin
+20:36	IF534 - Alvin Wilta	sip
+20:38	IF534 - Alvin Wilta	sejauh ini sih udah aman ya
+20:39	STI526 - Ardhan	yoi
+20:39	IF534 - Alvin Wilta	kalau kalian mau keliatan ada contributionnya gitu
+20:39	IF534 - Alvin Wilta	coba commit aja
+20:39	IF534 - Alvin Wilta	sekecil apapun bisa berarti
+20:39	IF534 - Alvin Wilta	wkwkwk
+20:39	STI526 - Ardhan	kalo bingung mau commit apa, bisa naro yang google auth tadi
+20:39	STI526 - Ardhan	atau pesan tampilan gitu, kalo email/pass tidak valid
+20:40	STI526 - Ardhan	atau nampilin pesan kalo email sudah terdaftar dll
+20:44	STI526 - Ardhan	bisa diomongin sini/pc kalo perlu bantuan wkwkw
+20:46	IF459 - Akeyla	eh iya aku mau nanya. Jadi kayak kucoba ngerun avd nya di android studio tapi gak langsung jalan app nya
+20:46	IF459 - Akeyla	[Photo]
+20:47	IF459 - Akeyla	Langsung gini, itu perlu ngeklik yang mana ya buat ngejalaninnya?
+20:47	STI526 - Ardhan	liat kodingannya key
+20:48	IF459 - Akeyla	[Photo]
+21:07	STI526 - Ardhan	android studio ga support js
+21:16	IF459 - Akeyla	oalah
+21:17	STI526 - Ardhan	itu ada kan notifnya intellij idea
+21:17	STI526 - Ardhan	download itu
+21:17	STI526 - Ardhan	ngerjainnya disitu
+21:17	STI526 - Ardhan	ntar tesnya di expo
+21:17	STI526 - Ardhan	baru ngeh tadi aku
+21:18	IF459 - Akeyla	astaga, my bad 
+21:18	IF459 - Akeyla	oke oke tengkyu ardhan
+21:18	STI526 - Ardhan	yoii
+21:18	IF534 - Alvin Wilta	pake IntellijIDEA ultimate aja
+21:18	IF534 - Alvin Wilta	login pake email jurusan
+21:19	STI526 - Ardhan	nah yoi
+21:19	IF534 - Alvin Wilta	yang kemarin kukasitau jugaa
+21:19	IF534 - Alvin Wilta	@stei.std.itb.ac.id
+
+Mon, 8/10/2020
+08:08	STI526 - Ardhan	https://www.youtube.com/watch?v=ZcaQJoXY-3Q
+08:08	STI526 - Ardhan	https://www.youtube.com/watch?v=GZKaVJEd4JU
+08:08	STI526 - Ardhan	@IF530 - Kahfi S Z 
+08:10	IF530 - Kahfi S Z	Jadi gua kerjain yang di video, terus bikin branch baru di github?
+08:10	STI526 - Ardhan	boleh
+08:11	STI526 - Ardhan	ngerjainnya di register.js ya
+08:18	STI526 - Ardhan	Mau ngerjain yang nampilin pesen ga @IF459 - Akeyla 
+08:18	STI526 - Ardhan	Kalo email udh registered/pass kurang dari sekian karakter
+08:39	IF459 - Akeyla	Oke oke
+10:33	STI526 - Ardhan	gimana guys
+10:34	STI526 - Ardhan	sori cepet banget nanyanya
+10:34	STI526 - Ardhan	biar bisa dikabarin ke nantha ntar siang soalnya
+10:34	STI526 - Ardhan	kalo bingung boleh tanya sini/pc
+10:37	IF459 - Akeyla	aku baru belajar pakai expo dan sekarang lagi bikin yang ini
+10:37	STI526 - Ardhan	oke2
+13:09	IF530 - Kahfi S Z	mau nanya, recommended nggak kalau buka .js lewat notepad?
+13:10	STI526 - Ardhan	jangan fi
+13:10	IF530 - Kahfi S Z	lewat android studio?
+13:10	STI526 - Ardhan	IntellijIDEA fi
+13:10	STI526 - Ardhan	nanti di android studio disaranin download itu
+13:12	IF530 - Kahfi S Z	oke
+13:33	IF530 - Kahfi S Z	tadi aku pake email jurusan nggak dapat intellijIDEA yang ultimate. adsa yg tahu kenapa ya?
+13:39	STI526 - Ardhan	ga tau juga
+13:44	IF459 - Akeyla	udah daftarnya via ditsti belum?
+13:45	IF530 - Kahfi S Z	Belum
+13:45	IF459 - Akeyla	https://ditsti.itb.ac.id/software-legal/
+13:45	IF459 - Akeyla	disitu
+13:48	IF530 - Kahfi S Z	Wah, terima kasih
+13:53	IF530 - Kahfi S Z	eh, gua nambah 3 screens baru pada folder screens boleh nggak?
+14:01	STI526 - Ardhan	screen buat apa tuh
+14:12	IF530 - Kahfi S Z	ada di video
+14:12	IF530 - Kahfi S Z	loading, login sama dashboard
+14:14	STI526 - Ardhan	login udah ada ya bukannya fi
+14:14	STI526 - Ardhan	dashboard juga
+14:15	IF530 - Kahfi S Z	Nah iti
+14:15	IF530 - Kahfi S Z	Nah iti
+14:15	STI526 - Ardhan	mau ditambahin yang mananya?
+14:15	IF530 - Kahfi S Z	Nah itu
+14:15	IF530 - Kahfi S Z	Ditambahin di screennya ardhan
+14:16	STI526 - Ardhan	nambahin komponen?
+14:17	IF530 - Kahfi S Z	Nggak. Ini bener2 nambah .js baru
+14:17	IF530 - Kahfi S Z	Kurang paham 
+14:19	STI526 - Ardhan	loadingnya rencana mau dipake apa
+14:19	IF530 - Kahfi S Z	[Photo]
+14:20	IF530 - Kahfi S Z	Nah itu. Ga ngerti, soalnya gua hanya ngikut yang di video
+14:20	IF530 - Kahfi S Z	Kayaknya yang di video udah diatur sama kamu ardhan
+14:20	STI526 - Ardhan	belom njir
+14:20	STI526 - Ardhan	itu belom dihubungin samsek ke firebase
+14:21	IF530 - Kahfi S Z	Ok
+14:21	IF530 - Kahfi S Z	Yaudah, berarti aku fokus ngehubungin sama firebase ya
+14:21	STI526 - Ardhan	Loginscreen itu nongolnya setelah apa?
+14:21	STI526 - Ardhan	oke fi
+14:22	IF530 - Kahfi S Z	Ga tahu gua, sekalian nanya, nampilin preview app di intellijidea kayak gimana yak?
+14:22	STI526 - Ardhan	aku ga bisa disitu wkwkw
+14:22	STI526 - Ardhan	jalaninnya pake expo
+14:22	IF530 - Kahfi S Z	Oh.
+14:22	IF530 - Kahfi S Z	Buka projectnya di expo?
+14:22	IF530 - Kahfi S Z	Di snack dong?
+14:23	IF530 - Kahfi S Z	Ini scrennya gua hapus ya
+14:23	IF530 - Kahfi S Z	Yang loginscreen.js dan loadingscreen.js
+14:23	STI526 - Ardhan	iya fi, sorry2
+14:23	STI526 - Ardhan	kalo aku expo-cli langsung
+14:24	IF530 - Kahfi S Z	buka pake expo init bla2 ya?
+14:24	IF530 - Kahfi S Z	di cmd ya?
+14:24	IF459 - Akeyla	iya
+14:24	STI526 - Ardhan	yoi
+14:24	IF530 - Kahfi S Z	ok
+14:24	STI526 - Ardhan	ntar tinggal ganti direktori
+14:24	IF530 - Kahfi S Z	thks
+14:24	STI526 - Ardhan	terus expo start --android
+14:33	IF459 - Akeyla	eh aku mau nanya
+14:33	IF459 - Akeyla	di app ini sekarang kan kalau misalkan salah email atau passwordnya bisa tetap masuk ya. Kalau diubah jadi gak bisa masuk sampai email passwordnya bener itu gimana ya?
+14:34	IF459 - Akeyla	Perlu atau gak?
+14:37	STI526 - Ardhan	boleh key
+14:38	STI526 - Ardhan	boleh ss ga kodingannya?
+14:38	STI526 - Ardhan	atau seret .js nya kesini
+14:38	IF459 - Akeyla	belum kubuat
+14:39	STI526 - Ardhan	[Photo]
+14:41	STI526 - Ardhan	di line 51 ntar taro ifnya
+14:41	STI526 - Ardhan	contoh ifnya dari Register.js
+14:48	IF530 - Kahfi S Z	[Photo]
+14:48	IF530 - Kahfi S Z	ini aku udah coba berkali2 npm install ga bisa2
+14:48	IF530 - Kahfi S Z	ada yang punya solusi lain?
+14:49	IF459 - Akeyla	kalau aku masuk ke mindsetternya
+14:50	IF530 - Kahfi S Z	oke
+14:54	STI526 - Ardhan	udah coba npm install react?
+14:54	IF530 - Kahfi S Z	Belum, baru npm install firebase
+15:04	IF530 - Kahfi S Z	[Photo]
+15:04	IF530 - Kahfi S Z	entah kenapa aku merasa senang melihat hasil teman2ku
+15:04	IF530 - Kahfi S Z	:))))))))))))))))))))))))))))))))))))))))))))))))))))))))))00
+15:04	IF530 - Kahfi S Z	ini aku buka di web
+15:04	STI526 - Ardhan	[Sticker]
+15:19	IF530 - Kahfi S Z	eh, disini ga ada gradle ya?
+15:19	STI526 - Ardhan	ga ada
+15:19	IF530 - Kahfi S Z	[Photo]
+15:19	IF530 - Kahfi S Z	hmm
+15:19	IF530 - Kahfi S Z	berarti ga bisa lewat android ya?
+15:20	STI526 - Ardhan	bisa
+15:20	IF530 - Kahfi S Z	oh
+15:20	STI526 - Ardhan	aku daftarin firebasenya pake web app
+15:20	IF530 - Kahfi S Z	udah kamu daftarin?
+15:20	STI526 - Ardhan	udah
+15:21	STI526 - Ardhan	[Photo]
+15:21	STI526 - Ardhan	oke mantap
+15:21	IF530 - Kahfi S Z	maaf aku bingung, jadi aku bagian yang ngolah data penggunanya kan?
+15:22	STI526 - Ardhan	maksudnya?
+15:23	STI526 - Ardhan	bikin databasenya gitu?
+15:25	IF530 - Kahfi S Z	Iya2
+15:25	STI526 - Ardhan	iya
+15:25	IF530 - Kahfi S Z	Kan kamu udah buat
+15:25	STI526 - Ardhan	cuma yang emailnya
+15:25	STI526 - Ardhan	google auth kan belom
+15:25	IF530 - Kahfi S Z	Oh
+15:25	IF530 - Kahfi S Z	Coba aku pahami
+15:25	STI526 - Ardhan	tapi API firebasenya tetep make dari sini 
+15:26	IF530 - Kahfi S Z	Jadi kamu udahbuat database yg nyimpen data pengguna, tapi API firebasenya online.
+
+Jadi aku bagian memverifikasi akunnya, apakah akunnya bener atau nggak. Gitu ya?
+15:27	STI526 - Ardhan	Nggakk
+15:27	IF530 - Kahfi S Z	Waduh
+15:27	STI526 - Ardhan	Kamu nanti pake database yang udah ada gitu
+15:27	STI526 - Ardhan	Aku authnya pake email
+15:28	STI526 - Ardhan	Kamu pake google
+15:28	STI526 - Ardhan	APInya udh aku masukin di App.js
+15:32	STI526 - Ardhan	bikin project firebase -> taro API firebase ke kodenya -> aktivasi email auth di firebase -> sambungin appnya ke firebase
+15:32	STI526 - Ardhan	itu kalo aku kemaren
+15:32	STI526 - Ardhan	kalo kamu yang dua terakhir
+15:32	STI526 - Ardhan	tapi email ganti google
+15:39	STI526 - Ardhan	langsung ini aja
+15:39	STI526 - Ardhan	yang video #1 ga usah
+15:40	STI526 - Ardhan	kerjainnya di Register.js
+15:40	IF530 - Kahfi S Z	Oke
+15:40	IF530 - Kahfi S Z	Thks ya
+15:40	IF534 - Alvin Wilta	Mantapp
+15:40	STI526 - Ardhan	Oke fi, sori ribettt
+15:52	IF530 - Kahfi S Z	Sans. Gua busa bnayak belajar
+16:09	IF530 - Kahfi S Z	nanya lagi, gua perlu bikin database firebase lag nggak? atau pake yang udah dibuat ardhan?
+16:09	STI526 - Ardhan	pake yang gw bikin
+16:10	IF530 - Kahfi S Z	berarti aku mengakses database kamu ya?
+16:10	STI526 - Ardhan	yoi
+16:10	IF530 - Kahfi S Z	oke
+16:10	IF530 - Kahfi S Z	minta data rahasianya boss
+16:10	IF530 - Kahfi S Z	wkwkwkwkwkwk
+16:10	STI526 - Ardhan	njirrr
+16:10	IF530 - Kahfi S Z	eh, perlu sampe sign out ga ya?
+16:10	STI526 - Ardhan	ga usah fi
+16:10	IF530 - Kahfi S Z	ok
+16:11	STI526 - Ardhan	oya sorry, vid #1 juga perlu sebagian
+16:12	STI526 - Ardhan	vid #1 dari 5:22
+16:12	STI526 - Ardhan	1. taro checkIfLoggedIn sama componentDidMount di Register.js, navigatenya sesuai yang ada. yang ifnya navigate ke letter of commitment, else navigate ke Register
+2. taro signInWithGoogleAsync di Form.js sama Login.js, ntar client idnya kukasi
+3. di Form.js sama Login.js , tulisan touchable opacity pertama, taro onPress yang di vid #1 menit 9:13 kedalem kurungnya
+16:24	STI526 - Ardhan	906384562227-j6p5lkkck18f2bcbdrnafn1p73oms3ba.apps.googleusercontent.com
+16:24	STI526 - Ardhan	^ini client idnya ya
+16:24	STI526 - Ardhan	android
+16:25	IF530 - Kahfi S Z	ok
+16:25	IF530 - Kahfi S Z	[Photo]
+16:25	IF530 - Kahfi S Z	kalau di video pake 'user'
+16:25	IF530 - Kahfi S Z	kalau di apps  kita, variabelnya apa ya?
+16:27	STI526 - Ardhan	boleh seret jsnya ga
+16:28	IF530 - Kahfi S Z	[Photo]
+16:28	IF530 - Kahfi S Z	jadinya null
+16:28	STI526 - Ardhan	null karena lagi ga login
+16:29	IF530 - Kahfi S Z	hmm
+16:29	IF530 - Kahfi S Z	jadi harus ada yang login?
+16:29	STI526 - Ardhan	yoi
+16:29	IF530 - Kahfi S Z	ayuk, yang mau
+16:29	STI526 - Ardhan	wkwkw
+16:30	STI526 - Ardhan	ada qrnya?
+16:30	IF530 - Kahfi S Z	ada
+16:30	STI526 - Ardhan	coba send
+16:31	IF530 - Kahfi S Z	[Photo]
+16:31	STI526 - Ardhan	yah ga bisa
+16:31	IF530 - Kahfi S Z	yah
+16:31	STI526 - Ardhan	baru inget cuma local doang
+16:31	IF530 - Kahfi S Z	ok
+16:31	STI526 - Ardhan	coba kirimin register.js nya
+16:31	IF530 - Kahfi S Z	codingannya?
+16:32	STI526 - Ardhan	yoi
+16:32	IF530 - Kahfi S Z	semuanya?
+16:32	IF530 - Kahfi S Z	kalau aku push dulu gimana?
+16:32	STI526 - Ardhan	file register.js aja
+16:32	STI526 - Ardhan	sok
+16:32	IF530 - Kahfi S Z	ok
+16:32	STI526 - Ardhan	bikin branch
+16:32	IF530 - Kahfi S Z	maaf, cara bikin branch itu git branch bukan sih?
+16:34	STI526 - Ardhan	git checkout -b "Nama branch"
+16:35	STI526 - Ardhan	ga pake kutip
+16:40	IF459 - Akeyla	Eh aku boleh nanya gak?
+16:41	STI526 - Ardhan	ini seterusnya ngikut di vid #2 aja
+16:41	STI526 - Ardhan	kenapa key?
+16:41	IF459 - Akeyla	[Photo]
+16:41	IF459 - Akeyla	[Photo]
+16:41	IF459 - Akeyla	Jadi, kalau kupakai ini, jatuhnya jadi false terus di fungsi valid nya
+16:54	STI526 - Ardhan	pas mencet sign up keluar check your input again ya?
+16:56	IF459 - Akeyla	iya
+16:57	IF459 - Akeyla	kayaknya yang salah di bagian fungsi validnya
+17:05	STI526 - Ardhan	coba di fungsi validnya langsung
+
+if (email.value === '' || email.value === null) {
+return false
+}
+
+else{
+return true
+}
+
+
+17:05	IF530 - Kahfi S Z	eh, mau nanya, kok aku git add dan git commit gagal mulu yak?
+
+17:06	STI526 - Ardhan	udah pull?
+17:06	IF530 - Kahfi S Z	udah
+17:06	IF530 - Kahfi S Z	[Photo]
+17:07	IF530 - Kahfi S Z	kalau pull lagi gapapa yak?
+17:07	STI526 - Ardhan	coba aja
+17:08	IF530 - Kahfi S Z	kayaknya emang koneksi internetku yang agak parah
+17:37	IF530 - Kahfi S Z	yap jadi, aku terhenti di yang error user itu ya ardhan
+17:37	IF530 - Kahfi S Z	aku baru aja ngecommit ke github
+17:39	STI526 - Ardhan	oke kahfi gpp
+17:39	STI526 - Ardhan	thanksss kahfi
+17:51	IF459 - Akeyla	ini oke, tapi kalau kayak apakah emailnya udah kepakai atau belum gagal jadinya
+17:52	STI526 - Ardhan	nah iya
+17:52	STI526 - Ardhan	cuma aku sendiri ga tau cara ngeceknya gimana
+17:52	STI526 - Ardhan	push aja dulu key
+18:10	IF459 - Akeyla	oke
+18:10	IF459 - Akeyla	urutannya apa dulu ya?
+18:10	IF459 - Akeyla	git add -> git pull -> git push -> git commit ?
+18:11	STI526 - Ardhan	yoi
+18:25	IF530 - Kahfi S Z	gimana niih, wawan buddies jam 18:30
+18:37	IF459 - Akeyla	aku udah commit ya
+18:40	IF459 - Akeyla	mohon maaf lama banget
+18:40	STI526 - Ardhan	mantapp key
+20:10	IF534 - Alvin Wilta	Maaf baru responn
+20:10	IF534 - Alvin Wilta	Jadidari kalian gimana? Sudah selesai kah?
+20:10	IF534 - Alvin Wilta	Boleh dong tolong list gitu aja yang udah kalian kerjain perorangnyaa
+20:30	IF530 - Kahfi S Z	Kahfi: bagian autb user tapi error
+20:46	IF534 - Alvin Wilta	@STI526 - Ardhan @IF459 - Akeyla @IF516 - Naufal Izza 
+20:47	IF459 - Akeyla	Kahfi: bagian autb user tapi error
+Akeyla: validasi email dan password di login dan sign up
+20:56	IF534 - Alvin Wilta	Ardhan gmn
+20:57	IF534 - Alvin Wilta	Udah push belom
+21:06	STI526 - Ardhan	Udah vin
+21:07	STI526 - Ardhan	Ardhan: auth user dengan email
+21:11	IF534 - Alvin Wilta	Boleh tau gaa jadi sistem kalian akhirnya kea gimana? Implikasi ke user flow + syarat2 tertentu pas loginnya gitu?
+21:14	STI526 - Ardhan	ini bentuk sistemnya gimana maksudnya vin?
+21:14	IF534 - Alvin Wilta	Iyaa, yg kalian tambahin aja
+21:14	IF534 - Alvin Wilta	Kmaren kan nantha ada buat video
+21:14	IF534 - Alvin Wilta	Nah kalian ada tambahin di bagian mananya gitu
+21:14	STI526 - Ardhan	Ohh
+21:16	STI526 - Ardhan	Yang langsung keliatan di usernya sih akeyla paling
+21:17	STI526 - Ardhan	google auth juga
+21:17	STI526 - Ardhan	kalo email ga keliatan
+21:24	IF534 - Alvin Wilta	akeyla gimanaa
+21:25	IF534 - Alvin Wilta	keliatan apanya mksdnya ni
+21:25	STI526 - Ardhan	ada popup di appnya
+21:25	IF459 - Akeyla	kan semula kalau login atau signup nya kosong, cuma nunjukkin pesan doang
+21:25	IF459 - Akeyla	tapi bisa di tutup popup nya
+21:26	IF534 - Alvin Wilta	oh okee
+21:26	IF534 - Alvin Wilta	btw kalian udah selesai semua?
+21:26	IF534 - Alvin Wilta	ato masih debugging?
+21:26	IF459 - Akeyla	nah, aku buat gabisa digituin. Jadi kalau salah login atau signup, gak bisa dibuka sampai bener
+21:26	IF534 - Alvin Wilta	wah cakep
+21:27	IF534 - Alvin Wilta	udah beres key?
+21:27	IF459 - Akeyla	sebenernya belum, aku masih bingung juga
+21:27	IF459 - Akeyla	itu masih sederhana
+21:28	IF534 - Alvin Wilta	gapapa kok, gausa perfect juga
+21:28	IF534 - Alvin Wilta	yang penting kalo ga error udah cukup si
+21:28	IF534 - Alvin Wilta	soalnya ini mau dibuild appnya, takutnya ga keburu buat ngepush readme
+21:29	IF534 - Alvin Wilta	@STI526 - Ardhan @IF530 - Kahfi S Z @IF516 - Naufal Izza gimana? masih ngedit atau sudah beres?
+21:29	IF459 - Akeyla	oke
+21:30	STI526 - Ardhan	udah vin
+21:30	IF534 - Alvin Wilta	Kahfi: bagian autb user tapi error
+Akeyla: validasi email dan password di login dan sign up
+Ardhan: auth user dengan email
+21:30	IF534 - Alvin Wilta	lanjut yang ini, maaf
+21:31	IF534 - Alvin Wilta	sudah beres kah jadinya kalian? @IF530 - Kahfi S Z @IF516 - Naufal Izza 
+21:32	IF516 - Naufal Izza	Naufal: kayanya mundur, belum bisa ngikutin :(
+21:33	IF534 - Alvin Wilta	okeee gapapa
+21:33	IF534 - Alvin Wilta	kahfi gimana kahfi? @IF530 - Kahfi S Z 
+21:41	IF530 - Kahfi S Z	Aku bener2 kurang mengerti, soalnya pas ngedit ada error 
+21:46	IF534 - Alvin Wilta	udah diperbaikin kah?
+21:47	IF530 - Kahfi S Z	Tadi kata ardhan, dipush aja dulu. Terus, pas cek di commit, sepertinya masih belum clear.
+21:47	STI526 - Ardhan	punyamu tadi ada yang kuedit sih fi
+21:48	IF530 - Kahfi S Z	Nah iya, tadi ardhana ngepush
+21:48	IF530 - Kahfi S Z	Aku lihat di commit history
+21:48	IF534 - Alvin Wilta	nah iyaa
+21:48	STI526 - Ardhan	google authnya ga bisa dipake
+21:48	IF534 - Alvin Wilta	tapi udah clear belom itu?
+21:48	STI526 - Ardhan	tapi ga error
+21:48	IF534 - Alvin Wilta	hmmm
+21:48	IF534 - Alvin Wilta	dicukupkan aja kali ya
+21:48	IF534 - Alvin Wilta	selama ga error gapapa sih
+21:49	IF530 - Kahfi S Z	Jadi kayak fitur yang ga bisa dipakai ya?
+21:49	IF534 - Alvin Wilta	iyaa gapapa si
+21:49	STI526 - Ardhan	yoi
+21:50	IF534 - Alvin Wilta	okee berarti udah clear ya semuanya
+21:51	IF534 - Alvin Wilta	@IF530 - Kahfi S Z @STI526 - Ardhan @IF459 - Akeyla @IF516 - Naufal Izza clear ga nihh wkwkwk
+21:51	STI526 - Ardhan	clearrr
+21:51	IF459 - Akeyla	clerr
+21:51	IF534 - Alvin Wilta	kalo clear langsung mau dibuild nih appnya
+21:52	IF534 - Alvin Wilta	@IF516 - Naufal Izza clear yak
+21:52	IF516 - Naufal Izza	woi apaan, wkwk
+21:53	IF534 - Alvin Wilta	WKWKWK
+21:53	STI526 - Ardhan	WKWKWKW
+21:53	IF534 - Alvin Wilta	oke clear berarti
+21:53	IF530 - Kahfi S Z	Wadaw
+21:53	IF534 - Alvin Wilta	ea senyum2 ae HAHAHAHA semangat euy
+21:53	IF530 - Kahfi S Z	Wkwkwk
+21:53	IF534 - Alvin Wilta	kahfi gimanaa
+21:53	IF534 - Alvin Wilta	clear yak
+21:53	IF530 - Kahfi S Z	Clear deh
+21:53	IF534 - Alvin Wilta	sipppp
+21:53	STI526 - Ardhan	mantap semua
+21:53	IF534 - Alvin Wilta	makasi tim backendddd
+21:53	IF534 - Alvin Wilta	persiapin buat demo besok yak
+21:54	STI526 - Ardhan	yoi
+21:54	IF516 - Naufal Izza	aku mundur vin, anggep clear aja lah. (streaming tears)
+21:54	IF534 - Alvin Wilta	[Sticker]
+21:54	IF534 - Alvin Wilta	nanti sabi pelajarin dr yang udah dibuat
+21:54	IF516 - Naufal Izza	okeoke
+21:54	IF534 - Alvin Wilta	kalian ttp permanen jd contributor kok sanss sabi klo mau push/pull/fork

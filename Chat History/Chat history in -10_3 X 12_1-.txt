@@ -1,0 +1,1581 @@
+﻿Chat history in "10_3 X 12_1"
+Saved on: 8/10/2020, 11:55 PM
+
+Tue, 7/21/2020
+17:05	IF534 - Alvin Wilta	tes
+17:05	IF534 - Alvin Wilta	Jose : Overheating Komputer - menambahkan fan agar suhu terjaga
+Kahfi : Parkir Liar - Pemasangan CCTV dengan vehicle recognition
+Anantha : Kesehatan Mental kurang - Buat aplikasi dengan isi2nya fitur kesehatan mental
+Naufal : Malas membaca - ringkas bacaan, buat audio, share ke user
+Awwala : Malas bergerak - olahraga ringan, buat time planner, buat alarm/aplikasi buat ingetin
+Nadira : Kurangnya penerapan teknologi dan masalah kemiskinan di pertanian - buat startup tanihub
+Akeyla : Salah jurusan - Aplikasi mengenai video/jurusan, database kelebihan/kekurangan siswa
+Ardhana : UMKM yang kurang - Membuat aplikasi crowdfunding (investor)
+Davin : Pengangguran - Membuat membuat platform untuk lowongan kerjaan
+Alvin : Minat belajar kurang - Buat aplikasi untuk materi self improvement, progres tracking
+
+Buat BAB II - Alur berpikir mendapatkan solusi 
+17:12	IF373 - Anantha	[Photo]
+17:14	IF373 - Anantha	[Photo]
+17:14	IF534 - Alvin Wilta	[Photo]
+17:17	IF373 - Anantha	ardhan masih dimeet nih
+17:17	IF373 - Anantha	haha
+17:17	IF534 - Alvin Wilta	WKWKWK
+17:17	IF530 - Kahfi S Z	Wpy
+17:17	IF530 - Kahfi S Z	Woy
+17:17	IF534 - Alvin Wilta	@526 - Ardhan 
+17:18	IF534 - Alvin Wilta	napa?
+17:18	IF530 - Kahfi S Z	Wkwkkwkwkwkwkwkw
+17:18	IF516 - Naufal Izza	tapi dia tadi izin afk nya, wkwk
+17:18	IF530 - Kahfi S Z	Kukira ke toilet
+17:18	IF530 - Kahfi S Z	Hahahahaha
+17:21	IF373 - Anantha	https://docs.google.com/document/d/1pPF1KxfNrCCF1quN8oaH5GZ7rmMWnxqFI3D5HNSFurE/edit?usp=sharing
+17:21	IF373 - Anantha	https://drive.google.com/drive/folders/125eNpDA6HgXjZtaacRmO69oTxs0Z9A-P?usp=sharing
+17:22	IF534 - Alvin Wilta	oke thankyou nan
+17:22	IF373 - Anantha	oke dari kakaknya ktnya cuma via chat buat konsultasi
+17:23	IF534 - Alvin Wilta	perlu minta waktunya ato langsung aja?
+17:23	IF373 - Anantha	langsung aja, tp kalo bisa kolektif dan kalo bisa lewat perwakilan
+17:24	IF534 - Alvin Wilta	sipp
+17:27	IF534 - Alvin Wilta	btw yang 4 orang tadi apa buat paragraf pendek gt aja tentang solusinya?
+- Problem - apa
+- Solusi:
+     * Kaitan dengan problemnya
+     * Medianya
+     * Target pengguna
+     * Cara kerja
+
+17:27	IF373 - Anantha	itu boleh sih vin
+17:27	IF534 - Alvin Wilta	@373 - Gde Anantha @516 - Naufal Izza @373 - Gde Anantha @Davin
+17:27	IF534 - Alvin Wilta	oke2
+17:27	IF373 - Anantha	kalo bisa malem ini ya, bentar aja kan. Kisaran jam 7 atau jam 8 gt kirim aja kegrup iini
+17:28	IF373 - Anantha	biar malem nanti bisa bagi tugas, dan besok udh bisa mulai kerja
+17:28	IF373 - Anantha	gimana @534 - Alvin Wilta @516 - Naufal Izza
+17:29	IF534 - Alvin Wilta	Takeaways:
+- 4 orang tadi membuat pemaparan singkat problem dan solusi
+- Yang bisa UI/UX atau desain grafis bisa coba2 liat tentang grafis aplikasi
+- Yang bisa backend/buat app bisa eksplorasi dulu, atau sepakatin dulu mau kerja di platform apa enaknya
+17:29	IF534 - Alvin Wilta	boleh nan
+17:31	IF534 - Alvin Wilta	@516 - Naufal Izza @458 -nadira Fawziyya @526 - Ardhan @508 - Jose @373 - Gde Anantha @530 - Kahfi S Z @459 - Akeyla @431 - Awwala tolong dibaca yaa
+17:31	IF516 - Naufal Izza	setelah dipikir2 lagi, kayanya usulanku tadi masih kurang spesifik. mending ilangin aja lah ya kalo gitu
+17:31	IF373 - Anantha	Design - FIGMA
+App Dev -> React Native
+Web Dev -> React JS
+React native sama react js basicnya javascript mirip2 sama css tp stylenya
+17:31	IF373 - Anantha	ini kalo mau explore yaaa
+17:31	IF534 - Alvin Wilta	ga masalah kok, boleh lu sesuain dari diskusi kita tadi, atau mungkin lu ubah2 gapapa
+17:32	IF534 - Alvin Wilta	dicoba aja dulu, gaada salahnya kok
+17:32	IF534 - Alvin Wilta	semangatt @516 - Naufal Izza 
+18:10	IF534 - Alvin Wilta	PEMAPARAN SOLUSI - Minat Belajar (Alvin)
+Problem - TL;DR – Minat belajar kurang karena gaada growth mindset.
+Minat belajar dari pelajar dan mahasiswa di indonesia masih tergolong kurang sehingga prestasi akademik maupun secara sosial akan berdampak. Akar permasalahannya dari sikap pelajar tersebut yang percaya bahwa kepintaran gabisa dikembangin (padahal bisa). Dan karena inilah dibutuhkan sikap/ pola berpikir untuk berkembang.
+
+Solusi – TL;DR – Membuat aplikasi self improvement dengan fitur seputar mengembangkan growth mindset.
+Kaitan: Mengembangkan growth mindset agar meningkatkan karakter belajar dari mahasiswa/pelajar sehingga minat belajar meningkat, mutu belajar naik.
+Target Pengguna : Mahasiswa dan Pelajar (Tidak dibatasi usia)
+Media : Mobile app (app self improvement + planner)
+Fitur : 
+- Materi self improvement growth mindset (artikel, video, arahan)
+- Letter of commitment (sejenis surat komitmen ditandatangani, memberikan efek tanggung jawab)
+- Progress tracker (dibuat per tanggal, misalnya tanggal 4 topiknya “tantangan apa yang sudah anda respon hari ini?”, dibuat juga tanggal 5, 6, dst. Nanti ada instruksi buat ngeliat progress pertanggal itu, trus evaluasi sendiri)
+- Goal tracker dan milestone (menentukan tujuan dan milestone (sejenis idp) Tujuannya milestone supaya goal utama tidak terlihat terlalu jauh)
+- jurnal diri (sejenis diari, opsional mau isi ato engga, ntar dibagi kategori2 misalnya emotional journal, exploration journal, dream journal, dsb)
+Pertimbangan fitur:
+- Planner (mungkin bisa diintegrasikan dengan google calendar)
+- Accessibility (dark mode, font size, text-to-speech, dll)
+
+
+18:10	IF534 - Alvin Wilta	@373 - Gde Anantha pnya gw ya
+18:47	IF373 - Anantha	sipp mantap
+18:47	IF373 - Anantha	TL DR tuh apaan vin wkwk
+18:48	IF530 - Kahfi S Z	Too Long; Didn't Read
+18:48	IF373 - Anantha	ah okok
+20:27	IF373 - Anantha	@516 - Naufal Izza sama davin gimanaa
+20:33	IF373 - Anantha	btw bantu tentuin nama kelompok ya
+20:33	IF373 - Anantha	wkwkw
+20:55	IF373 - Anantha	PEMAPARAN SOLUSI – Menjaga Mental Health di Masa Pandemi (Anantha)
+
+Problem 
+Pandemi Covid menyebabkan pemerintah mengeluarkan berbagai kebijakan yang merubah kebiasaan kebiasaan hidup di masyarakat, seperti PSBB, anjuran social distancing, hingga yang terbaru adalah “New Normal”. Tentunya tidak sedikit tekanan yang mempengaruhi kondisi kesehatan mental masyarakat, seperti kecemasan dan ketakutan berlebihan terhadap wabah,  rasa terasingkan selama karantina, kecemasan terhadap kebutuhan sehari-hari, dll.
+
+Solusi 
+Membuart sebuah aplikasi berbasis mobile untuk membantu seseorang dalam menjaga kesehatan mental.
+
+Fitur : 
+-Self Appreciation (Konsepnya semacam buku diary, jadi fungsinya untuk menuliskan hal-hal yang terjadi pada diri pengguna pada hari tersebut atau mungkin hal-hal yang gabisa diceritain ke orang lain. Fitur ini juga dapat digunakan untuk mengapresiasi hal-hal positif yang sudah dilakukan pengguna pada hari itu)
+
+-Daily Task (Konsepnya seperti goal harian yang harus dilakukan pengguna, tentunya untuk menjaga kondisi kesehatan mental pengguna. Seperti, melakukan kegiatan fisik, hobby dan bersosialisasi dengan orang-orang terdekat.
+
+-Beloved Contact (Berisi list-list orang terdekat yang bisa dihubungi melalui chat, call maupun video call. Selain itu juga ditambahkan kontak psikiater/psikolog yang bekerja sama dengan developer untuk memberikan bantuan jika memang diperlukan oleh pengguna)
+
+Tambahan Fitur :
+-Video-video olah rasa, meditasi, dll untuk memudahkan pengguna dalam menjaga kondisi mentalnya
+
+21:32	IF534 - Alvin Wilta	btw yang 4 orang tadi apa buat paragraf pendek gt aja tentang solusinya?
+- Problem - apa
+- Solusi:
+     * Kaitan dengan problemnya
+     * Medianya
+     * Target pengguna
+     * Cara kerja
+21:32	IF534 - Alvin Wilta	@493 - Davin 
+21:34	STI493 - Davin	okok
+21:39	IF373 - Anantha	eh kakaknya ngajakin mpc
+21:39	IF373 - Anantha	mau invite kesini aja atau buat mpc lg
+21:40	STI493 - Davin	enaknya aja gimana 
+21:57	IF534 - Alvin Wilta	mpc aja nan 
+22:08	IF534 - Alvin Wilta	trus gimana tuh kakaknya
+22:08	IF534 - Alvin Wilta	@516 - Naufal Izza @493 - Davin yu gimana ide kalian
+22:12	IF373 - Anantha	lgsg chat disana ae kalo mau bahas ide kalian
+22:14	STI493 - Davin	eh ini harus langsung taro sini malem ini?
+22:15	IF516 - Naufal Izza	Problem:
+rendahnya minat baca, tingginya konsumsi media sosial
+
+Solusi:
+Penerapan Leveling System Pada Skill Baca,
+Dikombinasikan dengan Penggunaan Audio pada Tulisan.
+
+--kaitan--
+dapat membuat kegiatan membaca lebih seru
+audio dapat memperingan beban dalam membaca
+dapat membiasakan kegiatan membaca
+
+--media--
+web app
+
+--target pengguna--
+pelajar dan mahasiswa
+
+--cara kerja--
+ - platform menyediakan bacaan dengan level-level tertentu.
+ - disediakan versi audio untuk setiap bacaan, baik berupa rekaman maupun hasil text-to-speech (mirip podcast/audiobook)
+ - pengguna dapat mengaktifkan audio sambil membaca.
+ - parameter yang digunakan untuk menentukan level bacaan adalah panjang tulisan dan jumlah kata sulit.
+ - kedua parameter tersebut diolah dengan sistem pembobotan tertentu.
+ - bobot tulisan akan menentukan level dari tulisan tersebut.
+ - saat pengguna menyelesaikan bacaan dari suatu tulisan, pengguna akan mendapatkan sejumlah exp. semakin tinggi level tulisan, semakin besar exp.
+ - saat exp pengguna mencapai suatu milestone tertentu, level pengguna akan naik.
+22:15	IF516 - Naufal Izza	ini udah diupdate, wkwk
+22:18	IF534 - Alvin Wilta	malem ini sih optimalnya
+
+Wed, 7/22/2020
+00:43	STI493 - Davin	problem : 
+para pencari kerja yang sulit bertemu dengan pemberi lowongan yang sesuai
+
+Solusi : 
+sebuah platform / web dimana para pencari kerja dapat menemukan lowongan yang sesuai dengan keahlian dan keinginan mereka
+
+kaitan : 
+-dapat memeratakan kepadatan penduduk agar tidak terpusat di kota kota tertentu saja
+-mempercepat bagi para pencari kerja untuk menemukan pekerjaan yang membutuhkan syarat yang sesuai dengan keahlian mereka
+
+target pengguna : 
+masyarakat umum khususnya menengah kebawah yang biasanya memiliki mindset kerja harus di kota besar
+
+cara kerja
+-platform menyediakan data data umkm, perusahaan, dsb yang membutuhkan tenaga kerja
+-tersedia rincian lokasi ,posisi pekerjaan, dan syarat
+-platform dapat mengarahkan pengguna ke website si perusahaan untuk mendapatkan info lebih detail
+
+14:25	IF373 - Anantha	halo2
+14:25	IF373 - Anantha	ini mungkin lgsg copas ke mpc aja yg ada kakaknya
+14:25	IF530 - Kahfi S Z	Yo
+14:25	IF373 - Anantha	dr @516 - Naufal Izza gmn
+14:25	IF516 - Naufal Izza	ini
+14:25	IF373 - Anantha	lgsg copas juga aja di mpc
+14:26	IF373 - Anantha	sore ini kita fiksasi ya dr prioritas2 kmrn
+14:26	IF373 - Anantha	malem kita bagi tugas
+14:26	IF530 - Kahfi S Z	Buat proposal ya?
+14:26	IF373 - Anantha	iya
+14:27	IF373 - Anantha	selain proposal jg harus buat ppt soalnya buat presentasi hari senin
+20:09	IF373 - Anantha	gmn temen2 mau vote lagi atau lgsg fix in dr prioritas pertama kmrn
+20:09	IF373 - Anantha	soalnya dr kakaknya sendiri udh di acc sih harusnya
+20:09	IF373 - Anantha	biar bisa cepet kerja
+20:12	STI458 - Nadira F	kalo menurut gw iya fix in aja dr yg kemaren. Tp sabeb yg lain gmnn?
+20:12	IF431 - Awwala NK	Kayaknyaa iyaa fixin ajaa
+20:17	IF530 - Kahfi S Z	Fixin aja. Lagipula, kakaknya udah seuji
+20:17	IF530 - Kahfi S Z	Setuju
+20:19	IF459 - Akeyla	Setuju, fixkan aja
+20:21	IF373 - Anantha	berarti pake ide alvin ya
+20:21	IF373 - Anantha	@534 - Alvin Wilta vin jd project leader ya hehe
+20:23	IF534 - Alvin Wilta	Pake ide gw sepakatnya nihh?
+20:23	IF534 - Alvin Wilta	Okeee bantu2 juga yak wkwkwkw
+20:23	IF373 - Anantha	aman gan
+20:23	IF373 - Anantha	sung bagi tugas dahh vin
+20:23	IF534 - Alvin Wilta	Anjir gercep bet bntr2
+20:23	IF534 - Alvin Wilta	Lg wawan kating
+20:23	IF373 - Anantha	wkwkw oke kalemm
+20:24	STI493 - Davin	Gas
+20:51	IF516 - Naufal Izza	Boleh request gk?
+21:00	STI458 - Nadira F	kyk gmn ?
+21:07	IF516 - Naufal Izza	maksudnya request jobdesc
+22:19	IF534 - Alvin Wilta	boleh2
+22:24	IF373 - Anantha	gmn vin
+22:25	IF534 - Alvin Wilta	bagi tugas lsg nih? apa mau dibuat detil proyeknya dulu biar jelas slot tugasnya gmn?
+22:25	IF534 - Alvin Wilta	enaknya gmn nan
+22:27	IF373 - Anantha	bebas si gw mahh
+22:27	IF373 - Anantha	intinya kita harus buat proposal dgn spek yg kayak dimilis
+22:28	IF373 - Anantha	sama ada ppt buat presentasi hari senin
+22:28	IF534 - Alvin Wilta	presentasi ke siapa ntr nan
+22:28	IF373 - Anantha	nah itu gatau
+22:28	IF373 - Anantha	tp ada disuruh buat ppt seinget gw
+
+Thu, 7/23/2020
+09:08	IF534 - Alvin Wilta	https://thebhwgroup.com/blog/mobile-app-development-process
+09:08	IF534 - Alvin Wilta	bentar ya gw bagi tugas
+09:09	IF516 - Naufal Izza	oke
+09:09	IF516 - Naufal Izza	request ux design dong, wkwk
+09:13	IF534 - Alvin Wilta	1. User Experience Design
+(Wireframes, Workflows, Content, Click-Through Models)
+2. User Interface Design
+(Style guides, Render design, Render Click-Through Models)
+3. High-level Technical Design
+(Front-end, Back-end)
+
+Buat sekarang sih kayanya itu aja, ada tambahan ga?
+09:13	IF534 - Alvin Wilta	detil jobdesknya bisa ntaran lagi, jobdesknya cukup ga?
+09:15	STI458 - Nadira F	cukup si kayakny, pas malah 9, lu leaderny. Kalo menurut yg lain gmn?
+09:16	IF534 - Alvin Wilta	bukan di jumlahnya sih yang jadi masalah wkwkwk kira2 kalo ngebuat mobile app, perannya cukup ga
+09:20	IF373 - Anantha	sangat technical ya jobdesknya
+09:20	IF373 - Anantha	gw kira sampe buat yg hr senin dlu
+09:21	IF373 - Anantha	setuju2 aja sih gw
+09:23	IF534 - Alvin Wilta	You added a note.
+09:24	IF534 - Alvin Wilta	Sama nentuin nama kelompok yak
+09:24	IF508 - Jose	TimAlvin
+09:24	IF534 - Alvin Wilta	ditolak :)
+09:24	IF508 - Jose	:(
+09:25	IF534 - Alvin Wilta	apa mau bertema Async ae?
+09:25	IF534 - Alvin Wilta	nama kelompok perlu dikomunikasiin ga si biar ga sama?
+09:25	IF534 - Alvin Wilta	sama yg klompok2 sebelah gt mksdnya
+09:26	IF459 - Akeyla	gimana kalau 12463?
+09:27	IF534 - Alvin Wilta	gimana tuh?
+09:27	IF459 - Akeyla	103 x 121 (laugh)
+09:27	IF534 - Alvin Wilta	WKWKWKW huruf dong huruf
+09:28	IF508 - Jose	satuduaempatenamtiga
+09:28	IF534 - Alvin Wilta	tar masing2 coba deh usulin minimal 1 gitu
+09:28	IF534 - Alvin Wilta	ngajak ribut inimah
+09:36	IF373 - Anantha	samain aja kek nama appsnya nanti
+09:38	IF534 - Alvin Wilta	kalo nama appnya sih idenya "Mindsetter" - pengubah mindset?
+09:39	IF534 - Alvin Wilta	ada saran lain ga?
+09:39	IF373 - Anantha	sabi
+09:39	IF459 - Akeyla	bagus
+09:39	IF508 - Jose	boleh itu
+09:57	IF530 - Kahfi S Z	Keren
+16:16	IF373 - Anantha	jd gimana pembagian tugasnya nih
+16:17	IF534 - Alvin Wilta	gua ikutin yang ini, untuk sekarang dibagi 3 dulu ya nanti detil2 didalemnya bisa diurus lebih lanjut
+16:17	STI458 - Nadira F	bagi2nya polling pa gimana?
+16:18	IF373 - Anantha	kalo kyk gini gasemua kerja buat proposal ini dong vin?
+16:18	IF373 - Anantha	atau gmn
+16:18	IF534 - Alvin Wilta	itu buat eksekusinya aja kan ya sbnrnya?
+16:20	IF373 - Anantha	iyaa
+16:20	IF373 - Anantha	kalo itu udh teknis bgt, mungkin abis proposal ini baru bisa dibuat kyk gt pembagiannya
+16:22	IF534 - Alvin Wilta	atau mungkin bab 2 atau bab 3 terlalu berat?
+16:22	IF534 - Alvin Wilta	Cover, berisi secara berurutan:
+    Judul solusi
+    Foto bersama kelompok saat meet pada saat merumuskan      solusi masalah
+    Nomor kelompok dan nama kelompok
+    Anggota kelompok, terdiri dari nama dan NIM setiap anggota
+Daftar Isi
+BAB I, berisi latar belakang masalah yang dibahas
+BAB II, berisi alur berpikir mendapatkan solusi. Alur berpikir berbentuk diagram alur (flowchart) yang diperjelas dengan paragraf.
+BAB III, berisi detil solusi yang telah dibuat. Setidaknya berisi:
+Mock up solusi (mock up berupa visualisasi rancangan dari solusi)
+Butir permasalahan mana yang diselesaikan
+BAB IV, berisi Analisis SWOT terhadap solusi yang dibuat
+BAB V, berisi rangkuman dan kesimpulan dari solusi yang dibuat.
+BAB VI, berisi pembagian tugas
+Daftar Pustaka
+16:23	IF534 - Alvin Wilta	untuk proposal pembagian tugasnya mungkin gini:
+Formatting (1 orang -  rapiin, sesuain daftar pustaka, daftar isi, cover, lampiran, bab 6)
+Bab 1 (1 orang)
+Bab 2 (2 orang)
+Bab 3 (3 orang)
+Bab 4 (2 orang)
+Bab 5 (1 orang)
+16:23	IF534 - Alvin Wilta	gini aja deh
+16:23	IF534 - Alvin Wilta	itu saran dari gw sihh
+16:23	IF534 - Alvin Wilta	yang lain gmn?
+16:23	STI458 - Nadira F	eh mock up bukanny udh dibikin nantha?
+16:23	IF373 - Anantha	pas
+16:23	IF373 - Anantha	beda pak
+16:23	IF373 - Anantha	wkwkw
+16:23	STI458 - Nadira F	apa ada tambah/berubah lg?
+16:23	STI458 - Nadira F	ooh maap wkwk
+16:23	IF373 - Anantha	kan itu punya gw
+16:23	STI458 - Nadira F	yaudahh
+16:23	IF373 - Anantha	kita buat mockup alvin skrg
+16:23	IF373 - Anantha	yaudah gw buat mockup lg gpp
+16:23	STI458 - Nadira F	oh iya deh wkwkkw
+16:24	STI458 - Nadira F	baginya gmn? pilih apa acak?
+16:24	IF534 - Alvin Wilta	diskusi yuk
+16:24	IF534 - Alvin Wilta	pada bisa telpon ga
+16:24	IF373 - Anantha	boleh
+16:24	IF373 - Anantha	lgsg meet aja
+16:25	IF431 - Awwala NK	Bisaa
+16:25	STI458 - Nadira F	bisaaa
+16:25	IF530 - Kahfi S Z	Kapan?
+16:25	IF530 - Kahfi S Z	Sekarang?
+16:25	IF373 - Anantha	sekarang betbet
+16:25	IF534 - Alvin Wilta	@516 - Naufal Izza @458 -nadira Fawziyya @526 - Ardhan @508 - Jose @530 - Kahfi S Z @459 - Akeyla @493 - Davin @431 - Awwala @458 -nadira Fawziyya 
+16:25	IF534 - Alvin Wilta	sekarang bgt
+16:25	STI458 - Nadira F	kuyy
+16:25	STI458 - Nadira F	line aja (?)
+16:25	IF530 - Kahfi S Z	Wkwkwkwkwkkw. Wait, lagi ditelpon keluarga
+16:26	IF373 - Anantha	bebas dah mana ajaa
+16:26	IF534 - Alvin Wilta	yaudah line aja ayok
+16:26	STI458 - Nadira F	kuyyy
+16:26	IF534 - Alvin Wilta	Group voice call started.
+16:26	IF373 - Anantha	[Photo]
+16:29	IF373 - Anantha	bab 3 tuh yg mockup
+16:30	IF373 - Anantha	bukan bab 2
+16:30	IF534 - Alvin Wilta	yuk join call
+16:31	IF373 - Anantha	udh cukup sih menurut gw
+16:31	IF534 - Alvin Wilta	APA
+16:34	IF373 - Anantha	cukup aja sih, butuh perbandingan juga
+16:38	IF373 - Anantha	suara gw kedengeran kaga
+16:38	IF431 - Awwala NK	enggak nan
+16:38	IF373 - Anantha	front end tuh implementasi ke app nya
+16:38	IF534 - Alvin Wilta	kaga dengeran nan
+16:38	IF373 - Anantha	backend server
+16:38	IF373 - Anantha	kek fetching data
+16:39	IF534 - Alvin Wilta	oke2
+16:39	IF373 - Anantha	fokus disini aja dlu vin
+16:39	IF373 - Anantha	pilih aee sabeb
+16:40	IF373 - Anantha	gw ambil mockup dah
+16:40	IF373 - Anantha	sama naufal berarti
+16:40	IF373 - Anantha	krn dia minta UX
+16:40	IF516 - Naufal Izza	bab 3 ya berarti
+16:40	IF516 - Naufal Izza	oke
+16:40	IF373 - Anantha	oke
+16:40	STI493 - Davin	ada suaranya ga
+16:41	IF373 - Anantha	gaada vin
+16:41	IF373 - Anantha	ketik aja dah lu pd maunya apa
+16:41	STI493 - Davin	ksimpulan boleh formatting gas
+16:41	IF530 - Kahfi S Z	aku ada suaranya nggak?
+16:41	IF373 - Anantha	yaude tembak vin kalo emg pd bebas
+16:41	STI493 - Davin	formating deh wkkwkwk 
+16:42	STI493 - Davin	tkut kurang detail kl materi
+16:42	IF373 - Anantha	okee gas
+16:43	IF530 - Kahfi S Z	Oke
+16:43	IF534 - Alvin Wilta	untuk proposal pembagian tugasnya mungkin gini:
+Formatting (1 orang -  rapiin, sesuain daftar pustaka, daftar isi, cover, lampiran, bab 6) - Davin
+Bab 1 (1 orang) - Akeyla
+Bab 2 (2 orang) - nadira, awwala
+Bab 3 (2 orang) - nantha, naufal
+Bab 4 (2 orang) - Ardhan, Kahfi
+Bab 5 (1 orang) - Jose
+Buat powerpoint - 1 Orang - Alvin
+16:43	IF373 - Anantha	gpp vin lu ppt
+16:43	IF373 - Anantha	biar lu bisa control yg lain
+16:45	IF373 - Anantha	oit kenapaa
+16:45	IF373 - Anantha	oh boleh2
+16:46	IF373 - Anantha	nanti gw baca detail solusi lu kmrn fitur2nya, baru gw konsul ke lu vin
+16:46	IF373 - Anantha	boleh
+16:46	IF373 - Anantha	tambahin yg kmrn
+16:46	STI493 - Davin	gw skalian ksimpulan bareng ye?
+16:46	IF534 - Alvin Wilta	[Photo]
+16:46	STI493 - Davin	nambah nambah aja gitu
+16:46	STI493 - Davin	maksudnya
+16:46	STI458 - Nadira F	deadline dong, biar terpacu wkwk
+16:47	IF534 - Alvin Wilta	Sabtu pagi jam 9
+16:48	IF373 - Anantha	gas malem
+16:48	IF373 - Anantha	biar progressnya bagus
+16:48	IF373 - Anantha	yaude siang
+16:48	IF373 - Anantha	abis makan siang
+16:48	IF373 - Anantha	gimans
+16:49	IF373 - Anantha	sekitar jam 2 atau jam 3 sore
+16:49	STI458 - Nadira F	bisaaa
+16:49	IF373 - Anantha	kahfi nitip aja
+16:49	IF373 - Anantha	kan ga sendiri 1 bab
+16:50	IF373 - Anantha	toh kerjaannya sama
+16:50	IF373 - Anantha	oke gan
+16:51	IF373 - Anantha	akeyla lg ada kerjaan ktnya malem ini, mungkin dia agak delay jam 1/2 malem buat latar belakang
+16:51	IF373 - Anantha	itu mksdnya akeyla vin @534 - Alvin Wilta 
+16:51	STI458 - Nadira F	iya vinn wkwk
+16:51	IF534 - Alvin Wilta	okee
+16:52	IF373 - Anantha	aman keep report aja
+16:52	IF373 - Anantha	jangan ilang ya
+16:52	IF373 - Anantha	kalo ilang isis
+16:52	STI493 - Davin	oke aman 
+16:52	IF373 - Anantha	ilang corona
+16:53	IF373 - Anantha	iye bang sibuk
+16:53	STI493 - Davin	Group call ended.
+16:53	IF373 - Anantha	[Photo]
+16:56	IF534 - Alvin Wilta	gais yang tadi jam 6 yak jadinyaa
+16:56	IF534 - Alvin Wilta	boleh buatin dulu ga mpc2 nya
+16:56	IF459 - Akeyla	ini yang mana?
+16:57	IF534 - Alvin Wilta	yang tadi bab 2-4
+16:57	IF534 - Alvin Wilta	bahas detilnya
+16:57	IF459 - Akeyla	ooh oke
+17:27	IF459 - Akeyla	eh, btw, untuk proposalnya ini di word atau google docs?
+17:27	IF534 - Alvin Wilta	google docs
+17:27	IF534 - Alvin Wilta	oh iya
+17:27	IF534 - Alvin Wilta	gw buat dulu ya
+17:27	IF459 - Akeyla	oke
+17:29	IF534 - Alvin Wilta	minta email kalian semua dong
+17:29	IF431 - Awwala NK	awwalakamila01@gmail.com
+17:29	IF508 - Jose	galbraith.jose@gmail.com
+17:30	IF534 - Alvin Wilta	@516 - Naufal Izza @458 -nadira Fawziyya @526 - Ardhan @373 - Gde Anantha @530 - Kahfi S Z @493 - Davin @431 - Awwala 
+17:30	IF459 - Akeyla	akeylanaufal@gmail.com
+17:30	IF373 - Anantha	gdeanantha33@gmail.com
+17:30	STI526 - Ardhan	ardhanaputraw@gmail.com
+17:31	IF530 - Kahfi S Z	sbhnkahfi@gmail.com 
+17:33	IF534 - Alvin Wilta	@516 - Naufal Izza @458 -nadira Fawziyya @493 - Davin 
+17:33	IF534 - Alvin Wilta	udah gw share yaa
+17:35	STI458 - Nadira F	 nadira.fwzyya@gmail.com
+17:36	IF373 - Anantha	[Photo]
+18:11	IF516 - Naufal Izza	mail.naufalizza@gmail.com
+18:37	STI493 - Davin	christopherdavin08@gmail.com
+20:34	IF534 - Alvin Wilta	Deadline selesai proposal - Sabtu 25/07 jam 08.00 WIB
+23:20	IF459 - Akeyla	@534 - Alvin Wilta aku udah buat (baca: nyalin) latar belakangnya. Mohon dicek
+23:21	IF534 - Alvin Wilta	okee
+
+Fri, 7/24/2020
+12:14	IF534 - Alvin Wilta	Progress reportnya via chat aja ya, ketik aja kalian udah ngerjain apa aja
+12:15	IF534 - Alvin Wilta	Dikirimin kesini
+12:15	IF534 - Alvin Wilta	Kalo belom buat apa2 ketik aja belum mulai
+12:45	IF534 - Alvin Wilta	Progress Report:
+(Siapa)
+Hal yang sudah dikerjakan:
+-
+-
+
+Hal yang belum dikerjakan:
+-
+-
+
+Kendala:
+-
+-
+
+13:03	IF530 - Kahfi S Z	Progress Report:
+Kahfi
+
+Belum mulai 
+Kendala:
+Tadi pagi lagi ngurusa acara 
+13:05	IF431 - Awwala NK	Progress Report:
+Nadira , awwala
+Hal yang sudah dikerjakan:
+- diagram alur (flowchart) (masih butuh revisi mungkin)
+- paragraf
+
+Hal yang belum dikerjakan:
+- data tambahan
+
+Kendala:
+- kurang tau gambaran / referensi alur pikir yang merujuk ke solusi, abisnya kebanyakan (di penelitian lain, sori kalo kurang jauh carinya) lebih ke alur kerja penyelesaian penelitiannya
+
+
+- mungkin bisa kasih review dari kalian
+
+13:22	IF373 - Anantha	Progress Report : Nantha
+Hal Yang Sudah Dikerjakan :
+-Login&SignUp Screen
+-Home Screen (1/2)
+
+Hal yang belum dikerjakan :
+-account screen
+-Goal tracker screen
+-Diary Screen
+-Home Screen (1/2)
+-Details Screen
+
+Kendala :
+1. Baru ada waktu he
+2. Baru ngerti konsep fitur-fiturnya alvin
+13:57	IF534 - Alvin Wilta	eh iya jadi namanya fix mindsetter nih?
+14:04	IF530 - Kahfi S Z	Gapapa
+14:05	IF530 - Kahfi S Z	Progress Report:
+Kahfi
+Hal yang sudah dikerjakan:
+Buat SW
+-
+
+Hal yang belum dikerjakan:
+Buat dokumennya, baru tulisannya
+-
+
+Kendala:
+-
+-
+
+14:07	IF530 - Kahfi S Z	Kendala: Belum megang laptop, lagi di lapangan
+14:13	STI526 - Ardhan	Progress Report : Ardhan
+Hal Yang Sudah Dikerjakan :
+-pembuka bab IV
+
+Hal yang belum dikerjakan :
+-OT
+-Kombinasi antara keempat faktor SWOT
+
+Kendala :
+1. Belum terlalu paham sama konsepnya
+14:24	IF534 - Alvin Wilta	@516 - Naufal Izza @458 -nadira Fawziyya gimana?
+14:25	IF431 - Awwala NK	Nadirr sm aku tadi ngerjainnyaa bareng vinn, jadi itu progress barengaan
+14:25	IF534 - Alvin Wilta	ohh oke2
+14:28	IF516 - Naufal Izza	Progress Report:
+Naufal
+Hal yang sudah dikerjakan:
+Letter of Commitment (kurang frame tambahan aja)
+
+
+Hal yang belum dikerjakan:
+Buat dokumennya, baru tulisannya
+- belum ditentukan
+
+Kendala:
+- baru ngerti konsep fitur
+-
+14:43	IF534 - Alvin Wilta	okeee
+14:44	IF534 - Alvin Wilta	jadi ada ga kendala yang perlu didiskusikan bareng?
+14:48	IF530 - Kahfi S Z	Kalau dari aku, ga ada
+14:58	STI526 - Ardhan	nggak kalo aku
+17:50	STI458 - Nadira F	adaa, aku ama awa alur berpikirnya udh bener blom sama diagramnya (secara garis besar gitu)?
+17:50	STI458 - Nadira F	abisny kalo ternyata salah kan revisiny tiba2 bat ntar jadiny
+18:11	IF534 - Alvin Wilta	Oke coba gw liat yaa
+18:11	IF431 - Awwala NK	Nah iya, kira2 punya ku dan nadir ada tanggapan gakk?
+23:43	IF516 - Naufal Izza	Progress Report:
+Naufal
+Hal yang sudah dikerjakan:
+- Letter of Commitment
+- Goal Tracker
+- Profile
+
+Hal yang belum dikerjakan:
+Buat dokumennya, baru tulisannya
+- belum ditentukan
+
+Kendala:
+- 
+
+Sat, 7/25/2020
+01:15	IF534 - Alvin Wilta	Makasih semuanya buat progress reportnyaa
+01:16	IF373 - Anantha	https://www.figma.com/file/imgF1fvuEbugZofSxjhvo8/Mindsetter?node-id=0%3A1 
+01:16	IF534 - Alvin Wilta	ini hasil mockup dari @IF373 - Anantha @IF516 - Naufal Izza monggo dicekk
+01:17	IF534 - Alvin Wilta	kira2 begitu UI nya, kalau ada yang mau tambah2 sabi
+01:17	IF534 - Alvin Wilta	dibicarain ke sini
+12:57	IF530 - Kahfi S Z	Progress Report:
+Kahfi
+Hal yang sudah dikerjakan:
+- Menambah penjelasan pada SW
+-
+
+Hal yang belum dikerjakan:
+-
+-
+
+Kendala:
+- 
+-
+
+13:01	STI526 - Ardhan	Progress Report:
+Ardhan
+Hal yang sudah dikerjakan:
+- Menambah penjelasan dan referensi pada OT
+-
+
+Hal yang belum dikerjakan:
+-
+-
+
+Kendala:
+- 
+-
+
+13:40	IF516 - Naufal Izza	Progress Report:
+Naufal
+Hal yang sudah dikerjakan:
+- Letter of Commitment (perlu diedit)
+- Goal Tracker
+- Profile
+- Biodata
+- Progress (aku buat weekly, butuh evaluasi)
+
+Hal yang belum dikerjakan:
+Buat dokumennya, baru tulisannya
+- belum ditentukan
+
+Kendala:
+-
+15:39	IF373 - Anantha	https://www.figma.com/file/imgF1fvuEbugZofSxjhvo8/Mindsetter?node-id=0%3A1
+15:39	IF373 - Anantha	gais ini mockup  buatan gw saama naufal, kalo ada saran sabi bgt yakk
+16:46	IF534 - Alvin Wilta	okee makasih nan
+
+Sun, 7/26/2020
+10:35	IF534 - Alvin Wilta	Cover dan kesimpulan udah bisa dibuat yaa
+10:35	IF534 - Alvin Wilta	@IF508 - Jose @STI493 - Davin 
+11:36	STI493 - Davin	itu formatingnya lgsg di gdocsnya aja?
+13:07	IF534 - Alvin Wilta	formatnya ntar aja vin
+13:07	IF534 - Alvin Wilta	atur dulu format referensi
+13:07	IF534 - Alvin Wilta	daftar isi ntar download
+13:08	IF534 - Alvin Wilta	di word editnya, soalnya bakal beda
+13:25	STI493 - Davin	ok btw itu diaksesnya mau disamain aja 8 8 nya?
+13:25	STI493 - Davin	tanggal aksesnya
+13:39	IF534 - Alvin Wilta	Kemarin aja dav
+13:40	IF534 - Alvin Wilta	Iya disamain jadi kemarin
+18:36	IF534 - Alvin Wilta	gais besok presentasi jadinya bagi tugas aja ya
+18:36	IF534 - Alvin Wilta	siapa bahas yang mana
+18:36	STI458 - Nadira F	ooh
+18:36	STI458 - Nadira F	udh dibuat pptnya?
+18:36	IF534 - Alvin Wilta	nah itu ntar gw jelasin dulu pptnya gimana
+18:36	STI458 - Nadira F	yang berdua bisa bahas berdua ?
+18:36	IF534 - Alvin Wilta	jadi rencana kita bakal telpon lagi
+18:36	IF534 - Alvin Wilta	semuanya sekalian
+18:36	STI458 - Nadira F	apa perwakilan dr berdua
+18:36	STI458 - Nadira F	oooh
+18:37	IF534 - Alvin Wilta	sbnrnya sih bebas dari kalian aja
+18:37	IF534 - Alvin Wilta	kalo mau diwakilin sok aja
+18:37	STI458 - Nadira F	okee
+18:37	IF534 - Alvin Wilta	yang pasti ntar malem ini gw bakal bahas pptnya gimana, jadi pada kosong jam berapa?
+18:37	IF534 - Alvin Wilta	jam 10 bisa? (berhubung ada yang wawancara kating)
+18:38	IF534 - Alvin Wilta	@IF516 - Naufal Izza @STI458 - Nadira F @STI526 - Ardhan @IF508 - Jose @IF373 - Anantha @IF530 - Kahfi S Z @IF459 - Akeyla @STI493 - Davin @IF431 - Awwala NK 
+18:38	IF373 - Anantha	bisa harusnya
+18:38	IF459 - Akeyla	aku bisa
+18:38	IF373 - Anantha	eh meet aja dong, line bala
+18:38	IF534 - Alvin Wilta	sipp sekalian share screen
+18:38	IF373 - Anantha	biar bisa sambil present juga
+18:38	IF373 - Anantha	ok
+18:38	STI458 - Nadira F	sabii
+18:38	IF431 - Awwala NK	okk2 bisaa2
+18:45	STI493 - Davin	Gw wawan mulai jam stgh 10 ey 
+18:48	STI458 - Nadira F	mungkin dimajuin waktuny vin
+18:49	IF534 - Alvin Wilta	jam 8.30 bisa ga?
+18:50	IF508 - Jose	boleh
+18:50	STI458 - Nadira F	sabiii
+18:50	STI458 - Nadira F	yg lain gmn??
+18:51	IF431 - Awwala NK	Bolee2
+18:55	IF459 - Akeyla	bole
+19:02	IF534 - Alvin Wilta	yang lain konfirmasi dong
+19:03	IF373 - Anantha	gw ada meeting gt 7.30. Kalo emg udh kelar gw join
+19:09	STI493 - Davin	730 wawan trus 930 wawan lagi wkwwk
+19:09	IF373 - Anantha	dah ditentuin aje jam brp, yg bisa join join
+19:09	STI493 - Davin	paling ntar gw join kalo ada jeda nya 
+19:09	IF373 - Anantha	ada notulensi ajaa yg penting
+19:09	STI493 - Davin	lgsg kasih aja suruh apa apanya 
+19:10	IF534 - Alvin Wilta	okee
+19:10	IF534 - Alvin Wilta	tolong dong ada yang bersedia jadi notulen ga?
+19:11	IF373 - Anantha	yg bisa dtg dr awall
+19:50	IF530 - Kahfi S Z	Gua mau selesai medium bentar lagi. Tinggal 2 menit read lagi
+20:30	IF508 - Jose	jadi skrng?
+20:32	IF534 - Alvin Wilta	https://meet.google.com/iqy-kuwm-jfe
+20:32	IF534 - Alvin Wilta	itu ya
+20:32	STI458 - Nadira F	okk
+20:33	IF534 - Alvin Wilta	yok join
+20:36	IF534 - Alvin Wilta	yang lain yok
+20:38	IF373 - Anantha	@STI493 - Davin @IF516 - Naufal Izza @IF530 - Kahfi S Z 
+20:39	IF534 - Alvin Wilta	8.40 kalo gaada yang join lagi gw mulai ya
+20:40	IF530 - Kahfi S Z	Ok
+21:00	IF373 - Anantha	https://docs.google.com/document/d/1pPF1KxfNrCCF1quN8oaH5GZ7rmMWnxqFI3D5HNSFurE/edit?usp=sharing
+21:02	IF516 - Naufal Izza	Masih ada wawan kating..
+21:15	IF373 - Anantha	https://forms.gle/sMBPcVfKQy8QwfvN7
+21:16	IF373 - Anantha	bit.ly/KelompokMilestoneSPARTA
+21:17	IF534 - Alvin Wilta	28
+21:20	STI458 - Nadira F	[Photo]
+21:20	STI458 - Nadira F	itu kalo butuh dokumen foto
+21:20	IF534 - Alvin Wilta	eh iya
+21:20	IF534 - Alvin Wilta	betul
+21:21	IF534 - Alvin Wilta	makasih nadira
+21:21	STI458 - Nadira F	sama samaa
+21:21	IF373 - Anantha	keknya 2 cukup deh
+21:21	IF373 - Anantha	masa iya cover isinya foto semua
+21:21	IF373 - Anantha	WKWK
+21:21	STI458 - Nadira F	wkwk biar keliatan sering rapat gitu wkwk. tp sabeb lah
+21:21	IF530 - Kahfi S Z	haduh2
+21:21	STI458 - Nadira F	abisny ada yg gaikut kn, ga enak jg si ditaro
+21:23	STI493 - Davin	masih ada?
+21:23	STI493 - Davin	gw baru kelar
+21:23	IF373 - Anantha	sung gawe ae vin
+21:23	STI493 - Davin	yode gausah pake foto fultim kan
+21:29	IF534 - Alvin Wilta	gausa gapapa
+21:29	IF534 - Alvin Wilta	perlu bukti kita ngom sm kakaknya ga si
+21:29	IF530 - Kahfi S Z	Waduh. Lupa aku
+21:47	IF534 - Alvin Wilta	jangan lupa pembagian tugas juga ditulis yak
+21:55	IF534 - Alvin Wilta	btw maaf, urutannya jadi berubah yaaa bagian SWOT @IF530 - Kahfi S Z sama @STI526 - Ardhan pindah jadi sebelum kesimpulan biar lebih nyambung alurnya
+22:12	IF534 - Alvin Wilta	https://docs.google.com/document/d/1pPF1KxfNrCCF1quN8oaH5GZ7rmMWnxqFI3D5HNSFurE/edit dicek ya notulen hasil tadi
+22:21	IF534 - Alvin Wilta	btw karena ga 20 menit, jadinya tolong dibahasnya cepet ya wkwkwkw
+22:21	IF534 - Alvin Wilta	kalau bisa langsung siapin script sendiri biar tinggal dibaca besok
+22:41	IF373 - Anantha	okok
+22:41	IF373 - Anantha	bsk pagi gw siapin dahh
+23:11	IF534 - Alvin Wilta	docs jangan diubah2 lagi yaa, udah mau dirapiin
+
+Mon, 7/27/2020
+00:27	IF534 - Alvin Wilta	btw ntar davin ngambil bagian fitur no 1 2 3, gw ambil bagian QnA ntar
+00:27	IF534 - Alvin Wilta	sama fitur 4 5
+00:47	IF373 - Anantha	keren dah emg lo vin
+00:48	STI493 - Davin	mantap vin
+00:48	IF373 - Anantha	proposal gmn
+00:48	STI493 - Davin	oiya baru gw kirim ke alvin
+00:49	IF534 - Alvin Wilta	lsg kirim ya
+00:49	IF373 - Anantha	kalo dari leader sudah aman, aman harusnyaa
+00:49	IF534 - Alvin Wilta	format namanya bener gaa
+00:50	IF534 - Alvin Wilta	Penamaan file mengikuti format <Nomor Kelompok>_<Nama Kelompok>_<Judul Solusi>.pdf
+00:50	IF534 - Alvin Wilta	aman lah ya
+01:33	IF534 - Alvin Wilta	https://www.youtube.com/watch?v=_X0mgOOSpLU
+penjelasan growth mindset dari orangnya sendiri (Carol Dweck)
+02:05	IF534 - Alvin Wilta	[File]
+02:05	IF534 - Alvin Wilta	[File]
+02:05	IF373 - Anantha	minta proposal terbaru jg vin
+02:05	IF373 - Anantha	kalo dah jadi pdf
+02:06	IF534 - Alvin Wilta	[File]
+02:06	IF373 - Anantha	oke mantapp
+10:42	IF373 - Anantha	oke berarti semua presentasi yaa
+10:42	IF431 - Awwala NK	Okk2
+10:42	IF373 - Anantha	teknisnya pake yg kmrn aja
+10:42	STI458 - Nadira F	iyaa
+10:43	IF373 - Anantha	@IF516 - Naufal Izza bisa ambil bagian mockup mu nanti yg goals, profile dan letter of commitmentt
+10:43	IF516 - Naufal Izza	wokee
+10:43	IF373 - Anantha	bisa disiapin yakk
+10:44	IF516 - Naufal Izza	yoi
+10:44	IF373 - Anantha	sip2
+10:44	IF516 - Naufal Izza	eh nan, alokasi waktu 5 menit itu kita berdua kan ya
+10:44	IF373 - Anantha	sepertinya bakal di press lg
+10:45	IF373 - Anantha	karena 20 menit udh termasuk tanya jawab dan presentasi
+10:45	IF516 - Naufal Izza	oh, okeoke. ak usahain secepat mngkin aja ya
+10:47	STI458 - Nadira F	eh tadi aku nyoba presentasi, awwala 3 menit kurang, aku alur pikir 2 menit an. eh tp maaf ya kalo ternyata ada yg miss. 
+10:47	IF373 - Anantha	okeokee bolehh
+10:47	IF534 - Alvin Wilta	btw maaf gw kedisconnect tadi
+10:47	IF534 - Alvin Wilta	tadi dikasitau apa ga
+10:47	IF373 - Anantha	kalem
+10:48	IF373 - Anantha	Teknis Presentasi Milestone
+1. Sudah diminta untuk membuat PPT
+2. 1 breakout room akan dibagi menjadi 3 (1,2,3 di room 1. 4,5,6 di room 2, dst)
+3. Didalam breakout room, urutan presentasi dimulai dari yang siap. Jika gaada yang siap dimulai dari yang paling kecil.
+4. Ada waktu untuk persiapan, presentasi, tanya jawab (20 menit)
+5. Ada juri, kelompok lain boleh bertanya
+
+10:48	IF534 - Alvin Wilta	anjir wkwkwk 
+10:48	IF373 - Anantha	6. Semua orang sebaiknyaa ngomong
+10:49	IF373 - Anantha	3 menit, persiapan. 10 menit(presentasi). Tanya jawab(7 menit)
+10:49	IF373 - Anantha	harus dipress lg:)
+10:49	STI458 - Nadira F	wkwk iyaa
+10:49	IF373 - Anantha	tp inget yak jangan buru2
+10:49	IF530 - Kahfi S Z	yak, kata2nya dikurangi aja
+10:49	IF530 - Kahfi S Z	yang SWOT bisa aku cut
+10:50	IF373 - Anantha	eh nanti pertama ae ga si, biar ga ngedown liat yg lain AHAHAHA
+10:50	IF431 - Awwala NK	Nah iyaa setujuu wkwkwk
+10:50	IF530 - Kahfi S Z	wkwkwkkwwkkwkwkwkwkw
+10:50	IF534 - Alvin Wilta	iya pertama aeee
+10:50	IF534 - Alvin Wilta	wkwkwk
+10:50	IF530 - Kahfi S Z	gua sih oke2
+10:50	IF373 - Anantha	yauds gass
+10:50	IF530 - Kahfi S Z	aja
+10:50	IF530 - Kahfi S Z	nanti yang bilang mau pertama alvin ya
+10:51	IF373 - Anantha	btw moderator siapa ya nanti
+10:51	IF534 - Alvin Wilta	lu nan
+10:51	IF373 - Anantha	oke...
+10:51	IF534 - Alvin Wilta	wkwkwkw
+10:51	IF534 - Alvin Wilta	trus tes kenal dikasitau ga teknisnya?
+10:51	IF373 - Anantha	YA AMPUN GW LUPA NGAFALIN COK
+10:52	IF530 - Kahfi S Z	mampus
+10:52	IF530 - Kahfi S Z	gua juga
+10:52	IF534 - Alvin Wilta	sama gw juga wkwkwk
+10:52	IF530 - Kahfi S Z	tahu darimana ada tes kenal?
+10:52	IF534 - Alvin Wilta	kmaren ada yg wawan mentor
+10:52	IF534 - Alvin Wilta	katanya ada
+10:53	IF530 - Kahfi S Z	hmm
+10:53	IF530 - Kahfi S Z	wadaw
+10:56	IF534 - Alvin Wilta	udah ada yang masuk breakroom?
+10:56	IF373 - Anantha	udah vin
+10:56	IF516 - Naufal Izza	udah
+10:56	IF530 - Kahfi S Z	udah
+10:56	IF534 - Alvin Wilta	gua blm
+10:56	STI493 - Davin	lgsg pindah aja
+10:56	IF373 - Anantha	td udh accept kan?
+10:56	IF534 - Alvin Wilta	belom diassign gw
+10:57	IF373 - Anantha	eh siapa yg blm
+10:57	IF534 - Alvin Wilta	gw belom
+10:59	IF534 - Alvin Wilta	weh udah mulai blom?
+10:59	IF534 - Alvin Wilta	gw masih di room utama
+10:59	IF373 - Anantha	WEY DISURUH MULAI DULUAN
+
+10:59	IF373 - Anantha	AHAHAHAH
+10:59	STI458 - Nadira F	iyaaaaa
+10:59	IF534 - Alvin Wilta	WOI
+10:59	IF534 - Alvin Wilta	GW GIMANA
+10:59	STI458 - Nadira F	tp alvinny gmn
+10:59	IF534 - Alvin Wilta	BLOM MASUK
+10:59	IF431 - Awwala NK	Kacoo2
+10:59	STI493 - Davin	wkwkkw ntar dimasukin sama host ktanya
+10:59	STI458 - Nadira F	wkwkkwkwkwkwkwkwkwk
+10:59	IF534 - Alvin Wilta	bilangin dong
+10:59	IF534 - Alvin Wilta	anjir
+10:59	IF534 - Alvin Wilta	wkwkwkwkwk
+10:59	STI458 - Nadira F	masalahny leaderny ni
+11:00	STI458 - Nadira F	yang share screen siapa?
+11:00	IF373 - Anantha	gw
+11:00	STI458 - Nadira F	ok ok
+11:00	IF534 - Alvin Wilta	ok udh join
+11:00	IF431 - Awwala NK	Eh, oncam ga sih
+11:01	IF534 - Alvin Wilta	udh masuk
+11:01	IF373 - Anantha	okeeeokee
+11:02	IF373 - Anantha	woi ke dc
+11:02	STI458 - Nadira F	???
+11:02	IF373 - Anantha	udh ada blm gw?
+11:02	STI458 - Nadira F	blum
+11:02	IF373 - Anantha	alvin putus2>
+11:03	IF534 - Alvin Wilta	udah join blom nan
+11:08	IF534 - Alvin Wilta	abis ardhan sama kahfi, fitur no 1 2 3 dijelasin sama @STI493 - Davin 
+11:08	IF534 - Alvin Wilta	@IF373 - Anantha 
+11:10	IF534 - Alvin Wilta	@IF508 - Jose jangan lupa ya ini mobile app, ga terbatas pada android aja
+11:12	IF534 - Alvin Wilta	udah 8 menit ya
+11:12	IF534 - Alvin Wilta	kalau bisa dipercepet, dipercepet
+11:13	IF534 - Alvin Wilta	mulai 11.04
+11:16	IF534 - Alvin Wilta	12 menit
+11:21	IF530 - Kahfi S Z	16 menit
+11:24	IF373 - Anantha	siap bgt sih alvin
+11:25	IF373 - Anantha	keren dah klean
+11:25	IF534 - Alvin Wilta	mantap gaisss
+11:25	IF534 - Alvin Wilta	WKWKWKWK
+11:26	IF530 - Kahfi S Z	mantap semuanya
+11:26	IF373 - Anantha	inet lu napa vin
+11:26	IF534 - Alvin Wilta	iya gw dah kira2in WKWKWK pertanyaan2nya
+11:26	IF534 - Alvin Wilta	gatau dah gajelas dr awal
+11:26	IF530 - Kahfi S Z	bagus alvin
+11:26	IF373 - Anantha	wow predicted
+11:26	IF373 - Anantha	wkwkw
+11:26	IF534 - Alvin Wilta	biasa firstmedia
+11:26	IF373 - Anantha	AHAHAHAh
+11:26	IF373 - Anantha	kasar
+11:26	STI526 - Ardhan	Mantap alvin
+11:26	IF530 - Kahfi S Z	gua kira pertanyaannya bakal lebih parah
+11:26	IF516 - Naufal Izza	muantap alvin, wkwk
+11:26	IF534 - Alvin Wilta	yoiii maksih gais btw lumayan cepet sih tadi mantep2
+11:26	IF373 - Anantha	pas sih setadi pace nya
+11:27	IF534 - Alvin Wilta	iya jadinya pas WKKWKW padahal kemaren perkiraan lebih lama lg
+11:27	IF508 - Jose	Keren dah lu semua wkwkw
+11:27	IF530 - Kahfi S Z	iya. ga mungkin 7 menit juga
+11:27	STI526 - Ardhan	2
+11:27	IF534 - Alvin Wilta	[Sticker]
+11:27	IF530 - Kahfi S Z	sekarang kita nanya2 kelompok lain.
+11:27	IF530 - Kahfi S Z	wkwkwkkwkwkwkwkwkwwk
+11:27	IF534 - Alvin Wilta	yok2 aktif2
+11:27	IF534 - Alvin Wilta	nanya2in
+11:27	IF534 - Alvin Wilta	hajarrr
+11:27	IF534 - Alvin Wilta	HAHAHAHA
+11:28	IF530 - Kahfi S Z	tempat fotokopi pake chatbot? tanya saatpam ae kali
+11:28	IF530 - Kahfi S Z	wkwkwkw
+11:33	IF534 - Alvin Wilta	tadi ada dijelasin ga mereka dapet info tempat2nya dr mana
+11:34	IF530 - Kahfi S Z	ga
+11:34	IF508 - Jose	Kgk wkwkwk...survey lapangan sendiri dulu kali
+11:43	IF373 - Anantha	eh emg google map tu nyentuh ke dalem itb ya?
+11:44	IF373 - Anantha	kek lu bisa tau gkut dimana
+11:44	IF516 - Naufal Izza	bisa
+11:44	IF534 - Alvin Wilta	bisa kok
+11:44	IF373 - Anantha	oww
+11:49	IF534 - Alvin Wilta	btw solusi kita ribet bgt ya WKWKWK
+11:49	IF534 - Alvin Wilta	buat mobile app segala
+11:50	IF516 - Naufal Izza	iya juga, wkwk
+11:50	IF534 - Alvin Wilta	jangan lupa
+11:50	IF534 - Alvin Wilta	-Menerima Tantangan
+-Belajar dari feedback
+-Bertekun dalam menghadapi masalah
+-Percaya usaha itu perlu
+
+11:50	IF534 - Alvin Wilta	ea
+11:50	IF373 - Anantha	HALAHW WKOAKOAWK
+11:50	IF534 - Alvin Wilta	AWKWAKWAKWAK
+13:03	IF534 - Alvin Wilta	ea kahfi
+15:31	IF508 - Jose	Belajar buat mobile app dmn nih?
+15:37	IF373 - Anantha	https://reactnative.dev/docs/getting-started
+15:46	IF508 - Jose	bit.do/courseraitb juga mungkin bisa buat bljt java
+15:53	IF534 - Alvin Wilta	Btw deadline milestone 2 kapan ya
+15:53	IF508 - Jose	http://ditsti.itb.ac.id/program-coursera-itb/
+15:53	STI458 - Nadira F	blom dikasi tau spekny (?)
+15:53	IF534 - Alvin Wilta	Oke2
+
+Tue, 7/28/2020
+08:46	IF373 - Anantha	Because a thing seems difficult for you, do not think it impossible for anyone to accomplish."
+- Aurellius
+
+Selamat Malam, Async!
+
+Ingat tujuh budaya kampus kita,
+Selama SPARTA kalian sudah mendapat dan memberikan banyak Apresiasi,
+Kalian jg memaknai urgensi berhimpun dan menjalankannya,
+Mengkaji lagi peran sebagai mahasiswa,
+Peduli lingkungan sekitar dengan cara mencari permasalahan yang bisa diselesaikan,
+Dan sekarang, kalian sudah berpikir kritis dan solutif terhadap permasalahan tersebut
+
+Namun, omongan tidak akan berarti bila tidak ada bukti karya yang mengikuti
+Maka, berkaryalah untuk masyarakat, Asynchronous, 
+ingat lagi apa yang telah kamu rancang, 
+mari kita sama-sama lihat apa yang bisa kamu perbuat untuk masyarakat!
+Silahkan perhatikan apa saja yang perlu diperbuat:
+bit.ly/SpekMilestoneDuaSPARTA19
+
+Dan juga, budaya kampus tentu akan selalu menjunjung INTEGRITAS
+Kami berpesan, selamatkanlah dirimu dan teman-temanmu dari label keculasan
+
+"Belajarlah dari Barat, tapi jangan jadi peniru Barat, melainkan jadilah murid dari Timur yang cerdas"
+― Tan Malaka
+
+Jika kamu lupa akan tanggung jawabmu, perhatikan lagi bit.ly/KelompokMilestoneSPARTA
+
+Selamat mengabdi untuk masyarakat, Async!
+
+Salam,
+Aditias Alif Mardiano
+13518039
+MSDM Kader SPARTA 2019
+08:55	IF530 - Kahfi S Z	terima kasih nantha
+08:56	IF530 - Kahfi S Z	jadi sepertinya kita harus bagi2 tugas, kayak front end, back end, dll
+08:56	IF530 - Kahfi S Z	dan setiap hari, ada progres walaupun sedikit. dan ada hasilnya.
+08:58	IF373 - Anantha	1. User Experience Design
+(Wireframes, Workflows, Content, Click-Through Models)
+2. User Interface Design
+(Style guides, Render design, Render Click-Through Models)
+3. High-level Technical Design
+(Front-end, Back-end)
+
+Buat sekarang sih kayanya itu aja, ada tambahan ga?
+08:58	IF530 - Kahfi S Z	@IF534 - Alvin Wilta 
+08:59	IF534 - Alvin Wilta	Gw sih gaada tambahan, berarti 3 itu aja ya?
+09:00	IF373 - Anantha	karena kmrn sudah ada mockup gw jd gatau gunanya 1 dan 2
+09:00	IF373 - Anantha	kek udh kelar tugasnya(?(
+09:00	IF534 - Alvin Wilta	Visualnya iya sih udah ada, tapi kan ttp prlu desain per elemennya gitu
+09:01	IF534 - Alvin Wilta	Buat UX mungkin yang udah sedikit kerjaannya
+09:02	IF373 - Anantha	hm bole
+21:00	IF530 - Kahfi S Z	@IF534 - Alvin Wilta , nanti lu yang bakal bikin github repositorynya ya?
+21:00	IF530 - Kahfi S Z	Terus, mau nanya juga, pembagian tugasnya gimana ya Alvin?
+21:06	IF534 - Alvin Wilta	Oh iya oke2
+21:06	IF534 - Alvin Wilta	Pembagian tugas mungkin gw perlu buat lebih spesifik lg, jd tunggu dulu wkwkwk mungkin agak maleman
+21:14	STI458 - Nadira F	okee
+21:16	IF530 - Kahfi S Z	baik alvin. thanks bro
+
+Wed, 7/29/2020
+12:58	IF530 - Kahfi S Z	ohiya, ini milestone 2 apakah harus sama persis kayak di proposal atau boleh prototype aja
+12:58	IF530 - Kahfi S Z	?
+13:02	IF534 - Alvin Wilta	sbbb, ga harus persis di proposal sihh kan di proposal cuma mockup
+13:02	IF534 - Alvin Wilta	visualisasinya aja
+13:02	IF534 - Alvin Wilta	oh iya untuk pembagian tugasnya
+13:06	IF534 - Alvin Wilta	gw bagi jadi 2 main role aja:
+1. Designers
+- Desain UI (visual designer)
+- Desain UX (framework, navigation planner)
+- Content Planner (cari2 artikel sama video, usahain memang ngepas)
+
+2. Developers
+(gw kurang tau gimana sih yang ini)
+- Database
+- Nyusun UI nya langsung pake koding (tombol dll)
+13:06	IF534 - Alvin Wilta	kalo kea gt gmn?
+13:06	IF534 - Alvin Wilta	gw bingung yang developers gimana bagi tugasnya
+13:07	IF516 - Naufal Izza	eh, kalo buat developer kira2 kesusahan gk kalo bikin mobile apps?
+13:08	IF516 - Naufal Izza	aku dapat info dari panitia, katanya kalo dirasas kesusahan bisa konsultasi lagi ke mentor kelompok buat nyari alternatifnya.
+misal dijadiin web app 
+13:08	IF534 - Alvin Wilta	gw bagi jadi 2 main role aja:
+1. Designers
+- Desain UI (visual designer)
+- Desain UX (framework, navigation planner)
+- Content Planner (cari2 artikel sama video, usahain memang ngepas)
+
+2. Developers
+(gw kurang tau gimana sih yang ini)
+- Alpha developers (yang konversi desain jadi App flow, frontend)
+- Backend developer (develop database sama jadiin webservice kalo perlu)
+13:08	IF534 - Alvin Wilta	bisa sih
+13:09	IF534 - Alvin Wilta	menurut kalian gmn? sanggup ga kalo develop mobile app?
+13:09	IF534 - Alvin Wilta	ga harus bagus2 banget gimana sih
+13:09	IF534 - Alvin Wilta	kalau males pake java/kotlin/c# bisa pake MIT app inventor
+13:09	IF534 - Alvin Wilta	https://appinventor.mit.edu/
+13:10	IF534 - Alvin Wilta	kalo menurut gw sih kita sanggup2 aja sih ngerjain ini
+13:10	STI458 - Nadira F	Iyaa
+13:11	IF534 - Alvin Wilta	tapi kalau banyak yang mau fokus ke gemastik/lomba lainnya boleh bgt bilang, biar bisa dipertimbangin lagi
+13:12	IF530 - Kahfi S Z	aku pengen fokus gemastik data mining sih
+13:12	IF534 - Alvin Wilta	yang lain gimana?
+13:12	IF534 - Alvin Wilta	pada lebih kuat di webservice/mobile app?
+13:13	IF530 - Kahfi S Z	ohiya alvin, saranku mending kamu tanyain konsultan kita. biar bisa dapat alternatif yang lebih memudahkan. kak zunan kan?
+13:13	IF534 - Alvin Wilta	sipp
+13:13	IF534 - Alvin Wilta	gw mau liat dulu dari kitanya gimana
+13:13	IF534 - Alvin Wilta	kalau memang ga memungkinkan, oke kita cari alternatif lain aja
+13:13	IF530 - Kahfi S Z	belum coba dua2nya. tapi lebih mudah setup webservice menurutku, ini aku lagi setup react native agak ribet. pake cmd segala macam
+13:13	IF530 - Kahfi S Z	gua setuju
+13:14	IF530 - Kahfi S Z	kira2 kayak gini kalau setting up react native pake expo.io
+13:14	IF530 - Kahfi S Z	[Photo]
+14:11	IF373 - Anantha	gw bisaa kalo mobile app
+14:11	IF373 - Anantha	tp ikut suara terbanyak ae
+14:12	IF373 - Anantha	cuma gw yg gangerti setting api gt2nya
+14:12	IF373 - Anantha	kalo cuma untuk buat aplikasinya bisa sama navigation
+14:12	IF373 - Anantha	kalo store redux sama api belom bisa
+14:29	IF530 - Kahfi S Z	wkwkwkwkkwk. gua juga masih baru belajar nyetting environment. kalau malas, bisa lewat online di snack.expo.io
+16:13	IF534 - Alvin Wilta	Yang lain gimanaaa
+16:13	IF534 - Alvin Wilta	Poll aja deh
+16:13	IF530 - Kahfi S Z	ok
+16:14	IF534 - Alvin Wilta	[[Poll] Mau yang mana?]
+16:15	IF534 - Alvin Wilta	@STI458 - Nadira F @IF530 - Kahfi S Z @IF459 - Akeyla @IF431 - Awwala NK @IF516 - Naufal Izza @STI526 - Ardhan @IF508 - Jose @STI493 - Davin 
+19:03	IF534 - Alvin Wilta	oke karena ini udah 6 orang yang mau mobile apps, jadinya kita mobile apps aja ya
+19:04	IF534 - Alvin Wilta	@IF508 - Jose @STI493 - Davin @IF516 - Naufal Izza gapapa kan ya?
+19:04	STI493 - Davin	gas aja
+19:05	IF508 - Jose	Boleh
+
+Thu, 7/30/2020
+09:00	IF516 - Naufal Izza	 Lanjut
+10:35	IF530 - Kahfi S Z	mau nanya @IF534 - Alvin Wilta , udah buat githubnya belum ya?
+10:39	IF534 - Alvin Wilta	Oh bentar yaa
+10:39	IF534 - Alvin Wilta	Oke jadi pembagian tugasnya gitu aja ya?
+10:39	IF534 - Alvin Wilta	gw bagi jadi 2 main role aja:
+1. Designers
+- Desain UI (visual designer)
+- Desain UX (framework, navigation planner)
+- Content Planner (cari2 artikel sama video, usahain memang ngepas)
+
+2. Developers
+(gw kurang tau gimana sih yang ini)
+- Alpha developers (yang konversi desain jadi App flow, frontend)
+- Backend developer (develop database sama jadiin webservice kalo perlu)
+10:40	IF534 - Alvin Wilta	Untuk yang designers kayanya 4 orang cukup?
+10:40	IF534 - Alvin Wilta	Sisanya mungkin lebih ke backend gt gmn?
+10:40	IF534 - Alvin Wilta	Backend perlu banyak orang ga tp
+10:41	IF373 - Anantha	request alpha vin
+10:41	IF530 - Kahfi S Z	hmm, kurang tahu juga alvin. kamu bs nanya kak zunan
+10:41	IF534 - Alvin Wilta	Nah cakepp
+10:41	IF373 - Anantha	buildnya pake expo aja ya berarti
+10:41	IF534 - Alvin Wilta	Oke gua coba tanyain yaa tp dr kalian ada kepikiran gt ga
+10:42	IF516 - Naufal Izza	Designernya ngapain lagi ya? dari mockup yang udah dibuat?
+10:42	IF534 - Alvin Wilta	expo.io nan?
+10:42	IF530 - Kahfi S Z	kayaknya sih aman2 aja. paling nanti kalau designer udah selesai, bantu2 yang back end
+10:42	IF534 - Alvin Wilta	Itu ga mungkin sama persis juga, trus perlu desain tombol2 gmn juga
+10:43	IF534 - Alvin Wilta	Jangan disama persis dgn yg figma
+10:43	IF373 - Anantha	iya
+10:43	IF534 - Alvin Wilta	Perlu desain ulang tombol2 nya atau mungkin ambil dr asset yang gratis gt
+10:43	IF530 - Kahfi S Z	iya. soalnya bikin design tombol dengan bahasa react lumayan susah juga
+10:43	IF516 - Naufal Izza	berarti kayak diperbaikin gitu ya
+10:43	IF373 - Anantha	kalo tombol tinggal pake icon2 gt kok
+10:44	IF534 - Alvin Wilta	Mockup itu lebih ke kerangkanya gt si misalnya udh tau disini sda tombol home gt2
+10:44	IF534 - Alvin Wilta	Iyaa
+10:44	IF373 - Anantha	ada plugin gt dr ionicon/material icon/ material icon community dll
+10:44	IF530 - Kahfi S Z	ohiya sori2. maksudku, gausah perfect banget.
+10:44	IF534 - Alvin Wilta	Sabi sih
+10:45	IF534 - Alvin Wilta	Gua gabakal dalem bgt ngurusin backend/frontend, tapi lebih ke mantau aja gitu kalo ada kendala bisa dikomunikasiin
+10:45	IF534 - Alvin Wilta	Jadi minta bantuan dr kalian juga yakk wkwkwk
+10:45	IF530 - Kahfi S Z	ok
+10:48	IF373 - Anantha	ehh
+10:48	IF373 - Anantha	bukannya ka zunan ya
+10:48	IF373 - Anantha	bukan ka qurrata ayuni lg
+10:50	IF534 - Alvin Wilta	Oh ke kak zunan lsg ya
+10:50	IF534 - Alvin Wilta	Oke2
+10:50	IF534 - Alvin Wilta	Udh gw tanyain si ke kak zunan wkkwwk
+10:50	IF534 - Alvin Wilta	Apa bubarin multichat yg itu ae?
+10:50	IF530 - Kahfi S Z	belum dibalas? wkkwwkwwkwk. emang slowres, hehe
+10:51	IF516 - Naufal Izza	gk bikin mpc atau grup aja bareng kak zunan?
+10:55	IF534 - Alvin Wilta	mau buat mpc aja? sabeb sii cuma kmaren di multichat juga dikit yang aktif jadinya wkwkwk
+10:55	IF534 - Alvin Wilta	eh iya minta username github kalian dong
+10:55	IF534 - Alvin Wilta	buat dijadiin collaborator
+10:55	IF530 - Kahfi S Z	kahfizulkifli
+10:56	IF534 - Alvin Wilta	list username github:
+1. Alvin - AlvinWilta
+2. Kahfi - kahfizulkifli
+10:57	IF373 - Anantha	list username github:
+1. Alvin - AlvinWilta
+2. Kahfi - kahfizulkifli
+3. Nantha - gdeananthap
+10:57	STI526 - Ardhan	list username github:
+1. Alvin - AlvinWilta
+2. Kahfi - kahfizulkifli
+3. Nantha - gdeananthap
+4. Ardhan - ardhanapw
+11:00	IF534 - Alvin Wilta	yang lain lanjutin yaa
+11:06	IF516 - Naufal Izza	list username github:
+1. Alvin - AlvinWilta
+2. Kahfi - kahfizulkifli
+3. Nantha - gdeananthap
+4. Ardhan - ardhanapw
+5. Naufal - naufalizza
+11:07	IF508 - Jose	list username github:
+1. Alvin - AlvinWilta
+2. Kahfi - kahfizulkifli
+3. Nantha - gdeananthap
+4. Ardhan - ardhanapw
+5. Naufal - naufalizza
+6. Jose - Josegalbraith
+11:12	IF530 - Kahfi S Z	Ohiya alvin, jangan lupa bikin readme di repo ya.
+
+Repository disertakan file markdown README yang menjelaskan:
+Judul Solusi
+Nomor dan nama kelompok milestone
+Nama dan NIM anggota kelompok milestone, serta kontribusinya dalam pengerjaan solusi
+Contoh: Stanley Junho (16519700), Front end
+Bagaimana menggunakan solusi yang telah dibuat. Misalkan solusinya dalam bentuk web, maka sertakan cara menjalankan web tersebut.
+
+11:22	STI458 - Nadira F	list username github:
+1. Alvin - AlvinWilta
+2. Kahfi - kahfizulkifli
+3. Nantha - gdeananthap
+4. Ardhan - ardhanapw
+5. Naufal - naufalizza
+6. Jose - Josegalbraith
+7. Nadira -  458-nadiraF
+11:23	IF534 - Alvin Wilta	Oh okeee btw kemarin gw ga ikut eval gr2 internet breakdown lg, kira2 ada lg ga info yg prlu gw tau
+11:23	IF534 - Alvin Wilta	Thankyou kahfii
+11:23	IF534 - Alvin Wilta	Yang lain tolong cepet diisi yah username githubnya, biar cepet bisa collab juga
+11:42	IF459 - Akeyla	list username github:
+1. Alvin - AlvinWilta
+2. Kahfi - kahfizulkifli
+3. Nantha - gdeananthap
+4. Ardhan - ardhanapw
+5. Naufal - naufalizza
+6. Jose - Josegalbraith
+7. Nadira -  458-nadiraF
+8. Akeyla - anakpindahan
+11:43	IF534 - Alvin Wilta	@STI493 - Davin @IF431 - Awwala NK 
+11:46	STI493 - Davin	list username github:
+1. Alvin - AlvinWilta
+2. Kahfi - kahfizulkifli
+3. Nantha - gdeananthap
+4. Ardhan - ardhanapw
+5. Naufal - naufalizza
+6. Jose - Josegalbraith
+7. Nadira -  458-nadiraF
+8. Akeyla - anakpindahan
+9. Davin - christopherdavinn
+11:48	IF534 - Alvin Wilta	jangan lupa diaccept invitationnya
+12:25	IF431 - Awwala NK	list username github:
+1. Alvin - AlvinWilta
+2. Kahfi - kahfizulkifli
+3. Nantha - gdeananthap
+4. Ardhan - ardhanapw
+5. Naufal - naufalizza
+6. Jose - Josegalbraith
+7. Nadira -  458-nadiraF
+8. Akeyla - anakpindahan
+9. Davin - christopherdavinn
+10. Awwala - AwwalaK
+22:10	IF530 - Kahfi S Z	Teman2, bokeh minta cth codingan nggak. Aku kurang paham yg masalah navigasi ke screeb lain
+22:15	IF373 - Anantha	https://youtu.be/nQVCkqvU1uE
+22:17	IF534 - Alvin Wilta	btw rolenya udah di acc sama kakaknya yaa
+22:17	IF534 - Alvin Wilta	bagi tugas yok
+22:19	IF534 - Alvin Wilta	gw bagi jadi 2 main role aja:
+1. Designers
+- Desain UI (visual designer)
+   (2 orang)
+- Desain UX (framework, navigation planner)
+   (2 orang)
+- Content Planner (cari2 artikel sama video, usahain memang ngepas)
+   (1 orang)
+
+2. Developers
+(gw kurang tau gimana sih yang ini)
+- Alpha developers (yang konversi desain jadi App flow, frontend)
+    (2 orang)
+- Backend developer (develop database sama jadiin webservice kalo perlu)
+    (3 orang)
+22:19	IF534 - Alvin Wilta	ini gmn?
+22:21	IF516 - Naufal Izza	Developernya gk kurang vin?
+22:21	IF534 - Alvin Wilta	butuh banyak sih
+22:21	IF534 - Alvin Wilta	desain UI bisa 1 orang ga tuh
+22:21	IF516 - Naufal Izza	UI UX masing2 1 orang bisa sih kayanya
+22:22	IF534 - Alvin Wilta	ato UI UX digabung aja?
+22:22	IF534 - Alvin Wilta	biar saling bantu bertiga gt?
+22:23	IF534 - Alvin Wilta	gw bagi jadi 2 main role aja:
+1. Designers
+- Desain UI (visual designer)
+- Desain UX (framework, navigation planner)
+    (UI/UX 3 orang)
+- Content Planner (cari2 artikel sama video, usahain memang ngepas)
+   (1 orang)
+
+2. Developers
+(gw kurang tau gimana sih yang ini)
+- Alpha developers (yang konversi desain jadi App flow, frontend)
+    (3 orang)
+- Backend developer (develop database sama jadiin webservice kalo perlu)
+    (3 orang)
+22:23	IF516 - Naufal Izza	Gabung aja bisa kayanya.
+22:40	IF530 - Kahfi S Z	Thks nantha..nanti gua cek ya
+22:41	IF534 - Alvin Wilta	gimana nan mnurut lu?
+22:41	IF534 - Alvin Wilta	@IF373 - Anantha 
+22:41	IF534 - Alvin Wilta	ini karena ber 3 3 3 gitu gw tunjuk aja ya "pj" nya siapa wkwkwk biar lebih efektif
+22:42	IF534 - Alvin Wilta	gimana2?
+22:47	IF373 - Anantha	bole gan
+23:01	IF534 - Alvin Wilta	oke nan lu pj alpha developers yak
+23:01	IF534 - Alvin Wilta	kahfi bisa ambil bagian backend gaa
+23:01	IF534 - Alvin Wilta	@IF530 - Kahfi S Z 
+23:04	IF373 - Anantha	oke
+
+Fri, 7/31/2020
+02:06	IF530 - Kahfi S Z	Eh, maaf, pjnya jangan gua, gua lagi ngurus qurban hari ini. Takutnya ga terlalu aktif di grup
+11:49	IF534 - Alvin Wilta	Okeoke
+11:49	IF534 - Alvin Wilta	Ada yang mau volunteer gaa
+11:50	IF534 - Alvin Wilta	@IF459 - Akeyla @IF431 - Awwala NK @IF516 - Naufal Izza @STI526 - Ardhan @IF508 - Jose @STI493 - Davin kalian mau bagian apa
+11:51	STI493 - Davin	yg ke design aja gw
+12:04	IF508 - Jose	Ngikut davin deh gw 
+13:18	IF431 - Awwala NK	Aku sm nadir developer gapapa. Tapi kalo bisa ada yg nuntun wkwkkw. Kami akan berusaha semaksimal kami :"D, jangan pj juga yakk :')
+13:39	IF459 - Akeyla	aku developer juga
+13:39	IF534 - Alvin Wilta	mau yang frontend ato backend?
+13:39	IF534 - Alvin Wilta	yang mana keyy
+13:39	IF534 - Alvin Wilta	kalo jadi dev backend mau ga key
+13:40	IF459 - Akeyla	backend boleh deh
+13:40	IF534 - Alvin Wilta	okeee jadi pj yak
+13:40	IF459 - Akeyla	tapi mohon bimbingannya
+13:44	IF534 - Alvin Wilta	siapp
+13:45	IF534 - Alvin Wilta	kahfi kan di backend juga
+13:45	IF534 - Alvin Wilta	berarti nadir sama awwala di frontend ya sama nantha
+13:45	IF534 - Alvin Wilta	@STI458 - Nadira F @IF373 - Anantha @IF431 - Awwala NK 
+13:45	IF534 - Alvin Wilta	naufal kemarin mau di bagian designers UI/UX, jadi ke designers ya @IF516 - Naufal Izza 
+13:45	IF431 - Awwala NK	Okee alvinn, nanthaa bantu kitaa🙏🤗
+13:46	IF508 - Jose	Aku pun juga butuh bimbingan wkwkwk 🙏🙏
+13:46	IF534 - Alvin Wilta	ardhan bisa tanganin backend developer? @STI526 - Ardhan 
+13:47	STI526 - Ardhan	Boleh
+13:52	IF534 - Alvin Wilta	gw bagi jadi 2 main role aja:
+1. Designers
+- Desain UI (visual designer)
+- Desain UX (framework, navigation planner)
+    *Naufal (PJ)
+    *Davin
+    *Jose
+- Content Planner (cari2 artikel sama video, usahain memang ngepas)
+    *Alvin - nanti gw bisa nyampur2 sama yang lain
+
+2. Developers
+(gw kurang tau gimana sih yang ini)
+- Alpha developers (yang konversi desain jadi App flow, frontend)
+   *Nantha (PJ)
+   *Awwala
+   *Nadira
+- Backend developer (develop database sama jadiin webservice kalo perlu)
+   *Akeyla (PJ)
+   *Kahfi
+   *Ardhan
+13:52	IF534 - Alvin Wilta	itu ya pembagian tugasnya
+13:54	IF431 - Awwala NK	Okee vinn
+13:55	IF534 - Alvin Wilta	buat yang PJ @IF373 - Anantha @IF459 - Akeyla @IF516 - Naufal Izza udah boleh dimulai yaa, kalau misalnya ada bingung sabi dibilangin
+13:56	IF516 - Naufal Izza	wokee
+13:57	IF508 - Jose	@IF516 - Naufal Izza Mohon bimbingannya kak naufal 🙏
+13:57	IF516 - Naufal Izza	apaan woi (laugh)
+13:59	IF534 - Alvin Wilta	eh iya ini deadline kapan ya
+14:00	IF373 - Anantha	https://docs.google.com/document/d/12EGdEHTZWxMsLo3m83GpNco9Hf544k7KSV9Vms01vsI/edit
+14:00	IF373 - Anantha	10 agustus 23:59
+14:01	IF373 - Anantha	tapi demonya sebelum 11 agustus 21:59
+14:01	IF373 - Anantha	Apabila Anda telah selesai membuat solusi, penilaian tugas dilakukan dengan demo solusi yang Anda buat kepada asisten demo yang ditetapkan. Perlu diperhatikan bahwa demo dapat dilakukan kapan saja sebelum 11 Agustus 2020 21.59. Apabila telah siap, kontak asisten yang telah ditetapkan untuk menentukan jadwal demo.
+
+
+Sat, 8/1/2020
+14:18	IF534 - Alvin Wilta	cuy
+14:19	IF534 - Alvin Wilta	tgl 10 pengisian KRS
+14:19	IF534 - Alvin Wilta	tgl 10 juga deadline milestone
+14:19	IF534 - Alvin Wilta	semoga kelar sebelom tanggal itu yak wkwkwk
+17:41	IF534 - Alvin Wilta	ini kita mau fokus ke android ato mau ke IOS?
+17:57	IF373 - Anantha	andro ajaa
+18:09	IF534 - Alvin Wilta	okeee
+18:09	IF534 - Alvin Wilta	gais kita perlu diskusi lagi nih
+18:09	IF534 - Alvin Wilta	pada bisa jam berapa?
+18:09	IF534 - Alvin Wilta	sebisa mungkin sih hari ini ya
+18:09	IF516 - Naufal Izza	19.30
+18:10	IF373 - Anantha	sebelum jam 10 bisa vin
+18:10	IF534 - Alvin Wilta	jam 9 gmn
+18:10	IF373 - Anantha	boleh
+18:10	IF508 - Jose	Boleh
+18:10	IF534 - Alvin Wilta	@IF516 - Naufal Izza @STI458 - Nadira F @STI526 - Ardhan @IF508 - Jose @IF373 - Anantha @IF530 - Kahfi S Z @IF459 - Akeyla @STI493 - Davin @IF431 - Awwala NK 
+18:10	IF373 - Anantha	forang jangan lupa
+18:10	IF516 - Naufal Izza	Oh iya, ada forang ya
+18:10	IF534 - Alvin Wilta	eh iya
+18:11	IF373 - Anantha	bener dah jam 9
+18:11	IF373 - Anantha	forang estimasinya sampe 20.30 kan
+18:11	IF373 - Anantha	ya pasti lebih sih
+18:11	IF373 - Anantha	wkwkw
+18:11	IF534 - Alvin Wilta	jam 9 aja deh estimasi kasar kita mulai diskusi ya
+18:11	IF516 - Naufal Izza	Okeokw
+18:12	IF534 - Alvin Wilta	ini gw tunggu 6.30 buat respon bagi yang keberatan, kalau gaada respon gw anggep jam 9 bisa semua yaa @IF516 - Naufal Izza @STI458 - Nadira F @STI526 - Ardhan @IF508 - Jose @IF373 - Anantha @IF530 - Kahfi S Z @IF459 - Akeyla @STI493 - Davin @IF431 - Awwala NK 
+18:12	STI458 - Nadira F	siapp
+18:12	STI493 - Davin	Bisa
+18:12	IF508 - Jose	[Sticker]
+18:13	IF459 - Akeyla	Bisa
+18:15	IF431 - Awwala NK	Bisaa2
+18:44	IF530 - Kahfi S Z	Yaudah.
+21:00	IF373 - Anantha	jadi ga nii
+21:02	STI493 - Davin	ayo gw mah
+21:02	IF530 - Kahfi S Z	Skip forang ga? Wkwkwkkw
+21:02	IF534 - Alvin Wilta	forang gmna?
+21:02	IF534 - Alvin Wilta	ada notul ga si 
+21:05	IF534 - Alvin Wilta	gimana?
+21:05	IF534 - Alvin Wilta	mau digas aja?
+21:05	IF373 - Anantha	bolehh
+21:05	IF534 - Alvin Wilta	oke bentar ya
+21:05	IF534 - Alvin Wilta	pada bisa pake gmeet ga
+21:05	IF530 - Kahfi S Z	Aku bisa
+21:06	IF459 - Akeyla	bisa
+21:06	IF534 - Alvin Wilta	gw mau share screen juga sekalian
+21:06	IF431 - Awwala NK	bisaa
+21:07	IF534 - Alvin Wilta	kumpulin dulu dong orang2nya
+21:07	IF373 - Anantha	gas
+21:08	IF516 - Naufal Izza	hadir
+21:08	STI458 - Nadira F	bisaa
+21:09	IF534 - Alvin Wilta	oke pake gmeet ya
+21:10	IF516 - Naufal Izza	oke
+21:11	IF534 - Alvin Wilta	https://meet.google.com/rko-ziup-dsg
+21:12	IF534 - Alvin Wilta	yok lsg join
+21:13	IF508 - Jose	@IF516 - Naufal Izza @IF530 - Kahfi S Z @STI493 - Davin 
+21:15	IF534 - Alvin Wilta	@STI493 - Davin 
+21:46	IF373 - Anantha	#Pengumuman
+Bagi peserta kelas React Native dasar - batch Juni 2020, yang ingin mengakses materi dan tugas di blog.sanbercode.com bisa menggunakan password:
+
+datarn20sbcode
+
+Terima Kasih
+21:46	IF373 - Anantha	mungkin ini bisa dicoba
+21:47	IF516 - Naufal Izza	Muantap, wkwk
+22:30	IF534 - Alvin Wilta	btw semuanya
+22:30	IF534 - Alvin Wilta	coba fokus ke fitur utamanya dulu ya
+22:30	IF534 - Alvin Wilta	bagian pemaparan materi
+22:31	IF534 - Alvin Wilta	Materi self improvement growth mindset (artikel, video, arahan) <-- yang ini
+
+22:31	IF534 - Alvin Wilta	kata kakaknya, kalo ga keburu fitur2 lainnya bisa dijadiin "dummy" aja
+22:32	IF534 - Alvin Wilta	gw buat prioritas fitur ya, nanti kalian atur aja sebisanya
+22:33	IF534 - Alvin Wilta	You added a note.
+22:34	IF534 - Alvin Wilta	buat yang frontend, maaf wkwkwk tugas kalian paling berat dan harus jadi punya
+22:34	IF534 - Alvin Wilta	buat yang lain, tetep maksimalin usaha kalian ya
+22:34	IF373 - Anantha	dummy tuh gmn
+22:35	IF373 - Anantha	mockup?
+22:35	IF534 - Alvin Wilta	jadi cuma bisa dipencet doang tp gabisa diketik apa2
+22:35	IF516 - Naufal Izza	gk bisa di klik2 gitu bukan?
+22:35	IF534 - Alvin Wilta	gabisa interact gimana2
+22:35	IF516 - Naufal Izza	oh iya
+22:35	IF534 - Alvin Wilta	cuma tampilan doang, macem kea di ppt gitu wkwkwk
+22:37	IF516 - Naufal Izza	eh bentar dong, mau nanya.
+tim desain selain bikin logo sama ngeekspor2 aset ngapain lagi ya?
+cuma itu aja?
+perlu dibuat pengajuan pembaruan untuk UI/UX nya gk?
+22:37	IF534 - Alvin Wilta	pembaruan gimana ya maksudnya?
+22:38	IF516 - Naufal Izza	mungkin dari ockup yang ada dikaji ulang gitu.
+untuk UX (kalo perlu, soalnya alvin tadi bilang udah beres)
+sama UI
+22:38	IF516 - Naufal Izza	*mockup
+22:39	IF516 - Naufal Izza	barangkali ada yang dirasa bisa diperbaiki lagi
+22:39	IF516 - Naufal Izza	atau cuma ekspor2 aja?
+22:39	IF534 - Alvin Wilta	mockup seharusnya ga perlu dikaji ulang lagi sih, soalnya udah ga make mockup lagi sih
+cuma jadi gambaran besar buat ngedesain frontend aja, kalau ga sesuai mockup ya ga masalah
+22:39	IF516 - Naufal Izza	oh, oke2
+22:40	IF516 - Naufal Izza	berarti itungannya cuman bikin logo sama ngeekspor2 gambar aja ya
+22:40	IF373 - Anantha	oww okok
+22:40	IF534 - Alvin Wilta	iyaa
+
+Sun, 8/2/2020
+22:11	IF534 - Alvin Wilta	gais
+22:12	IF534 - Alvin Wilta	tar buat komunikasi/nyatet apa yang udah kalian cari bisa di https://awwapp.com/b/ubsaiqo1phzna/
+22:12	IF534 - Alvin Wilta	coba dipake yaa
+22:13	IF534 - Alvin Wilta	gw sih rencananya mau masukin itu biar jadi tambahan nilai gt kalo misalnya ga selesai
+22:13	IF534 - Alvin Wilta	seengganya ada ngelakuin sesuatu gitu
+22:13	IF534 - Alvin Wilta	jadi sebisa mungkin diisi ya itu
+22:13	IF534 - Alvin Wilta	@IF516 - Naufal Izza @STI458 - Nadira F @STI526 - Ardhan @IF508 - Jose @IF373 - Anantha @IF530 - Kahfi S Z @IF459 - Akeyla @STI493 - Davin @IF431 - Awwala NK 
+
+Mon, 8/3/2020
+14:29	IF431 - Awwala NK	Okk2 viin
+14:55	IF534 - Alvin Wilta	berhubung kayanya semuanya pada fokus ke gemastik, eksplorasi kita undur sampe besok ya
+14:55	IF534 - Alvin Wilta	smangatt
+14:59	IF431 - Awwala NK	okee viin, semagaat2
+
+Tue, 8/4/2020
+16:19	IF534 - Alvin Wilta	kalo bisa itu whiteboard difungsikan ya
+16:20	IF534 - Alvin Wilta	https://github.com/alvinwilta/MilestoneSPARTA
+16:20	IF534 - Alvin Wilta	tenggelem soalnya
+16:21	IF534 - Alvin Wilta	malem kita rapat lagi yaa
+16:22	IF373 - Anantha	jam 10 keatas gabisaa
+16:23	IF534 - Alvin Wilta	pada bisa jam berapa?
+16:24	IF534 - Alvin Wilta	jam 9 gmn?
+16:24	IF431 - Awwala NK	Sabi
+16:25	STI458 - Nadira F	sabii
+16:31	IF459 - Akeyla	iya
+16:31	IF373 - Anantha	ok bol
+16:31	IF373 - Anantha	bole
+16:47	IF534 - Alvin Wilta	https://drive.google.com/file/d/1NylNrnBPqUAeiSo8ccdLSSwNbdcAYR9I/view
+desain davin
+16:47	IF534 - Alvin Wilta	https://drive.google.com/drive/folders/1xGOjVjKhI2lOzmZt94l_SKBJ10PkUYCL?usp=sharing
+desain jose
+16:48	IF508 - Jose	Yah desain gua kyknya ga ush ditunjukin sih wkwkwk
+16:48	IF373 - Anantha	kasih nama appnya
+16:48	IF373 - Anantha	jgn cuma logo aja
+16:49	IF373 - Anantha	ini masih ada waktu, sementara pake itu dlu gpp
+16:49	IF373 - Anantha	https://www.figma.com/file/imgF1fvuEbugZofSxjhvo8/Mindsetter?node-id=0%3A1
+16:49	IF373 - Anantha	ini disini ada mockup yg kmrn, coba kalian pikirin gimana warna yg cocok untuk logonya
+16:49	IF373 - Anantha	ngikutin ituu
+16:50	IF373 - Anantha	ikutin color pallete yg ada disana
+16:52	IF534 - Alvin Wilta	@IF508 - Jose @STI493 - Davin 
+16:52	IF373 - Anantha	coba deh kalian bayangin kalo pake logo yg kalian udh buat menurut kalian cocok apa nggaa
+16:52	IF534 - Alvin Wilta	thankyou masukannya nan
+18:17	IF508 - Jose	https://drive.google.com/file/d/1pxzA7xlVIAiTlPoOwqG0kf9R7d1WdDeI/view?usp=sharing
+19:56	IF516 - Naufal Izza	[Photo]
+19:56	IF516 - Naufal Izza	desain3
+20:18	IF534 - Alvin Wilta	sipp
+20:42	IF530 - Kahfi S Z	Gua izin telat. Habis ada ngunjungin tamu
+20:42	IF534 - Alvin Wilta	okee gapapa kahfi
+20:59	IF534 - Alvin Wilta	https://meet.google.com/vig-fujn-ida
+20:59	IF534 - Alvin Wilta	itu ya linknya
+21:04	IF534 - Alvin Wilta	@STI526 - Ardhan @STI493 - Davin 
+21:04	IF534 - Alvin Wilta	ditunggu ya sampe 9.07
+21:06	IF534 - Alvin Wilta	@STI493 - Davin 
+21:07	STI493 - Davin	Bntar baru kelar wawancara
+21:07	IF534 - Alvin Wilta	oke2
+22:15	IF534 - Alvin Wilta	https://www.youtube.com/watch?v=oPpnCh7InLY
+22:15	IF534 - Alvin Wilta	buat github
+22:51	IF431 - Awwala NK	Sipp2, makasii alvin
+
+Wed, 8/5/2020
+13:21	IF530 - Kahfi S Z	mantap awwala dan nadira
+13:21	IF431 - Awwala NK	Wkwkwk, tengkyuu fii
+13:21	IF530 - Kahfi S Z	semangat awwala -norman
+13:21	IF530 - Kahfi S Z	wkwkkwkwkwkwkwkwkw
+13:21	IF516 - Naufal Izza	mantap gais..
+13:22	IF431 - Awwala NK	Wkwkwk tengkyuu normaan
+13:22	IF431 - Awwala NK	Normannya di bandung fii?
+13:22	IF530 - Kahfi S Z	di kamarku
+13:22	IF530 - Kahfi S Z	wkwkwkkwkwkwkwkw
+13:23	IF431 - Awwala NK	Pantess
+
+Sat, 8/8/2020
+16:49	IF373 - Anantha	halo2
+16:49	IF373 - Anantha	mau ngabarin aja. dari frontend kemungkinan besar hari ini atau plg lambat besok siang udh ajdi sampe navigationnya
+16:49	IF373 - Anantha	jadi dr backend kalo mau coba buat difirebase sabi
+16:49	IF373 - Anantha	sementara gw pake data dari json files yg ada dilocal soalnya
+16:50	IF373 - Anantha	trus mau nanya juga buat dr divisi design gt2. kira2 background yang gw minta kmrn udh ada blm yaa
+16:50	IF373 - Anantha	krn yg masuk baru logo ajaa
+16:50	IF373 - Anantha	kalo dh ada tolong dipush aja digit. di folder assets
+16:51	IF373 - Anantha	kalo mau push logonya juga boleh. supaya kalian ada nama nya di commit git
+17:17	IF534 - Alvin Wilta	wokeee mantap nan
+
+Sun, 8/9/2020
+03:50	IF373 - Anantha	[Video]
+03:51	IF373 - Anantha	gais
+03:51	IF373 - Anantha	kurang lebih gini ya fitur2nya yg bisa dibuat dr tim front end
+03:51	IF373 - Anantha	semoga pada suka
+11:49	STI493 - Davin	wah mantap nan 
+11:49	STI493 - Davin	https://www.figma.com/file/lY6PjK4ZOjqoV1Zm65yHwr/tes?node-id=0%3A1
+11:49	STI493 - Davin	btw gw coba bikin si tampilan buat loginnya kalo gitu kira kira cocok ga
+11:52	IF373 - Anantha	sbnrnya cocok2 aja
+11:53	IF373 - Anantha	cuma kan kmrn di proposalnya udh pake design yg lama vin
+11:53	IF373 - Anantha	trus gw jjuga minta background untuk loginnya blm ada dr kmrn
+11:53	IF373 - Anantha	[Photo]
+11:53	IF373 - Anantha	yg ini kan ada backgroundnnya tuh yg 1/4 lingkaran, tp kalian gaada ngasih
+11:54	IF373 - Anantha	makanya jadi si nadira sama awwala buat login sama registernya kek yg ini. sama gw ubah2 dikit kmrn
+11:54	IF373 - Anantha	ini gw udh minta, tp gaada respon dr kalian
+11:56	IF373 - Anantha	sama yg letter of commitment juga blm ada designnya
+11:56	IF373 - Anantha	jd ya terbatas aja kek gtt buatnya si awwala
+11:57	STI493 - Davin	wah sori gw ga liat yg ini 
+11:57	STI493 - Davin	kmrn gw copy si figmanya ke draft sndiri dulu soalnya
+12:03	IF534 - Alvin Wilta	btw jose ada kirim desain2 juga ya
+12:03	IF534 - Alvin Wilta	bisa dicek di assets/Asset usulan Jose
+12:04	IF373 - Anantha	desain apaa
+12:10	STI493 - Davin	https://www.figma.com/file/lY6PjK4ZOjqoV1Zm65yHwr/tes?node-id=0%3A1
+12:10	STI493 - Davin	btw itu emang gabisa langsung edit disininya? 
+12:10	IF534 - Alvin Wilta	desain backgroudnd gt2
+12:11	IF534 - Alvin Wilta	gabisa vin, soalnya kalo yang gratis terbatas ke 3 contributor
+12:11	IF534 - Alvin Wilta	2*
+12:11	IF534 - Alvin Wilta	coba buat asset pake software lain gt
+12:11	IF534 - Alvin Wilta	[Photo]
+12:12	IF373 - Anantha	itu untuk apaa vin
+12:13	IF508 - Jose	Itu cmn usul background aja
+12:14	IF373 - Anantha	iya background apa mksdnyaa
+12:15	IF508 - Jose	Ya bebas aja klo ada yg merasa cocok entah utk login, loading, atau mungkin utk tampilan salah satu fitur 
+12:15	STI493 - Davin	itu yg letter dah ditambahin
+16:54	IF373 - Anantha	ini tolong di list dong dr front end kurang ape
+16:54	IF373 - Anantha	ada yg mo ditambahin ga
+16:54	IF373 - Anantha	atau background apa yg mau ditambah
+16:56	STI526 - Ardhan	sign out sabi ga nan?
+16:56	IF373 - Anantha	sign out apaan
+16:57	IF373 - Anantha	fokus di proposal yang udh diajuin aja
+16:57	STI526 - Ardhan	oh oke2
+17:40	IF373 - Anantha	[Photo]
+17:40	IF373 - Anantha	[Photo]
+17:47	STI493 - Davin	gw bikinnya langsung di figmanya
+17:47	IF373 - Anantha	ini kalo pake punya nya jose
+17:47	STI493 - Davin	tapi figmanya gw ke draftin sendiri dlu
+17:47	STI493 - Davin	https://www.figma.com/file/lY6PjK4ZOjqoV1Zm65yHwr/tes?node-id=0%3A1
+17:50	IF373 - Anantha	vote dah mau yg mana
+17:50	IF373 - Anantha	bingung gw
+17:50	IF373 - Anantha	kalian dr design gaada kesepakatan atau apa gt
+17:50	IF373 - Anantha	wkwk
+17:52	STI493 - Davin	wkkwwk baru setor setor doang
+17:57	IF508 - Jose	2
+17:57	IF373 - Anantha	yaudah fixin mau yg mana
+18:09	STI493 - Davin	voting lgi?
+20:54	IF534 - Alvin Wilta	gaperlu de gpp kok
+21:53	IF534 - Alvin Wilta	[Photo]
+22:11	IF534 - Alvin Wilta	cuy
+22:11	IF534 - Alvin Wilta	mau demonya kapan?
+22:11	IF373 - Anantha	udh siap semua?
+22:11	IF373 - Anantha	gw harus build apk
+22:11	IF373 - Anantha	btw itu yg login2 tu gmn
+22:11	IF534 - Alvin Wilta	siap ga siap tentuin sih kapannya
+22:11	IF373 - Anantha	udh diintegrasi sm front end yg gw buat apa gmn
+22:11	IF373 - Anantha	11 pagi sabi
+22:11	IF373 - Anantha	jam 10an gt
+22:15	IF534 - Alvin Wilta	10 ada perwalian gww
+22:16	IF534 - Alvin Wilta	jam 1 an gitu gmn?
+22:16	IF373 - Anantha	yauda siang jg bolee
+22:16	IF534 - Alvin Wilta	perwalian di jadwal 10-12
+22:16	IF534 - Alvin Wilta	biar ga bentrok sama makan siang juga
+22:16	IF534 - Alvin Wilta	jam 1 oke ga pada
+22:16	IF534 - Alvin Wilta	@IF516 - Naufal Izza @STI458 - Nadira F @STI526 - Ardhan @IF508 - Jose @IF530 - Kahfi S Z @IF459 - Akeyla @STI493 - Davin @IF431 - Awwala NK 
+22:17	STI458 - Nadira F	okee
+22:17	IF431 - Awwala NK	Sabii2
+22:17	IF459 - Akeyla	besok ya?
+22:18	IF534 - Alvin Wilta	iya besok
+22:18	IF459 - Akeyla	bisa
+22:19	IF534 - Alvin Wilta	EH
+22:19	IF534 - Alvin Wilta	MAAF
+22:19	IF534 - Alvin Wilta	maksudnya tanggal 11
+22:19	IF530 - Kahfi S Z	jam berapa? aku perwalian jam 2 - 3
+22:19	IF530 - Kahfi S Z	tanggal 11
+22:19	IF534 - Alvin Wilta	waduh
+22:19	IF534 - Alvin Wilta	kalo gitu tanggal 10 aja gimana? kayanya 11 pada perwalian?
+22:19	IF534 - Alvin Wilta	deadline demo jam 4 soalnya
+22:20	IF534 - Alvin Wilta	cmiiw
+22:20	IF373 - Anantha	kalo emg gaada yg mo ditambah lg bisa ae si
+22:36	IF530 - Kahfi S Z	Punten, gua juga belum commit apapun. Kalau besok, masih bisa kan.
+22:36	IF530 - Kahfi S Z	?
+22:37	IF508 - Jose	Senin klo bisa jgn jam 1 siang dan jam 8 malam vin
+22:38	IF459 - Akeyla	sama jangan 9-11 pagi juga vin, aku perwalian
+22:38	IF534 - Alvin Wilta	demo katanya cuma nunjukin aja appnya
+22:38	IF534 - Alvin Wilta	jadi harusnya ga lebih dari 15 menit
+22:39	IF534 - Alvin Wilta	max 1 jam
+22:39	IF534 - Alvin Wilta	tanggal 11 jam 3.30 bisa ga?
+22:39	IF534 - Alvin Wilta	soalnya masih banyak yang belum commit juga
+22:40	IF534 - Alvin Wilta	kakaknya bisa tanggal 11 jam 15.30, oke ga pada?
+22:40	IF508 - Jose	Aku oke
+22:40	IF534 - Alvin Wilta	@IF516 - Naufal Izza @STI458 - Nadira F @STI526 - Ardhan @IF508 - Jose @IF373 - Anantha @IF530 - Kahfi S Z @IF459 - Akeyla @STI493 - Davin @IF431 - Awwala NK 
+22:40	IF459 - Akeyla	aku bis
+22:40	STI526 - Ardhan	Bisa
+22:41	IF530 - Kahfi S Z	Aku bisanya 15.45 sih. Gimana?
+22:41	IF534 - Alvin Wilta	perwalianmu bukannya sampe jam 15 ya kafhi?
+22:41	IF534 - Alvin Wilta	kahfi*
+22:41	IF431 - Awwala NK	Aku bisaa vinn
+22:42	IF530 - Kahfi S Z	Oh. Aku ada hal lain gitu, jam 15.20 - 15.40
+22:43	IF534 - Alvin Wilta	jam 4 yah jadinya
+22:45	IF534 - Alvin Wilta	platformnya pake gmeet, nanti gw yang host
+22:46	IF373 - Anantha	nunjukin gimana vin
+22:47	IF373 - Anantha	eh gajadi jam 4 maksimal?
+22:47	IF373 - Anantha	ktnya maksimal jam 4..
+22:47	IF534 - Alvin Wilta	jadi ya gapapa harusnya wkkwkw
+22:47	IF373 - Anantha	coba blg gt dlu vin
+22:47	IF534 - Alvin Wilta	dipresent aja kali
+22:48	IF373 - Anantha	dispek maksimal jam 4
+22:48	IF373 - Anantha	btw demo harus ikut semua?
+22:48	IF534 - Alvin Wilta	yup
+22:50	IF534 - Alvin Wilta	wah
+22:51	IF534 - Alvin Wilta	salah contact gw
+22:51	IF534 - Alvin Wilta	btw deadline -> dilakukan kapan saja sebelum 11 Agustus 2020 21.59
+22:53	IF534 - Alvin Wilta	[Photo]
+22:53	IF534 - Alvin Wilta	ini ya asisten demo kita
+22:53	STI458 - Nadira F	okee
+22:53	IF431 - Awwala NK	Okk2
+23:22	STI493 - Davin	bisa"
+23:24	IF534 - Alvin Wilta	maap2 kakak yg ngeliatin demo kita beda lagi
+23:24	IF534 - Alvin Wilta	jadi belom fix ya
+23:24	IF534 - Alvin Wilta	gw lagi nanyain jam 4, kalo berubah nanti gw kabarin lg
+23:24	IF373 - Anantha	hah gmn
+23:24	IF373 - Anantha	bukan ka junho?
+23:24	IF534 - Alvin Wilta	kak junho, tp itu gw kontak ke kak zunan WKKWKW
+23:25	IF373 - Anantha	astaga WKWK
+23:25	IF534 - Alvin Wilta	maap2 gw lupa kalo beda mentor sama demo
+
+Mon, 8/10/2020
+14:35	IF534 - Alvin Wilta	Jadinya ttp sama ya
+14:35	IF534 - Alvin Wilta	Besok jam 16.00
+14:37	IF373 - Anantha	oke vin
+14:45	IF431 - Awwala NK	Ok2
+21:55	IF534 - Alvin Wilta	@IF373 - Anantha dari tim backend sudah clear yaa, sabi dibuild appnya
+22:58	IF373 - Anantha	udh gw build
+22:58	IF373 - Anantha	gw taroh mana nih
+23:06	IF373 - Anantha	https://drive.google.com/drive/folders/1wzbEAUTQc_DPb15PQLSCvQdBI9K5o7ux?usp=sharing
+23:06	IF373 - Anantha	sok kalo mau coba install
+23:07	IF373 - Anantha	harus sign up email dlu yaa
+23:55	IF534 - Alvin Wilta	Oke makasih nann
