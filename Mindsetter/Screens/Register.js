@@ -78,6 +78,22 @@ export default class App extends Component {
     }
 }
 
+class Register extends Component {
+    componentDidMount() {
+        this.checkIfLoggedIn();
+    }
+
+    checkIfLoggedIn = () => {
+        firebase.auth().onAuthStateChanged(function(user => {
+            if (user) {
+                this.props.navigation.navigate
+                ('LetterOfCommitment');
+            } else {
+                this.props.navigation.navigate('Register');
+            }
+        })
+    }
+}
 
 const styles = StyleSheet.create({
     container: {
