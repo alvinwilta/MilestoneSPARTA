@@ -52,4 +52,5 @@ Cara Menggunakan App:
 4. Pada menu selanjutnya yaitu menu Task, Anda dapat menambahkan task baru atau diary baru sesuai dengan tanggal dan waktunya. (Task bersifat long-term dan progresif)
 5. Pada menu selanjutnya yaitu menu Goals, Anda dapat menambahkan goals Anda, yaitu proyek short term atau sejenis to-do-list.
 6. Pada menu selanjutnya yaitu menu Profile, Anda dapat mengedit bio, menuliskan atau melihat kembali letter of commitment, dan melihat statistik penggunaan aplikasi.
+
 Penggunaan aplikasi ini difokuskan pada fitur melihat materi growth mindset dan fitur login.
