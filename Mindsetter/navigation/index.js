@@ -21,7 +21,7 @@ const screens = createStackNavigator({
     Settings,
     */
 }, {
-    dafaultNavigationOptions: {
+    defaultNavigationOptions: {
         headerStyle: {},
         headerBackImage: <Image />,
         headerBackTitle: null,

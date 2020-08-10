@@ -13,16 +13,24 @@ export default class App extends Component {
     }
 
     SignUpUser = (email, password) =>{
-
         try{
-            if(this.state.password.length < 6){
-                alert("Please enter at least 8 characters")
+            if(password.length < 8){
+                alert("Please use password with at least 8 characters");
                 return;
             }
             firebase.auth().createUserWithEmailAndPassword(email, password)
         }
         catch(error){
-            console.log(error.toString())
+            console.log(error.toString());
+        }
+    }
+
+    valid = (email, password) =>{
+        if( email === "" || email === null || password.length < 8){
+            return false;
+        }
+        else{
+            return true;
         }
     }
 
@@ -48,7 +56,14 @@ export default class App extends Component {
 
                 <TouchableOpacity style={styles.button}
                                   onPress={() => {this.SignUpUser(this.state.email, this.state.password);
-                                  this.props.navigation.navigate('Commitment')}}>
+                                      if(this.valid(this.state.email, this.state.password)){
+                                          this.props.navigation.navigate('Commitment');
+                                      }
+                                      else{
+                                          alert("Please recheck your inputs");
+                                      }
+                                  }}
+                >
                     <Text style={styles.btntext}>Sign up</Text>
                 </TouchableOpacity>
 
