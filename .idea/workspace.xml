@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="542cee21-ac9f-4b51-a6d1-534c90fe41f0" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/Mindsetter/Screens/Register.js" beforeDir="false" afterPath="$PROJECT_DIR$/Mindsetter/Screens/Register.js" afterDir="false" />
-    </list>
+    <list default="true" id="542cee21-ac9f-4b51-a6d1-534c90fe41f0" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -66,12 +64,23 @@
       <option name="presentableId" value="Default" />
       <updated>1597040087927</updated>
       <workItem from="1597041154342" duration="466000" />
-      <workItem from="1597041652943" duration="8054000" />
+      <workItem from="1597041652943" duration="9021000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="WindowStateProjectService">
     <state width="1237" height="176" key="GridCell.Tab.0.bottom" timestamp="1597046826331">
